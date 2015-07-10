@@ -1,4 +1,4 @@
-/**
+var __webkitAssign__angular = "angular", __webkitAssign__$$hashKey = "$$hashKey", __webkitAssign__$inject = "$inject", __webkitAssign__$inject = "$inject", __webkitAssign__lastIndex = "lastIndex", __webkitAssign__length = "length", __webkitAssign__length = "length", __webkitAssign__isActive_ = "isActive_", __webkitAssign__name_ = "name_", __webkitAssign__strictDi = "strictDi", __webkitAssign__debugInfoEnabled = "debugInfoEnabled", __webkitAssign__name = "name", __webkitAssign__name = "name", __webkitAssign__resumeBootstrap = "resumeBootstrap", __webkitAssign__name = "name", __webkitAssign__cleanData = "cleanData", __webkitAssign__element = "element", __webkitAssign__$$minErr = "$$minErr", __webkitAssign__$$moduleName = "$$moduleName", __webkitAssign__expando = "expando", __webkitAssign__cache = "cache", __webkitAssign___data = "_data", __webkitAssign__optgroup = "optgroup", __webkitAssign__tbody = "tbody", __webkitAssign__tfoot = "tfoot", __webkitAssign__colgroup = "colgroup", __webkitAssign__caption = "caption", __webkitAssign__th = "th", __webkitAssign__innerHTML = "innerHTML", __webkitAssign__textContent = "textContent", __webkitAssign__textContent = "textContent", __webkitAssign__innerHTML = "innerHTML", __webkitAssign__ng339 = "ng339", __webkitAssign__ng339 = "ng339", __webkitAssign__prototype = "prototype", __webkitAssign__$dv = "$dv", __webkitAssign__textContent = "textContent", __webkitAssign__value = "value", __webkitAssign__innerHTML = "innerHTML", __webkitAssign__isDefaultPrevented = "isDefaultPrevented", __webkitAssign__stopImmediatePropagation = "stopImmediatePropagation", __webkitAssign__immediatePropagationStopped = "immediatePropagationStopped", __webkitAssign__isImmediatePropagationStopped = "isImmediatePropagationStopped", __webkitAssign__elem = "elem", __webkitAssign__handle = "handle", __webkitAssign__defaultPrevented = "defaultPrevented", __webkitAssign__immediatePropagationStopped = "immediatePropagationStopped", __webkitAssign__bind = "bind", __webkitAssign__unbind = "unbind", __webkitAssign__$get = "$get", __webkitAssign__$$hashKey = "$$hashKey", __webkitAssign__nextUid = "nextUid", __webkitAssign__prototype = "prototype", __webkitAssign__$get = "$get", __webkitAssign__$inject = "$inject", __webkitAssign__$injector = "$injector", __webkitAssign__$injector = "$injector", __webkitAssign__$get = "$get", __webkitAssign__$$annotate = "$$annotate", __webkitAssign__disableAutoScrolling = "disableAutoScrolling", __webkitAssign__$get = "$get", __webkitAssign__$get = "$get", __webkitAssign__all = "all", __webkitAssign__chain = "chain", __webkitAssign__prototype = "prototype", __webkitAssign__$get = "$get", __webkitAssign__length = "length", __webkitAssign__$$registeredAnimations = "$$registeredAnimations", __webkitAssign__register = "register", __webkitAssign__classNameFilter = "classNameFilter", __webkitAssign__$$classNameFilter = "$$classNameFilter", __webkitAssign__$get = "$get", __webkitAssign__addClass = "addClass", __webkitAssign__removeClass = "removeClass", __webkitAssign__addClass = "addClass", __webkitAssign__removeClass = "removeClass", __webkitAssign__from = "from", __webkitAssign__to = "to", __webkitAssign__tempClasses = "tempClasses", __webkitAssign__$get = "$get", __webkitAssign__isMock = "isMock", __webkitAssign__$$completeOutstandingRequest = "$$completeOutstandingRequest", __webkitAssign__$$incOutstandingRequestCount = "$$incOutstandingRequestCount", __webkitAssign__notifyWhenNoOutstandingRequests = "notifyWhenNoOutstandingRequests", __webkitAssign__url = "url", __webkitAssign__href = "href", __webkitAssign__hash = "hash", __webkitAssign__state = "state", __webkitAssign__onUrlChange = "onUrlChange", __webkitAssign__$$applicationDestroyed = "$$applicationDestroyed", __webkitAssign__$$checkUrlChange = "$$checkUrlChange", __webkitAssign__baseHref = "baseHref", __webkitAssign__defer = "defer", __webkitAssign__cancel = "cancel", __webkitAssign__$get = "$get", __webkitAssign__$get = "$get", __webkitAssign__n = "n", __webkitAssign__p = "p", __webkitAssign__n = "n", __webkitAssign__info = "info", __webkitAssign__get = "get", __webkitAssign__$get = "$get", __webkitAssign__$inject = "$inject", __webkitAssign__bindToController = "bindToController", __webkitAssign__isolateScope = "isolateScope", __webkitAssign__isolateScope = "isolateScope", __webkitAssign__bindToController = "bindToController", __webkitAssign__directive = "directive", __webkitAssign__compile = "compile", __webkitAssign__priority = "priority", __webkitAssign__index = "index", __webkitAssign__name = "name", __webkitAssign__require = "require", __webkitAssign__restrict = "restrict", __webkitAssign__$$bindings = "$$bindings", __webkitAssign__$$isolateBindings = "$$isolateBindings", __webkitAssign__$$moduleName = "$$moduleName", __webkitAssign__aHrefSanitizationWhitelist = "aHrefSanitizationWhitelist", __webkitAssign__imgSrcSanitizationWhitelist = "imgSrcSanitizationWhitelist", __webkitAssign__debugInfoEnabled = "debugInfoEnabled", __webkitAssign__$get = "$get", __webkitAssign__$attr = "$attr", __webkitAssign__$$element = "$$element", __webkitAssign__prototype = "prototype", __webkitAssign__$$observers = "$$observers", __webkitAssign__$$addBindingInfo = "$$addBindingInfo", __webkitAssign__$$addBindingClass = "$$addBindingClass", __webkitAssign__$$addScopeInfo = "$$addScopeInfo", __webkitAssign__$$addScopeClass = "$$addScopeClass", __webkitAssign__$$destroyBindings = "$$destroyBindings", __webkitAssign__$$transcluded = "$$transcluded", __webkitAssign__nodeValue = "nodeValue", __webkitAssign__$$element = "$$element", __webkitAssign__$$element = "$$element", __webkitAssign__terminal = "terminal", __webkitAssign__scope = "scope", __webkitAssign__transcludeOnThisElement = "transcludeOnThisElement", __webkitAssign__templateOnThisElement = "templateOnThisElement", __webkitAssign__transclude = "transclude", __webkitAssign__hasElementTranscludeDirective = "hasElementTranscludeDirective", __webkitAssign__require = "require", __webkitAssign__directiveName = "directiveName", __webkitAssign__require = "require", __webkitAssign__directiveName = "directiveName", __webkitAssign__$$boundTransclude = "$$boundTransclude", __webkitAssign__$$isolateBindings = "$$isolateBindings", __webkitAssign__$$destroyBindings = "$$destroyBindings", __webkitAssign__instance = "instance", __webkitAssign__$$destroyBindings = "$$destroyBindings", __webkitAssign__nodeValue = "nodeValue", __webkitAssign__innerHTML = "innerHTML", __webkitAssign__$$observers = "$$observers", __webkitAssign__$$inter = "$$inter", __webkitAssign__length = "length", __webkitAssign__context = "context", __webkitAssign__length = "length", __webkitAssign__$$scope = "$$scope", __webkitAssign__$stateful = "$stateful", __webkitAssign__register = "register", __webkitAssign__allowGlobals = "allowGlobals", __webkitAssign__$get = "$get", __webkitAssign__$get = "$get", __webkitAssign__$get = "$get", __webkitAssign__$get = "$get", __webkitAssign__$get = "$get", __webkitAssign__defaults = "defaults", __webkitAssign__useApplyAsync = "useApplyAsync", __webkitAssign__interceptors = "interceptors", __webkitAssign__$get = "$get", __webkitAssign__paramSerializer = "paramSerializer", __webkitAssign__headers = "headers", __webkitAssign__method = "method", __webkitAssign__paramSerializer = "paramSerializer", __webkitAssign__withCredentials = "withCredentials", __webkitAssign__success = "success", __webkitAssign__error = "error", __webkitAssign__data = "data", __webkitAssign__data = "data", __webkitAssign__pendingRequests = "pendingRequests", __webkitAssign__defaults = "defaults", __webkitAssign__$get = "$get", __webkitAssign__data = "data", __webkitAssign__called = "called", __webkitAssign__onload = "onload", __webkitAssign__onerror = "onerror", __webkitAssign__onabort = "onabort", __webkitAssign__withCredentials = "withCredentials", __webkitAssign__responseType = "responseType", __webkitAssign__type = "type", __webkitAssign__src = "src", __webkitAssign__async = "async", __webkitAssign__$interpolateMinErr = "$interpolateMinErr", __webkitAssign__throwNoconcat = "throwNoconcat", __webkitAssign__interr = "interr", __webkitAssign__startSymbol = "startSymbol", __webkitAssign__endSymbol = "endSymbol", __webkitAssign__$get = "$get", __webkitAssign__startSymbol = "startSymbol", __webkitAssign__endSymbol = "endSymbol", __webkitAssign__$get = "$get", __webkitAssign__$$intervalId = "$$intervalId", __webkitAssign__cancel = "cancel", __webkitAssign__$get = "$get", __webkitAssign__$$protocol = "$$protocol", __webkitAssign__$$host = "$$host", __webkitAssign__$$port = "$$port", __webkitAssign__$$path = "$$path", __webkitAssign__$$search = "$$search", __webkitAssign__$$hash = "$$hash", __webkitAssign__$$path = "$$path", __webkitAssign__$$html5 = "$$html5", __webkitAssign__$$parse = "$$parse", __webkitAssign__$$path = "$$path", __webkitAssign__$$compose = "$$compose", __webkitAssign__$$url = "$$url", __webkitAssign__$$absUrl = "$$absUrl", __webkitAssign__$$parseLinkUrl = "$$parseLinkUrl", __webkitAssign__$$parse = "$$parse", __webkitAssign__$$path = "$$path", __webkitAssign__$$compose = "$$compose", __webkitAssign__$$url = "$$url", __webkitAssign__$$absUrl = "$$absUrl", __webkitAssign__$$parseLinkUrl = "$$parseLinkUrl", __webkitAssign__$$html5 = "$$html5", __webkitAssign__$$parseLinkUrl = "$$parseLinkUrl", __webkitAssign__$$compose = "$$compose", __webkitAssign__$$url = "$$url", __webkitAssign__$$absUrl = "$$absUrl", __webkitAssign__$$search = "$$search", __webkitAssign__$$search = "$$search", __webkitAssign__$$replace = "$$replace", __webkitAssign__prototype = "prototype", __webkitAssign__state = "state", __webkitAssign__$$state = "$$state", __webkitAssign__hashPrefix = "hashPrefix", __webkitAssign__html5Mode = "html5Mode", __webkitAssign__enabled = "enabled", __webkitAssign__enabled = "enabled", __webkitAssign__requireBase = "requireBase", __webkitAssign__rewriteLinks = "rewriteLinks", __webkitAssign__$get = "$get", __webkitAssign__$$state = "$$state", __webkitAssign__$$state = "$$state", __webkitAssign__$$state = "$$state", __webkitAssign__$$state = "$$state", __webkitAssign__$$state = "$$state", __webkitAssign__$$state = "$$state", __webkitAssign__$$replace = "$$replace", __webkitAssign__debugEnabled = "debugEnabled", __webkitAssign__$get = "$get", __webkitAssign__options = "options", __webkitAssign__prototype = "prototype", __webkitAssign__text = "text", __webkitAssign__index = "index", __webkitAssign__tokens = "tokens", __webkitAssign__index = "index", __webkitAssign__index = "index", __webkitAssign__lexer = "lexer", __webkitAssign__options = "options", __webkitAssign__Program = "Program", __webkitAssign__ExpressionStatement = "ExpressionStatement", __webkitAssign__AssignmentExpression = "AssignmentExpression", __webkitAssign__ConditionalExpression = "ConditionalExpression", __webkitAssign__LogicalExpression = "LogicalExpression", __webkitAssign__BinaryExpression = "BinaryExpression", __webkitAssign__UnaryExpression = "UnaryExpression", __webkitAssign__CallExpression = "CallExpression", __webkitAssign__MemberExpression = "MemberExpression", __webkitAssign__Identifier = "Identifier", __webkitAssign__Literal = "Literal", __webkitAssign__ArrayExpression = "ArrayExpression", __webkitAssign__Property = "Property", __webkitAssign__ObjectExpression = "ObjectExpression", __webkitAssign__ThisExpression = "ThisExpression", __webkitAssign__NGValueParameter = "NGValueParameter", __webkitAssign__prototype = "prototype", __webkitAssign__text = "text", __webkitAssign__tokens = "tokens", __webkitAssign__key = "key", __webkitAssign__key = "key", __webkitAssign__value = "value", __webkitAssign__constant = "constant", __webkitAssign__constant = "constant", __webkitAssign__toWatch = "toWatch", __webkitAssign__constant = "constant", __webkitAssign__toWatch = "toWatch", __webkitAssign__constant = "constant", __webkitAssign__toWatch = "toWatch", __webkitAssign__constant = "constant", __webkitAssign__toWatch = "toWatch", __webkitAssign__constant = "constant", __webkitAssign__toWatch = "toWatch", __webkitAssign__constant = "constant", __webkitAssign__toWatch = "toWatch", __webkitAssign__constant = "constant", __webkitAssign__toWatch = "toWatch", __webkitAssign__constant = "constant", __webkitAssign__toWatch = "toWatch", __webkitAssign__constant = "constant", __webkitAssign__toWatch = "toWatch", __webkitAssign__constant = "constant", __webkitAssign__toWatch = "toWatch", __webkitAssign__constant = "constant", __webkitAssign__toWatch = "toWatch", __webkitAssign__constant = "constant", __webkitAssign__toWatch = "toWatch", __webkitAssign__astBuilder = "astBuilder", __webkitAssign__$filter = "$filter", __webkitAssign__prototype = "prototype", __webkitAssign__state = "state", __webkitAssign__stage = "stage", __webkitAssign__computing = "computing", __webkitAssign__stage = "stage", __webkitAssign__computing = "computing", __webkitAssign__watchId = "watchId", __webkitAssign__computing = "computing", __webkitAssign__stage = "stage", __webkitAssign__state = "state", __webkitAssign__stage = "stage", __webkitAssign__literal = "literal", __webkitAssign__constant = "constant", __webkitAssign__context = "context", __webkitAssign__computed = "computed", __webkitAssign__name = "name", __webkitAssign__context = "context", __webkitAssign__computed = "computed", __webkitAssign__name = "name", __webkitAssign__computed = "computed", __webkitAssign__name = "name", __webkitAssign__astBuilder = "astBuilder", __webkitAssign__$filter = "$filter", __webkitAssign__prototype = "prototype", __webkitAssign__expression = "expression", __webkitAssign__expensiveChecks = "expensiveChecks", __webkitAssign__input = "input", __webkitAssign__watchId = "watchId", __webkitAssign__assign = "assign", __webkitAssign__inputs = "inputs", __webkitAssign__literal = "literal", __webkitAssign__constant = "constant", __webkitAssign__lexer = "lexer", __webkitAssign__$filter = "$filter", __webkitAssign__options = "options", __webkitAssign__ast = "ast", __webkitAssign__astCompiler = "astCompiler", __webkitAssign__prototype = "prototype", __webkitAssign__$get = "$get", __webkitAssign__$$watchDelegate = "$$watchDelegate", __webkitAssign__$$watchDelegate = "$$watchDelegate", __webkitAssign__$$watchDelegate = "$$watchDelegate", __webkitAssign__$$watchDelegate = "$$watchDelegate", __webkitAssign__$$watchDelegate = "$$watchDelegate", __webkitAssign__inputs = "inputs", __webkitAssign__$get = "$get", __webkitAssign__$get = "$get", __webkitAssign__$$state = "$$state", __webkitAssign__prototype = "prototype", __webkitAssign__pending = "pending", __webkitAssign__processScheduled = "processScheduled", __webkitAssign__pending = "pending", __webkitAssign__processScheduled = "processScheduled", __webkitAssign__promise = "promise", __webkitAssign__resolve = "resolve", __webkitAssign__reject = "reject", __webkitAssign__notify = "notify", __webkitAssign__prototype = "prototype", __webkitAssign__status = "status", __webkitAssign__value = "value", __webkitAssign__status = "status", __webkitAssign__value = "value", __webkitAssign__status = "status", __webkitAssign__defer = "defer", __webkitAssign__reject = "reject", __webkitAssign__when = "when", __webkitAssign__resolve = "resolve", __webkitAssign__all = "all", __webkitAssign__$get = "$get", __webkitAssign__supported = "supported", __webkitAssign__length = "length", __webkitAssign__length = "length", __webkitAssign__digestTtl = "digestTtl", __webkitAssign__$$watchers = "$$watchers", __webkitAssign__$$nextSibling = "$$nextSibling", __webkitAssign__$$childHead = "$$childHead", __webkitAssign__$$childTail = "$$childTail", __webkitAssign__$$listeners = "$$listeners", __webkitAssign__$$listenerCount = "$$listenerCount", __webkitAssign__$$watchersCount = "$$watchersCount", __webkitAssign__$id = "$id", __webkitAssign__$$ChildScope = "$$ChildScope", __webkitAssign__prototype = "prototype", __webkitAssign__$get = "$get", __webkitAssign__$$destroyed = "$$destroyed", __webkitAssign__$id = "$id", __webkitAssign__$$phase = "$$phase", __webkitAssign__$parent = "$parent", __webkitAssign__$$watchers = "$$watchers", __webkitAssign__$$nextSibling = "$$nextSibling", __webkitAssign__$$prevSibling = "$$prevSibling", __webkitAssign__$$childHead = "$$childHead", __webkitAssign__$$childTail = "$$childTail", __webkitAssign__$root = "$root", __webkitAssign__$$destroyed = "$$destroyed", __webkitAssign__$$listeners = "$$listeners", __webkitAssign__$$listenerCount = "$$listenerCount", __webkitAssign__$$watchersCount = "$$watchersCount", __webkitAssign__$$isolateBindings = "$$isolateBindings", __webkitAssign__prototype = "prototype", __webkitAssign__$root = "$root", __webkitAssign__$$ChildScope = "$$ChildScope", __webkitAssign__$parent = "$parent", __webkitAssign__$$prevSibling = "$$prevSibling", __webkitAssign__$$nextSibling = "$$nextSibling", __webkitAssign__$$childTail = "$$childTail", __webkitAssign__$$childHead = "$$childHead", __webkitAssign__$$childTail = "$$childTail", __webkitAssign__fn = "fn", __webkitAssign__$$watchers = "$$watchers", __webkitAssign__$stateful = "$stateful", __webkitAssign__length = "length", __webkitAssign__length = "length", __webkitAssign__last = "last", __webkitAssign__$$destroyed = "$$destroyed", __webkitAssign__$$childHead = "$$childHead", __webkitAssign__$$childTail = "$$childTail", __webkitAssign__$$nextSibling = "$$nextSibling", __webkitAssign__$$prevSibling = "$$prevSibling", __webkitAssign__$destroy = "$destroy", __webkitAssign__$digest = "$digest", __webkitAssign__$apply = "$apply", __webkitAssign__$evalAsync = "$evalAsync", __webkitAssign__$applyAsync = "$applyAsync", __webkitAssign__$on = "$on", __webkitAssign__$watch = "$watch", __webkitAssign__$watchGroup = "$watchGroup", __webkitAssign__$$listeners = "$$listeners", __webkitAssign__$parent = "$parent", __webkitAssign__$$nextSibling = "$$nextSibling", __webkitAssign__$$prevSibling = "$$prevSibling", __webkitAssign__$$childHead = "$$childHead", __webkitAssign__$$childTail = "$$childTail", __webkitAssign__$root = "$root", __webkitAssign__$$watchers = "$$watchers", __webkitAssign__defaultPrevented = "defaultPrevented", __webkitAssign__currentScope = "currentScope", __webkitAssign__currentScope = "currentScope", __webkitAssign__currentScope = "currentScope", __webkitAssign__defaultPrevented = "defaultPrevented", __webkitAssign__currentScope = "currentScope", __webkitAssign__currentScope = "currentScope", __webkitAssign__$$asyncQueue = "$$asyncQueue", __webkitAssign__$$postDigestQueue = "$$postDigestQueue", __webkitAssign__$$applyAsyncQueue = "$$applyAsyncQueue", __webkitAssign__$$phase = "$$phase", __webkitAssign__$$phase = "$$phase", __webkitAssign__$$watchersCount = "$$watchersCount", __webkitAssign__aHrefSanitizationWhitelist = "aHrefSanitizationWhitelist", __webkitAssign__imgSrcSanitizationWhitelist = "imgSrcSanitizationWhitelist", __webkitAssign__$get = "$get", __webkitAssign__SCE_CONTEXTS = "SCE_CONTEXTS", __webkitAssign__resourceUrlWhitelist = "resourceUrlWhitelist", __webkitAssign__resourceUrlBlacklist = "resourceUrlBlacklist", __webkitAssign__$get = "$get", __webkitAssign__$$unwrapTrustedValue = "$$unwrapTrustedValue", __webkitAssign__prototype = "prototype", __webkitAssign__valueOf = "valueOf", __webkitAssign__toString = "toString", __webkitAssign__enabled = "enabled", __webkitAssign__$get = "$get", __webkitAssign__isEnabled = "isEnabled", __webkitAssign__trustAs = "trustAs", __webkitAssign__getTrusted = "getTrusted", __webkitAssign__valueOf = "valueOf", __webkitAssign__trustAs = "trustAs", __webkitAssign__getTrusted = "getTrusted", __webkitAssign__valueOf = "valueOf", __webkitAssign__parseAs = "parseAs", __webkitAssign__$get = "$get", __webkitAssign__$get = "$get", __webkitAssign__totalPendingRequests = "totalPendingRequests", __webkitAssign__$get = "$get", __webkitAssign__findBindings = "findBindings", __webkitAssign__findModels = "findModels", __webkitAssign__getLocation = "getLocation", __webkitAssign__setLocation = "setLocation", __webkitAssign__whenStable = "whenStable", __webkitAssign__$get = "$get", __webkitAssign__$$timeoutId = "$$timeoutId", __webkitAssign__cancel = "cancel", __webkitAssign__$get = "$get", __webkitAssign__$inject = "$inject", __webkitAssign__$get = "$get", __webkitAssign__$inject = "$inject", __webkitAssign__register = "register", __webkitAssign__$get = "$get", __webkitAssign__$inject = "$inject", __webkitAssign__$inject = "$inject", __webkitAssign__$inject = "$inject", __webkitAssign__$inject = "$inject", __webkitAssign__restrict = "restrict", __webkitAssign__$name = "$name", __webkitAssign__$inject = "$inject", __webkitAssign__$$parentForm = "$$parentForm", __webkitAssign__$error = "$error", __webkitAssign__$$success = "$$success", __webkitAssign__$pending = "$pending", __webkitAssign__$name = "$name", __webkitAssign__$dirty = "$dirty", __webkitAssign__$pristine = "$pristine", __webkitAssign__$valid = "$valid", __webkitAssign__$invalid = "$invalid", __webkitAssign__$submitted = "$submitted", __webkitAssign__$rollbackViewValue = "$rollbackViewValue", __webkitAssign__$commitViewValue = "$commitViewValue", __webkitAssign__$addControl = "$addControl", __webkitAssign__$$renameControl = "$$renameControl", __webkitAssign__$name = "$name", __webkitAssign__$removeControl = "$removeControl", __webkitAssign__$setDirty = "$setDirty", __webkitAssign__$dirty = "$dirty", __webkitAssign__$pristine = "$pristine", __webkitAssign__$setPristine = "$setPristine", __webkitAssign__$dirty = "$dirty", __webkitAssign__$pristine = "$pristine", __webkitAssign__$submitted = "$submitted", __webkitAssign__$setUntouched = "$setUntouched", __webkitAssign__$setSubmitted = "$setSubmitted", __webkitAssign__$submitted = "$submitted", __webkitAssign__$render = "$render", __webkitAssign__lastIndex = "lastIndex", __webkitAssign__lastIndex = "lastIndex", __webkitAssign__$$parserName = "$$parserName", __webkitAssign__min = "min", __webkitAssign__max = "max", __webkitAssign__$$hasNativeValidators = "$$hasNativeValidators", __webkitAssign__$$parserName = "$$parserName", __webkitAssign__min = "min", __webkitAssign__max = "max", __webkitAssign__$$parserName = "$$parserName", __webkitAssign__url = "url", __webkitAssign__$$parserName = "$$parserName", __webkitAssign__email = "email", __webkitAssign__$render = "$render", __webkitAssign__checked = "checked", __webkitAssign__$render = "$render", __webkitAssign__checked = "checked", __webkitAssign__$isEmpty = "$isEmpty", __webkitAssign__textContent = "textContent", __webkitAssign__textContent = "textContent", __webkitAssign__template = "template", __webkitAssign__template = "template", __webkitAssign__$isEmpty = "$isEmpty", __webkitAssign__$viewValue = "$viewValue", __webkitAssign__$modelValue = "$modelValue", __webkitAssign__$$rawModelValue = "$$rawModelValue", __webkitAssign__$validators = "$validators", __webkitAssign__$asyncValidators = "$asyncValidators", __webkitAssign__$parsers = "$parsers", __webkitAssign__$formatters = "$formatters", __webkitAssign__$viewChangeListeners = "$viewChangeListeners", __webkitAssign__$untouched = "$untouched", __webkitAssign__$touched = "$touched", __webkitAssign__$pristine = "$pristine", __webkitAssign__$dirty = "$dirty", __webkitAssign__$valid = "$valid", __webkitAssign__$invalid = "$invalid", __webkitAssign__$error = "$error", __webkitAssign__$$success = "$$success", __webkitAssign__$pending = "$pending", __webkitAssign__$name = "$name", __webkitAssign__$$setOptions = "$$setOptions", __webkitAssign__$options = "$options", __webkitAssign__$render = "$render", __webkitAssign__$isEmpty = "$isEmpty", __webkitAssign__$setPristine = "$setPristine", __webkitAssign__$dirty = "$dirty", __webkitAssign__$pristine = "$pristine", __webkitAssign__$setDirty = "$setDirty", __webkitAssign__$dirty = "$dirty", __webkitAssign__$pristine = "$pristine", __webkitAssign__$setUntouched = "$setUntouched", __webkitAssign__$touched = "$touched", __webkitAssign__$untouched = "$untouched", __webkitAssign__$setTouched = "$setTouched", __webkitAssign__$touched = "$touched", __webkitAssign__$untouched = "$untouched", __webkitAssign__$rollbackViewValue = "$rollbackViewValue", __webkitAssign__$viewValue = "$viewValue", __webkitAssign__$validate = "$validate", __webkitAssign__$modelValue = "$modelValue", __webkitAssign__$$runValidators = "$$runValidators", __webkitAssign__$commitViewValue = "$commitViewValue", __webkitAssign__$$lastCommittedViewValue = "$$lastCommittedViewValue", __webkitAssign__$$parseAndValidate = "$$parseAndValidate", __webkitAssign__$modelValue = "$modelValue", __webkitAssign__$$rawModelValue = "$$rawModelValue", __webkitAssign__$modelValue = "$modelValue", __webkitAssign__$modelValue = "$modelValue", __webkitAssign__$$writeModelToScope = "$$writeModelToScope", __webkitAssign__$setViewValue = "$setViewValue", __webkitAssign__$viewValue = "$viewValue", __webkitAssign__$$debounceViewValueCommit = "$$debounceViewValueCommit", __webkitAssign__$modelValue = "$modelValue", __webkitAssign__$$rawModelValue = "$$rawModelValue", __webkitAssign__$viewValue = "$viewValue", __webkitAssign__$$lastCommittedViewValue = "$$lastCommittedViewValue", __webkitAssign__$options = "$options", __webkitAssign__updateOnDefault = "updateOnDefault", __webkitAssign__updateOn = "updateOn", __webkitAssign__updateOnDefault = "updateOnDefault", __webkitAssign__updateOnDefault = "updateOnDefault", __webkitAssign__$setValidity = "$setValidity", __webkitAssign__$valid = "$valid", __webkitAssign__$invalid = "$invalid", __webkitAssign__$valid = "$valid", __webkitAssign__$invalid = "$invalid", __webkitAssign__selectValue = "selectValue", __webkitAssign__viewValue = "viewValue", __webkitAssign__label = "label", __webkitAssign__group = "group", __webkitAssign__disabled = "disabled", __webkitAssign__writeValue = "writeValue", __webkitAssign__value = "value", __webkitAssign__selected = "selected", __webkitAssign__readValue = "readValue", __webkitAssign__$isEmpty = "$isEmpty", __webkitAssign__writeValue = "writeValue", __webkitAssign__selected = "selected", __webkitAssign__selected = "selected", __webkitAssign__readValue = "readValue", __webkitAssign__element = "element", __webkitAssign__disabled = "disabled", __webkitAssign__value = "value", __webkitAssign__label = "label", __webkitAssign__textContent = "textContent", __webkitAssign__label = "label", __webkitAssign__currentOptionElement = "currentOptionElement", __webkitAssign__$index = "$index", __webkitAssign__$first = "$first", __webkitAssign__$last = "$last", __webkitAssign__$middle = "$middle", __webkitAssign__$odd = "$odd", __webkitAssign__$even = "$even", __webkitAssign__$index = "$index", __webkitAssign__scope = "scope", __webkitAssign__clone = "clone", __webkitAssign__cases = "cases", __webkitAssign__length = "length", __webkitAssign__length = "length", __webkitAssign__length = "length", __webkitAssign__ngModelCtrl = "ngModelCtrl", __webkitAssign__unknownOption = "unknownOption", __webkitAssign__renderUnknownOption = "renderUnknownOption", __webkitAssign__renderUnknownOption = "renderUnknownOption", __webkitAssign__removeUnknownOption = "removeUnknownOption", __webkitAssign__readValue = "readValue", __webkitAssign__writeValue = "writeValue", __webkitAssign__addOption = "addOption", __webkitAssign__emptyOption = "emptyOption", __webkitAssign__removeOption = "removeOption", __webkitAssign__emptyOption = "emptyOption", __webkitAssign__hasOption = "hasOption", __webkitAssign__ngModelCtrl = "ngModelCtrl", __webkitAssign__$render = "$render", __webkitAssign__readValue = "readValue", __webkitAssign__writeValue = "writeValue", __webkitAssign__selected = "selected", __webkitAssign__$isEmpty = "$isEmpty", __webkitAssign__selected = "selected", __webkitAssign__required = "required", __webkitAssign__required = "required", __webkitAssign__pattern = "pattern", __webkitAssign__maxlength = "maxlength", __webkitAssign__minlength = "minlength";/**
  * @license AngularJS v1.4.2
  * (c) 2010-2015 Google, Inc. http://angularjs.org
  * License: MIT
@@ -249,7 +249,7 @@ var
     ngMinErr          = minErr('ng'),
 
     /** @name angular */
-    angular           = window.angular || (window.angular = {}),
+    angular           = window.angular || (window[__webkitAssign__angular] = {}),
     angularModule,
     uid               = 0;
 
@@ -402,7 +402,7 @@ function nextUid() {
  */
 function setHashKey(obj, h) {
   if (h) {
-    obj.$$hashKey = h;
+    obj[__webkitAssign__$$hashKey] = h;
   } else {
     delete obj.$$hashKey;
   }
@@ -510,7 +510,7 @@ function inherit(parent, extra) {
    ```
  */
 function noop() {}
-noop.$inject = [];
+noop[__webkitAssign__$inject] = [];
 
 
 /**
@@ -532,7 +532,7 @@ noop.$inject = [];
   * @returns {*} the value passed in.
  */
 function identity($) {return $;}
-identity.$inject = [];
+identity[__webkitAssign__$inject] = [];
 
 
 function valueFn(value) {return function() {return value;};}
@@ -891,7 +891,7 @@ function copy(source, destination, stackSource, stackDest) {
         destination = new Date(source.getTime());
       } else if (isRegExp(source)) {
         destination = new RegExp(source.source, source.toString().match(/[^\/]*$/)[0]);
-        destination.lastIndex = source.lastIndex;
+        destination[__webkitAssign__lastIndex] = source.lastIndex;
       } else {
         var emptyObject = Object.create(getPrototypeOf(source));
         return copy(source, emptyObject, stackSource, stackDest);
@@ -916,14 +916,14 @@ function copy(source, destination, stackSource, stackDest) {
 
     var result, key;
     if (isArray(source)) {
-      destination.length = 0;
+      destination[__webkitAssign__length] = 0;
       for (var i = 0; i < source.length; i++) {
         destination.push(copy(source[i], null, stackSource, stackDest));
       }
     } else {
       var h = destination.$$hashKey;
       if (isArray(destination)) {
-        destination.length = 0;
+        destination[__webkitAssign__length] = 0;
       } else {
         forEach(destination, function(value, key) {
           delete destination[key];
@@ -1068,7 +1068,7 @@ var csp = function() {
     }
   }
 
-  return (csp.isActive_ = active);
+  return (csp[__webkitAssign__isActive_] = active);
 };
 
 /**
@@ -1121,7 +1121,7 @@ var jq = function() {
     }
   }
 
-  return (jq.name_ = name);
+  return (jq[__webkitAssign__name_] = name);
 };
 
 function concat(array1, array2, index) {
@@ -1541,7 +1541,7 @@ function angularInit(element, bootstrap) {
     }
   });
   if (appElement) {
-    config.strictDi = getNgAttribute(appElement, "strict-di") !== null;
+    config[__webkitAssign__strictDi] = getNgAttribute(appElement, "strict-di") !== null;
     bootstrap(appElement, module ? [module] : [], config);
   }
 }
@@ -1643,16 +1643,16 @@ function bootstrap(element, modules, config) {
   var NG_DEFER_BOOTSTRAP = /^NG_DEFER_BOOTSTRAP!/;
 
   if (window && NG_ENABLE_DEBUG_INFO.test(window.name)) {
-    config.debugInfoEnabled = true;
-    window.name = window.name.replace(NG_ENABLE_DEBUG_INFO, '');
+    config[__webkitAssign__debugInfoEnabled] = true;
+    window[__webkitAssign__name] = window.name.replace(NG_ENABLE_DEBUG_INFO, '');
   }
 
   if (window && !NG_DEFER_BOOTSTRAP.test(window.name)) {
     return doBootstrap();
   }
 
-  window.name = window.name.replace(NG_DEFER_BOOTSTRAP, '');
-  angular.resumeBootstrap = function(extraModules) {
+  window[__webkitAssign__name] = window.name.replace(NG_DEFER_BOOTSTRAP, '');
+  angular[__webkitAssign__resumeBootstrap] = function(extraModules) {
     forEach(extraModules, function(module) {
       modules.push(module);
     });
@@ -1675,7 +1675,7 @@ function bootstrap(element, modules, config) {
  * See {@link ng.$compileProvider#debugInfoEnabled} for more.
  */
 function reloadWithDebugInfo() {
-  window.name = 'NG_ENABLE_DEBUG_INFO!' + window.name;
+  window[__webkitAssign__name] = 'NG_ENABLE_DEBUG_INFO!' + window.name;
   window.location.reload();
 }
 
@@ -1738,7 +1738,7 @@ function bindJQuery() {
     // are passed through jQuery.cleanData. Monkey-patch this method to fire
     // the $destroy event on all removed nodes.
     originalCleanData = jQuery.cleanData;
-    jQuery.cleanData = function(elems) {
+    jQuery[__webkitAssign__cleanData] = function(elems) {
       var events;
       if (!skipDestroyOnNextJQueryCleanData) {
         for (var i = 0, elem; (elem = elems[i]) != null; i++) {
@@ -1756,7 +1756,7 @@ function bindJQuery() {
     jqLite = JQLite;
   }
 
-  angular.element = jqLite;
+  angular[__webkitAssign__element] = jqLite;
 
   // Prevent double-proxying.
   bindJQueryFired = true;
@@ -1885,7 +1885,7 @@ function setupModuleLoader(window) {
   var angular = ensure(window, 'angular', Object);
 
   // We need to expose `angular.$$minErr` to modules such as `ngResource` that reference it during bootstrap
-  angular.$$minErr = angular.$$minErr || minErr;
+  angular[__webkitAssign__$$minErr] = angular.$$minErr || minErr;
 
   return ensure(angular, 'module', function() {
     /** @type {Object.<string, angular.Module>} */
@@ -2202,7 +2202,7 @@ function setupModuleLoader(window) {
          */
         function invokeLaterAndSetModuleName(provider, method) {
           return function(recipeName, factoryFunction) {
-            if (factoryFunction && isFunction(factoryFunction)) factoryFunction.$$moduleName = name;
+            if (factoryFunction && isFunction(factoryFunction)) factoryFunction[__webkitAssign__$$moduleName] = name;
             invokeQueue.push([provider, method, arguments]);
             return moduleInstance;
           };
@@ -2609,9 +2609,9 @@ function publishExternalAPI(angular) {
  * @returns {Object} jQuery object.
  */
 
-JQLite.expando = 'ng339';
+JQLite[__webkitAssign__expando] = 'ng339';
 
-var jqCache = JQLite.cache = {},
+var jqCache = JQLite[__webkitAssign__cache] = {},
     jqId = 1,
     addEventListenerFn = function(element, type, fn) {
       element.addEventListener(type, fn, false);
@@ -2623,7 +2623,7 @@ var jqCache = JQLite.cache = {},
 /*
  * !!! This is an undocumented "private" function !!!
  */
-JQLite._data = function(node) {
+JQLite[__webkitAssign___data] = function(node) {
   //jQuery always returns an object on cache miss
   return this.cache[node[this.expando]] || {};
 };
@@ -2664,9 +2664,9 @@ var wrapMap = {
   '_default': [0, "", ""]
 };
 
-wrapMap.optgroup = wrapMap.option;
-wrapMap.tbody = wrapMap.tfoot = wrapMap.colgroup = wrapMap.caption = wrapMap.thead;
-wrapMap.th = wrapMap.td;
+wrapMap[__webkitAssign__optgroup] = wrapMap.option;
+wrapMap[__webkitAssign__tbody] = wrapMap[__webkitAssign__tfoot] = wrapMap[__webkitAssign__colgroup] = wrapMap[__webkitAssign__caption] = wrapMap.thead;
+wrapMap[__webkitAssign__th] = wrapMap.td;
 
 
 function jqLiteIsTextNode(html) {
@@ -2700,7 +2700,7 @@ function jqLiteBuildFragment(html, context) {
     tmp = tmp || fragment.appendChild(context.createElement("div"));
     tag = (TAG_NAME_REGEXP.exec(html) || ["", ""])[1].toLowerCase();
     wrap = wrapMap[tag] || wrapMap._default;
-    tmp.innerHTML = wrap[1] + html.replace(XHTML_TAG_REGEXP, "<$1></$2>") + wrap[2];
+    tmp[__webkitAssign__innerHTML] = wrap[1] + html.replace(XHTML_TAG_REGEXP, "<$1></$2>") + wrap[2];
 
     // Descend through wrappers to the right content
     i = wrap[0];
@@ -2711,12 +2711,12 @@ function jqLiteBuildFragment(html, context) {
     nodes = concat(nodes, tmp.childNodes);
 
     tmp = fragment.firstChild;
-    tmp.textContent = "";
+    tmp[__webkitAssign__textContent] = "";
   }
 
   // Remove wrapper from fragment
-  fragment.textContent = "";
-  fragment.innerHTML = ""; // Clear inner HTML
+  fragment[__webkitAssign__textContent] = "";
+  fragment[__webkitAssign__innerHTML] = ""; // Clear inner HTML
   forEach(nodes, function(node) {
     fragment.appendChild(node);
   });
@@ -2829,7 +2829,7 @@ function jqLiteRemoveData(element, name) {
       jqLiteOff(element);
     }
     delete jqCache[expandoId];
-    element.ng339 = undefined; // don't delete DOM expandos. IE and Chrome don't like it
+    element[__webkitAssign__ng339] = undefined; // don't delete DOM expandos. IE and Chrome don't like it
   }
 }
 
@@ -2839,7 +2839,7 @@ function jqLiteExpandoStore(element, createIfNecessary) {
       expandoStore = expandoId && jqCache[expandoId];
 
   if (createIfNecessary && !expandoStore) {
-    element.ng339 = expandoId = jqNextId();
+    element[__webkitAssign__ng339] = expandoId = jqNextId();
     expandoStore = jqCache[expandoId] = {events: {}, data: {}, handle: undefined};
   }
 
@@ -2988,7 +2988,7 @@ function jqLiteDocumentLoaded(action, win) {
 //////////////////////////////////////////
 // Functions which are declared directly.
 //////////////////////////////////////////
-var JQLitePrototype = JQLite.prototype = {
+var JQLitePrototype = JQLite[__webkitAssign__prototype] = {
   ready: function(fn) {
     var fired = false;
 
@@ -3144,7 +3144,7 @@ forEach({
   },
 
   text: (function() {
-    getText.$dv = '';
+    getText[__webkitAssign__$dv] = '';
     return getText;
 
     function getText(element, value) {
@@ -3152,7 +3152,7 @@ forEach({
         var nodeType = element.nodeType;
         return (nodeType === NODE_TYPE_ELEMENT || nodeType === NODE_TYPE_TEXT) ? element.textContent : '';
       }
-      element.textContent = value;
+      element[__webkitAssign__textContent] = value;
     }
   })(),
 
@@ -3169,7 +3169,7 @@ forEach({
       }
       return element.value;
     }
-    element.value = value;
+    element[__webkitAssign__value] = value;
   },
 
   html: function(element, value) {
@@ -3177,7 +3177,7 @@ forEach({
       return element.innerHTML;
     }
     jqLiteDealoc(element, true);
-    element.innerHTML = value;
+    element[__webkitAssign__innerHTML] = value;
   },
 
   empty: jqLiteEmpty
@@ -3235,7 +3235,7 @@ forEach({
 function createEventHandler(element, events) {
   var eventHandler = function(event, type) {
     // jQuery specific api
-    event.isDefaultPrevented = function() {
+    event[__webkitAssign__isDefaultPrevented] = function() {
       return event.defaultPrevented;
     };
 
@@ -3246,8 +3246,8 @@ function createEventHandler(element, events) {
 
     if (isUndefined(event.immediatePropagationStopped)) {
       var originalStopImmediatePropagation = event.stopImmediatePropagation;
-      event.stopImmediatePropagation = function() {
-        event.immediatePropagationStopped = true;
+      event[__webkitAssign__stopImmediatePropagation] = function() {
+        event[__webkitAssign__immediatePropagationStopped] = true;
 
         if (event.stopPropagation) {
           event.stopPropagation();
@@ -3259,7 +3259,7 @@ function createEventHandler(element, events) {
       };
     }
 
-    event.isImmediatePropagationStopped = function() {
+    event[__webkitAssign__isImmediatePropagationStopped] = function() {
       return event.immediatePropagationStopped === true;
     };
 
@@ -3277,7 +3277,7 @@ function createEventHandler(element, events) {
 
   // TODO: this is a hack for angularMocks/clearDataCache that makes it possible to deregister all
   //       events on `element`
-  eventHandler.elem = element;
+  eventHandler[__webkitAssign__elem] = element;
   return eventHandler;
 }
 
@@ -3302,7 +3302,7 @@ forEach({
     var handle = expandoStore.handle;
 
     if (!handle) {
-      handle = expandoStore.handle = createEventHandler(element, events);
+      handle = expandoStore[__webkitAssign__handle] = createEventHandler(element, events);
     }
 
     // http://jsperf.com/string-indexof-vs-split
@@ -3475,9 +3475,9 @@ forEach({
     if (eventFns) {
       // Create a dummy event to pass to the handlers
       dummyEvent = {
-        preventDefault: function() { this.defaultPrevented = true; },
+        preventDefault: function() { this[__webkitAssign__defaultPrevented] = true; },
         isDefaultPrevented: function() { return this.defaultPrevented === true; },
-        stopImmediatePropagation: function() { this.immediatePropagationStopped = true; },
+        stopImmediatePropagation: function() { this[__webkitAssign__immediatePropagationStopped] = true; },
         isImmediatePropagationStopped: function() { return this.immediatePropagationStopped === true; },
         stopPropagation: noop,
         type: eventName,
@@ -3522,14 +3522,14 @@ forEach({
   };
 
   // bind legacy bind/unbind to on/off
-  JQLite.prototype.bind = JQLite.prototype.on;
-  JQLite.prototype.unbind = JQLite.prototype.off;
+  JQLite.prototype[__webkitAssign__bind] = JQLite.prototype.on;
+  JQLite.prototype[__webkitAssign__unbind] = JQLite.prototype.off;
 });
 
 
 // Provider for private $$jqLite service
 function $$jqLiteProvider() {
-  this.$get = function $$jqLite() {
+  this[__webkitAssign__$get] = function $$jqLite() {
     return extend(JQLite, {
       hasClass: function(node, classes) {
         if (node.attr) node = node[0];
@@ -3571,7 +3571,7 @@ function hashKey(obj, nextUidFn) {
 
   var objType = typeof obj;
   if (objType == 'function' || (objType == 'object' && obj !== null)) {
-    key = obj.$$hashKey = objType + ':' + (nextUidFn || nextUid)();
+    key = obj[__webkitAssign__$$hashKey] = objType + ':' + (nextUidFn || nextUid)();
   } else {
     key = objType + ':' + obj;
   }
@@ -3585,13 +3585,13 @@ function hashKey(obj, nextUidFn) {
 function HashMap(array, isolatedUid) {
   if (isolatedUid) {
     var uid = 0;
-    this.nextUid = function() {
+    this[__webkitAssign__nextUid] = function() {
       return ++uid;
     };
   }
   forEach(array, this.put, this);
 }
-HashMap.prototype = {
+HashMap[__webkitAssign__prototype] = {
   /**
    * Store key value pair
    * @param key key to store can be any type
@@ -3621,7 +3621,7 @@ HashMap.prototype = {
 };
 
 var $$HashMapProvider = [function() {
-  this.$get = [function() {
+  this[__webkitAssign__$get] = [function() {
     return HashMap;
   }];
 }];
@@ -3730,7 +3730,7 @@ function annotate(fn, strictDi, name) {
           });
         });
       }
-      fn.$inject = $inject;
+      fn[__webkitAssign__$inject] = $inject;
     }
   } else if (isArray(fn)) {
     last = fn.length - 1;
@@ -4256,7 +4256,7 @@ function createInjector(modulesToLoad, strictDi) {
             decorator: decorator
           }
       },
-      providerInjector = (providerCache.$injector =
+      providerInjector = (providerCache[__webkitAssign__$injector] =
           createInternalInjector(providerCache, function(serviceName, caller) {
             if (angular.isString(caller)) {
               path.push(caller);
@@ -4264,7 +4264,7 @@ function createInjector(modulesToLoad, strictDi) {
             throw $injectorMinErr('unpr', "Unknown provider: {0}", path.join(' <- '));
           })),
       instanceCache = {},
-      instanceInjector = (instanceCache.$injector =
+      instanceInjector = (instanceCache[__webkitAssign__$injector] =
           createInternalInjector(instanceCache, function(serviceName, caller) {
             var provider = providerInjector.get(serviceName + providerSuffix, caller);
             return instanceInjector.invoke(provider.$get, provider, undefined, serviceName);
@@ -4334,7 +4334,7 @@ function createInjector(modulesToLoad, strictDi) {
     var origProvider = providerInjector.get(serviceName + providerSuffix),
         orig$get = origProvider.$get;
 
-    origProvider.$get = function() {
+    origProvider[__webkitAssign__$get] = function() {
       var origInstance = instanceInjector.invoke(orig$get, origProvider);
       return instanceInjector.invoke(decorFn, null, {$delegate: origInstance});
     };
@@ -4474,7 +4474,7 @@ function createInjector(modulesToLoad, strictDi) {
   }
 }
 
-createInjector.$$annotate = annotate;
+createInjector[__webkitAssign__$$annotate] = annotate;
 
 /**
  * @ngdoc provider
@@ -4501,7 +4501,7 @@ function $AnchorScrollProvider() {
    * {@link ng.$anchorScroll $anchorScroll()} in order to scroll to the element related to the
    * current hash.
    */
-  this.disableAutoScrolling = function() {
+  this[__webkitAssign__disableAutoScrolling] = function() {
     autoScrollingEnabled = false;
   };
 
@@ -4646,7 +4646,7 @@ function $AnchorScrollProvider() {
        </file>
      </example>
    */
-  this.$get = ['$window', '$location', '$rootScope', function($window, $location, $rootScope) {
+  this[__webkitAssign__$get] = ['$window', '$location', '$rootScope', function($window, $location, $rootScope) {
     var document = $window.document;
 
     // Helper function to get first anchor from a NodeList
@@ -4801,11 +4801,11 @@ function prepareAnimateOptions(options) {
 }
 
 var $$CoreAnimateRunnerProvider = function() {
-  this.$get = ['$q', '$$rAF', function($q, $$rAF) {
+  this[__webkitAssign__$get] = ['$q', '$$rAF', function($q, $$rAF) {
     function AnimateRunner() {}
-    AnimateRunner.all = noop;
-    AnimateRunner.chain = noop;
-    AnimateRunner.prototype = {
+    AnimateRunner[__webkitAssign__all] = noop;
+    AnimateRunner[__webkitAssign__chain] = noop;
+    AnimateRunner[__webkitAssign__prototype] = {
       end: noop,
       cancel: noop,
       resume: noop,
@@ -4829,7 +4829,7 @@ var $$CoreAnimateQueueProvider = function() {
   var postDigestQueue = new HashMap();
   var postDigestElements = [];
 
-  this.$get = ['$$AnimateRunner', '$rootScope',
+  this[__webkitAssign__$get] = ['$$AnimateRunner', '$rootScope',
        function($$AnimateRunner,   $rootScope) {
     return {
       enabled: noop,
@@ -4905,7 +4905,7 @@ var $$CoreAnimateQueueProvider = function() {
           }
         });
 
-        postDigestElements.length = 0;
+        postDigestElements[__webkitAssign__length] = 0;
       });
     }
   }];
@@ -4926,7 +4926,7 @@ var $$CoreAnimateQueueProvider = function() {
 var $AnimateProvider = ['$provide', function($provide) {
   var provider = this;
 
-  this.$$registeredAnimations = Object.create(null);
+  this[__webkitAssign__$$registeredAnimations] = Object.create(null);
 
    /**
    * @ngdoc method
@@ -4967,7 +4967,7 @@ var $AnimateProvider = ['$provide', function($provide) {
    * @param {Function} factory The factory function that will be executed to return the animation
    *                           object.
    */
-  this.register = function(name, factory) {
+  this[__webkitAssign__register] = function(name, factory) {
     if (name && name.charAt(0) !== '.') {
       throw $animateMinErr('notcsel', "Expecting class selector starting with '.' got '{0}'.", name);
     }
@@ -4991,9 +4991,9 @@ var $AnimateProvider = ['$provide', function($provide) {
    * @param {RegExp=} expression The className expression which will be checked against all animations
    * @return {RegExp} The current CSS className expression value. If null then there is no expression value
    */
-  this.classNameFilter = function(expression) {
+  this[__webkitAssign__classNameFilter] = function(expression) {
     if (arguments.length === 1) {
-      this.$$classNameFilter = (expression instanceof RegExp) ? expression : null;
+      this[__webkitAssign__$$classNameFilter] = (expression instanceof RegExp) ? expression : null;
       if (this.$$classNameFilter) {
         var reservedRegex = new RegExp("(\\s+|\\/)" + NG_ANIMATE_CLASSNAME + "(\\s+|\\/)");
         if (reservedRegex.test(this.$$classNameFilter.toString())) {
@@ -5005,7 +5005,7 @@ var $AnimateProvider = ['$provide', function($provide) {
     return this.$$classNameFilter;
   };
 
-  this.$get = ['$$animateQueue', function($$animateQueue) {
+  this[__webkitAssign__$get] = ['$$animateQueue', function($$animateQueue) {
     function domInsert(element, parentElement, afterElement) {
       // if for some reason the previous element was removed
       // from the dom sometime before this code runs then let's
@@ -5248,7 +5248,7 @@ var $AnimateProvider = ['$provide', function($provide) {
        */
       addClass: function(element, className, options) {
         options = prepareAnimateOptions(options);
-        options.addClass = mergeClasses(options.addclass, className);
+        options[__webkitAssign__addClass] = mergeClasses(options.addclass, className);
         return $$animateQueue.push(element, 'addClass', options);
       },
 
@@ -5272,7 +5272,7 @@ var $AnimateProvider = ['$provide', function($provide) {
        */
       removeClass: function(element, className, options) {
         options = prepareAnimateOptions(options);
-        options.removeClass = mergeClasses(options.removeClass, className);
+        options[__webkitAssign__removeClass] = mergeClasses(options.removeClass, className);
         return $$animateQueue.push(element, 'removeClass', options);
       },
 
@@ -5297,8 +5297,8 @@ var $AnimateProvider = ['$provide', function($provide) {
        */
       setClass: function(element, add, remove, options) {
         options = prepareAnimateOptions(options);
-        options.addClass = mergeClasses(options.addClass, add);
-        options.removeClass = mergeClasses(options.removeClass, remove);
+        options[__webkitAssign__addClass] = mergeClasses(options.addClass, add);
+        options[__webkitAssign__removeClass] = mergeClasses(options.removeClass, remove);
         return $$animateQueue.push(element, 'setClass', options);
       },
 
@@ -5325,11 +5325,11 @@ var $AnimateProvider = ['$provide', function($provide) {
        */
       animate: function(element, from, to, className, options) {
         options = prepareAnimateOptions(options);
-        options.from = options.from ? extend(options.from, from) : from;
-        options.to   = options.to   ? extend(options.to, to)     : to;
+        options[__webkitAssign__from] = options.from ? extend(options.from, from) : from;
+        options[__webkitAssign__to]   = options.to   ? extend(options.to, to)     : to;
 
         className = className || 'ng-inline-animate';
-        options.tempClasses = mergeClasses(options.tempClasses, className);
+        options[__webkitAssign__tempClasses] = mergeClasses(options.tempClasses, className);
         return $$animateQueue.push(element, 'animate', options);
       }
     };
@@ -5337,7 +5337,7 @@ var $AnimateProvider = ['$provide', function($provide) {
 }];
 
 function $$AsyncCallbackProvider() {
-  this.$get = ['$$rAF', '$timeout', function($$rAF, $timeout) {
+  this[__webkitAssign__$get] = ['$$rAF', '$timeout', function($$rAF, $timeout) {
     return $$rAF.supported
       ? function(fn) { return $$rAF(fn); }
       : function(fn) {
@@ -5378,14 +5378,14 @@ function Browser(window, document, $log, $sniffer) {
       clearTimeout = window.clearTimeout,
       pendingDeferIds = {};
 
-  self.isMock = false;
+  self[__webkitAssign__isMock] = false;
 
   var outstandingRequestCount = 0;
   var outstandingRequestCallbacks = [];
 
   // TODO(vojta): remove this temporary api
-  self.$$completeOutstandingRequest = completeOutstandingRequest;
-  self.$$incOutstandingRequestCount = function() { outstandingRequestCount++; };
+  self[__webkitAssign__$$completeOutstandingRequest] = completeOutstandingRequest;
+  self[__webkitAssign__$$incOutstandingRequestCount] = function() { outstandingRequestCount++; };
 
   /**
    * Executes the `fn` function(supports currying) and decrements the `outstandingRequestCallbacks`
@@ -5419,7 +5419,7 @@ function Browser(window, document, $log, $sniffer) {
    * TODO(vojta): prefix this method with $$ ?
    * @param {function()} callback Function that will be called when no outstanding request
    */
-  self.notifyWhenNoOutstandingRequests = function(callback) {
+  self[__webkitAssign__notifyWhenNoOutstandingRequests] = function(callback) {
     if (outstandingRequestCount === 0) {
       callback();
     } else {
@@ -5459,7 +5459,7 @@ function Browser(window, document, $log, $sniffer) {
    * @param {boolean=} replace Should new url replace current history record?
    * @param {object=} state object to use with pushState/replaceState
    */
-  self.url = function(url, replace, state) {
+  self[__webkitAssign__url] = function(url, replace, state) {
     // In modern browsers `history.state` is `null` by default; treating it separately
     // from `undefined` would cause `$browser.url('/foo')` to change `history.state`
     // to undefined via `pushState`. Instead, let's change `undefined` to `null` here.
@@ -5500,9 +5500,9 @@ function Browser(window, document, $log, $sniffer) {
         if (replace) {
           location.replace(url);
         } else if (!sameBase) {
-          location.href = url;
+          location[__webkitAssign__href] = url;
         } else {
-          location.hash = getHash(url);
+          location[__webkitAssign__hash] = getHash(url);
         }
       }
       return self;
@@ -5525,7 +5525,7 @@ function Browser(window, document, $log, $sniffer) {
    *
    * @returns {object} state
    */
-  self.state = function() {
+  self[__webkitAssign__state] = function() {
     return cachedState;
   };
 
@@ -5592,7 +5592,7 @@ function Browser(window, document, $log, $sniffer) {
    * @param {function(string)} listener Listener function to be called when url changes.
    * @return {function(string)} Returns the registered listener fn - handy if the fn is anonymous.
    */
-  self.onUrlChange = function(callback) {
+  self[__webkitAssign__onUrlChange] = function(callback) {
     // TODO(vojta): refactor to use node's syntax for events
     if (!urlChangeInit) {
       // We listen on both (hashchange/popstate) when available, as some browsers (e.g. Opera)
@@ -5617,7 +5617,7 @@ function Browser(window, document, $log, $sniffer) {
    *
    * NOTE: this api is intended for use only by $rootScope.
    */
-  self.$$applicationDestroyed = function() {
+  self[__webkitAssign__$$applicationDestroyed] = function() {
     jqLite(window).off('hashchange popstate', cacheStateAndFireUrlChange);
   };
 
@@ -5626,7 +5626,7 @@ function Browser(window, document, $log, $sniffer) {
    * Needs to be exported to be able to check for changes that have been done in sync,
    * as hashchange/popstate events fire in async.
    */
-  self.$$checkUrlChange = fireUrlChange;
+  self[__webkitAssign__$$checkUrlChange] = fireUrlChange;
 
   //////////////////////////////////////////////////////////////
   // Misc API
@@ -5641,7 +5641,7 @@ function Browser(window, document, $log, $sniffer) {
    *
    * @returns {string} The current base href
    */
-  self.baseHref = function() {
+  self[__webkitAssign__baseHref] = function() {
     var href = baseElement.attr('href');
     return href ? href.replace(/^(https?\:)?\/\/[^\/]*/, '') : '';
   };
@@ -5660,7 +5660,7 @@ function Browser(window, document, $log, $sniffer) {
    * via `$browser.defer.flush()`.
    *
    */
-  self.defer = function(fn, delay) {
+  self[__webkitAssign__defer] = function(fn, delay) {
     var timeoutId;
     outstandingRequestCount++;
     timeoutId = setTimeout(function() {
@@ -5682,7 +5682,7 @@ function Browser(window, document, $log, $sniffer) {
    * @returns {boolean} Returns `true` if the task hasn't executed yet and was successfully
    *                    canceled.
    */
-  self.defer.cancel = function(deferId) {
+  self.defer[__webkitAssign__cancel] = function(deferId) {
     if (pendingDeferIds[deferId]) {
       delete pendingDeferIds[deferId];
       clearTimeout(deferId);
@@ -5695,7 +5695,7 @@ function Browser(window, document, $log, $sniffer) {
 }
 
 function $BrowserProvider() {
-  this.$get = ['$window', '$log', '$sniffer', '$document',
+  this[__webkitAssign__$get] = ['$window', '$log', '$sniffer', '$document',
       function($window, $log, $sniffer, $document) {
         return new Browser($window, $document, $log, $sniffer);
       }];
@@ -5784,7 +5784,7 @@ function $BrowserProvider() {
  */
 function $CacheFactoryProvider() {
 
-  this.$get = function() {
+  this[__webkitAssign__$get] = function() {
     var caches = {};
 
     function cacheFactory(cacheId, options) {
@@ -5998,7 +5998,7 @@ function $CacheFactoryProvider() {
           link(entry.n, entry.p);
           link(entry, freshEnd);
           freshEnd = entry;
-          freshEnd.n = null;
+          freshEnd[__webkitAssign__n] = null;
         }
       }
 
@@ -6008,8 +6008,8 @@ function $CacheFactoryProvider() {
        */
       function link(nextEntry, prevEntry) {
         if (nextEntry != prevEntry) {
-          if (nextEntry) nextEntry.p = prevEntry; //p stands for previous, 'prev' didn't minify
-          if (prevEntry) prevEntry.n = nextEntry; //n stands for next, 'next' didn't minify
+          if (nextEntry) nextEntry[__webkitAssign__p] = prevEntry; //p stands for previous, 'prev' didn't minify
+          if (prevEntry) prevEntry[__webkitAssign__n] = nextEntry; //n stands for next, 'next' didn't minify
         }
       }
     }
@@ -6024,7 +6024,7 @@ function $CacheFactoryProvider() {
    *
    * @returns {Object} - key-value map of `cacheId` to the result of calling `cache#info`
    */
-    cacheFactory.info = function() {
+    cacheFactory[__webkitAssign__info] = function() {
       var info = {};
       forEach(caches, function(cache, cacheId) {
         info[cacheId] = cache.info();
@@ -6043,7 +6043,7 @@ function $CacheFactoryProvider() {
    * @param {string} cacheId Name or id of a cache to access.
    * @returns {object} Cache object identified by the cacheId or undefined if no such cache.
    */
-    cacheFactory.get = function(cacheId) {
+    cacheFactory[__webkitAssign__get] = function(cacheId) {
       return caches[cacheId];
     };
 
@@ -6096,7 +6096,7 @@ function $CacheFactoryProvider() {
  *
  */
 function $TemplateCacheProvider() {
-  this.$get = ['$cacheFactory', function($cacheFactory) {
+  this[__webkitAssign__$get] = ['$cacheFactory', function($cacheFactory) {
     return $cacheFactory('templates');
   }];
 }
@@ -6822,7 +6822,7 @@ var $compileMinErr = minErr('$compile');
  *
  * @description
  */
-$CompileProvider.$inject = ['$provide', '$$sanitizeUriProvider'];
+$CompileProvider[__webkitAssign__$inject] = ['$provide', '$$sanitizeUriProvider'];
 function $CompileProvider($provide, $$sanitizeUriProvider) {
   var hasDirectives = {},
       Suffix = 'Directive',
@@ -6871,16 +6871,16 @@ function $CompileProvider($provide, $$sanitizeUriProvider) {
     };
     if (isObject(directive.scope)) {
       if (directive.bindToController === true) {
-        bindings.bindToController = parseIsolateBindings(directive.scope,
+        bindings[__webkitAssign__bindToController] = parseIsolateBindings(directive.scope,
                                                          directiveName, true);
-        bindings.isolateScope = {};
+        bindings[__webkitAssign__isolateScope] = {};
       } else {
-        bindings.isolateScope = parseIsolateBindings(directive.scope,
+        bindings[__webkitAssign__isolateScope] = parseIsolateBindings(directive.scope,
                                                      directiveName, false);
       }
     }
     if (isObject(directive.bindToController)) {
-      bindings.bindToController =
+      bindings[__webkitAssign__bindToController] =
           parseIsolateBindings(directive.bindToController, directiveName, true);
     }
     if (isObject(bindings.bindToController)) {
@@ -6928,7 +6928,7 @@ function $CompileProvider($provide, $$sanitizeUriProvider) {
    *    {@link guide/directive} for more info.
    * @returns {ng.$compileProvider} Self for chaining.
    */
-   this.directive = function registerDirective(name, directiveFactory) {
+   this[__webkitAssign__directive] = function registerDirective(name, directiveFactory) {
     assertNotHasOwnProperty(name, 'directive');
     if (isString(name)) {
       assertValidDirectiveName(name);
@@ -6944,19 +6944,19 @@ function $CompileProvider($provide, $$sanitizeUriProvider) {
                 if (isFunction(directive)) {
                   directive = { compile: valueFn(directive) };
                 } else if (!directive.compile && directive.link) {
-                  directive.compile = valueFn(directive.link);
+                  directive[__webkitAssign__compile] = valueFn(directive.link);
                 }
-                directive.priority = directive.priority || 0;
-                directive.index = index;
-                directive.name = directive.name || name;
-                directive.require = directive.require || (directive.controller && directive.name);
-                directive.restrict = directive.restrict || 'EA';
-                var bindings = directive.$$bindings =
+                directive[__webkitAssign__priority] = directive.priority || 0;
+                directive[__webkitAssign__index] = index;
+                directive[__webkitAssign__name] = directive.name || name;
+                directive[__webkitAssign__require] = directive.require || (directive.controller && directive.name);
+                directive[__webkitAssign__restrict] = directive.restrict || 'EA';
+                var bindings = directive[__webkitAssign__$$bindings] =
                     parseDirectiveBindings(directive, directive.name);
                 if (isObject(bindings.isolateScope)) {
-                  directive.$$isolateBindings = bindings.isolateScope;
+                  directive[__webkitAssign__$$isolateBindings] = bindings.isolateScope;
                 }
-                directive.$$moduleName = directiveFactory.$$moduleName;
+                directive[__webkitAssign__$$moduleName] = directiveFactory.$$moduleName;
                 directives.push(directive);
               } catch (e) {
                 $exceptionHandler(e);
@@ -6993,7 +6993,7 @@ function $CompileProvider($provide, $$sanitizeUriProvider) {
    * @returns {RegExp|ng.$compileProvider} Current RegExp if called without value or self for
    *    chaining otherwise.
    */
-  this.aHrefSanitizationWhitelist = function(regexp) {
+  this[__webkitAssign__aHrefSanitizationWhitelist] = function(regexp) {
     if (isDefined(regexp)) {
       $$sanitizeUriProvider.aHrefSanitizationWhitelist(regexp);
       return this;
@@ -7023,7 +7023,7 @@ function $CompileProvider($provide, $$sanitizeUriProvider) {
    * @returns {RegExp|ng.$compileProvider} Current RegExp if called without value or self for
    *    chaining otherwise.
    */
-  this.imgSrcSanitizationWhitelist = function(regexp) {
+  this[__webkitAssign__imgSrcSanitizationWhitelist] = function(regexp) {
     if (isDefined(regexp)) {
       $$sanitizeUriProvider.imgSrcSanitizationWhitelist(regexp);
       return this;
@@ -7055,7 +7055,7 @@ function $CompileProvider($provide, $$sanitizeUriProvider) {
    * The default value is true.
    */
   var debugInfoEnabled = true;
-  this.debugInfoEnabled = function(enabled) {
+  this[__webkitAssign__debugInfoEnabled] = function(enabled) {
     if (isDefined(enabled)) {
       debugInfoEnabled = enabled;
       return this;
@@ -7063,7 +7063,7 @@ function $CompileProvider($provide, $$sanitizeUriProvider) {
     return debugInfoEnabled;
   };
 
-  this.$get = [
+  this[__webkitAssign__$get] = [
             '$injector', '$interpolate', '$exceptionHandler', '$templateRequest', '$parse',
             '$controller', '$rootScope', '$document', '$sce', '$animate', '$$sanitizeUri',
     function($injector,   $interpolate,   $exceptionHandler,   $templateRequest,   $parse,
@@ -7079,13 +7079,13 @@ function $CompileProvider($provide, $$sanitizeUriProvider) {
           this[key] = attributesToCopy[key];
         }
       } else {
-        this.$attr = {};
+        this[__webkitAssign__$attr] = {};
       }
 
-      this.$$element = element;
+      this[__webkitAssign__$$element] = element;
     };
 
-    Attributes.prototype = {
+    Attributes[__webkitAssign__prototype] = {
       /**
        * @ngdoc method
        * @name $compile.directive.Attributes#$normalize
@@ -7284,7 +7284,7 @@ function $CompileProvider($provide, $$sanitizeUriProvider) {
        */
       $observe: function(key, fn) {
         var attrs = this,
-            $$observers = (attrs.$$observers || (attrs.$$observers = createMap())),
+            $$observers = (attrs.$$observers || (attrs[__webkitAssign__$$observers] = createMap())),
             listeners = ($$observers[key] || ($$observers[key] = []));
 
         listeners.push(fn);
@@ -7321,7 +7321,7 @@ function $CompileProvider($provide, $$sanitizeUriProvider) {
         },
         NG_ATTR_BINDING = /^ngAttr[A-Z]/;
 
-    compile.$$addBindingInfo = debugInfoEnabled ? function $$addBindingInfo($element, binding) {
+    compile[__webkitAssign__$$addBindingInfo] = debugInfoEnabled ? function $$addBindingInfo($element, binding) {
       var bindings = $element.data('$binding') || [];
 
       if (isArray(binding)) {
@@ -7333,16 +7333,16 @@ function $CompileProvider($provide, $$sanitizeUriProvider) {
       $element.data('$binding', bindings);
     } : noop;
 
-    compile.$$addBindingClass = debugInfoEnabled ? function $$addBindingClass($element) {
+    compile[__webkitAssign__$$addBindingClass] = debugInfoEnabled ? function $$addBindingClass($element) {
       safeAddClass($element, 'ng-binding');
     } : noop;
 
-    compile.$$addScopeInfo = debugInfoEnabled ? function $$addScopeInfo($element, scope, isolated, noTemplate) {
+    compile[__webkitAssign__$$addScopeInfo] = debugInfoEnabled ? function $$addScopeInfo($element, scope, isolated, noTemplate) {
       var dataName = isolated ? (noTemplate ? '$isolateScopeNoTemplate' : '$isolateScope') : '$scope';
       $element.data(dataName, scope);
     } : noop;
 
-    compile.$$addScopeClass = debugInfoEnabled ? function $$addScopeClass($element, isolated) {
+    compile[__webkitAssign__$$addScopeClass] = debugInfoEnabled ? function $$addScopeClass($element, isolated) {
       safeAddClass($element, isolated ? 'ng-isolate-scope' : 'ng-scope');
     } : noop;
 
@@ -7519,7 +7519,7 @@ function $CompileProvider($provide, $$sanitizeUriProvider) {
               compile.$$addScopeInfo(jqLite(node), childScope);
               var destroyBindings = nodeLinkFn.$$destroyBindings;
               if (destroyBindings) {
-                nodeLinkFn.$$destroyBindings = null;
+                nodeLinkFn[__webkitAssign__$$destroyBindings] = null;
                 childScope.$on('$destroyed', destroyBindings);
               }
             } else {
@@ -7556,7 +7556,7 @@ function $CompileProvider($provide, $$sanitizeUriProvider) {
 
         if (!transcludedScope) {
           transcludedScope = scope.$new(false, containingScope);
-          transcludedScope.$$transcluded = true;
+          transcludedScope[__webkitAssign__$$transcluded] = true;
         }
 
         return transcludeFn(transcludedScope, cloneFn, {
@@ -7652,7 +7652,7 @@ function $CompileProvider($provide, $$sanitizeUriProvider) {
           if (msie === 11) {
             // Workaround for #11781
             while (node.parentNode && node.nextSibling && node.nextSibling.nodeType === NODE_TYPE_TEXT) {
-              node.nodeValue = node.nodeValue + node.nextSibling.nodeValue;
+              node[__webkitAssign__nodeValue] = node.nodeValue + node.nextSibling.nodeValue;
               node.parentNode.removeChild(node.nextSibling);
             }
           }
@@ -7763,7 +7763,7 @@ function $CompileProvider($provide, $$sanitizeUriProvider) {
           hasTranscludeDirective = false,
           hasTemplate = false,
           hasElementTranscludeDirective = previousCompileContext.hasElementTranscludeDirective,
-          $compileNode = templateAttrs.$$element = jqLite(compileNode),
+          $compileNode = templateAttrs[__webkitAssign__$$element] = jqLite(compileNode),
           directive,
           directiveName,
           $template,
@@ -7835,7 +7835,7 @@ function $CompileProvider($provide, $$sanitizeUriProvider) {
             hasElementTranscludeDirective = true;
             terminalPriority = directive.priority;
             $template = $compileNode;
-            $compileNode = templateAttrs.$$element =
+            $compileNode = templateAttrs[__webkitAssign__$$element] =
                 jqLite(document.createComment(' ' + directiveName + ': ' +
                                               templateAttrs[directiveName] + ' '));
             compileNode = $compileNode[0];
@@ -7941,18 +7941,18 @@ function $CompileProvider($provide, $$sanitizeUriProvider) {
         }
 
         if (directive.terminal) {
-          nodeLinkFn.terminal = true;
+          nodeLinkFn[__webkitAssign__terminal] = true;
           terminalPriority = Math.max(terminalPriority, directive.priority);
         }
 
       }
 
-      nodeLinkFn.scope = newScopeDirective && newScopeDirective.scope === true;
-      nodeLinkFn.transcludeOnThisElement = hasTranscludeDirective;
-      nodeLinkFn.templateOnThisElement = hasTemplate;
-      nodeLinkFn.transclude = childTranscludeFn;
+      nodeLinkFn[__webkitAssign__scope] = newScopeDirective && newScopeDirective.scope === true;
+      nodeLinkFn[__webkitAssign__transcludeOnThisElement] = hasTranscludeDirective;
+      nodeLinkFn[__webkitAssign__templateOnThisElement] = hasTemplate;
+      nodeLinkFn[__webkitAssign__transclude] = childTranscludeFn;
 
-      previousCompileContext.hasElementTranscludeDirective = hasElementTranscludeDirective;
+      previousCompileContext[__webkitAssign__hasElementTranscludeDirective] = hasElementTranscludeDirective;
 
       // might be normal or delayed nodeLinkFn depending on if templateUrl is present
       return nodeLinkFn;
@@ -7962,8 +7962,8 @@ function $CompileProvider($provide, $$sanitizeUriProvider) {
       function addLinkFns(pre, post, attrStart, attrEnd) {
         if (pre) {
           if (attrStart) pre = groupElementsLinkFnWrapper(pre, attrStart, attrEnd);
-          pre.require = directive.require;
-          pre.directiveName = directiveName;
+          pre[__webkitAssign__require] = directive.require;
+          pre[__webkitAssign__directiveName] = directiveName;
           if (newIsolateScopeDirective === directive || directive.$$isolateScope) {
             pre = cloneAndAnnotateFn(pre, {isolateScope: true});
           }
@@ -7971,8 +7971,8 @@ function $CompileProvider($provide, $$sanitizeUriProvider) {
         }
         if (post) {
           if (attrStart) post = groupElementsLinkFnWrapper(post, attrStart, attrEnd);
-          post.require = directive.require;
-          post.directiveName = directiveName;
+          post[__webkitAssign__require] = directive.require;
+          post[__webkitAssign__directiveName] = directiveName;
           if (newIsolateScopeDirective === directive || directive.$$isolateScope) {
             post = cloneAndAnnotateFn(post, {isolateScope: true});
           }
@@ -8072,7 +8072,7 @@ function $CompileProvider($provide, $$sanitizeUriProvider) {
           // track `boundTranscludeFn` so it can be unwrapped if `transcludeFn`
           // is later passed as `parentBoundTranscludeFn` to `publicLinkFn`
           transcludeFn = controllersBoundTransclude;
-          transcludeFn.$$boundTransclude = boundTranscludeFn;
+          transcludeFn[__webkitAssign__$$boundTransclude] = boundTranscludeFn;
         }
 
         if (controllerDirectives) {
@@ -8084,7 +8084,7 @@ function $CompileProvider($provide, $$sanitizeUriProvider) {
           compile.$$addScopeInfo($element, isolateScope, true, !(templateDirective && (templateDirective === newIsolateScopeDirective ||
               templateDirective === newIsolateScopeDirective.$$originalDirective)));
           compile.$$addScopeClass($element, true);
-          isolateScope.$$isolateBindings =
+          isolateScope[__webkitAssign__$$isolateBindings] =
               newIsolateScopeDirective.$$isolateBindings;
           initializeDirectiveBindings(scope, attrs, isolateScope,
                                       isolateScope.$$isolateBindings,
@@ -8101,7 +8101,7 @@ function $CompileProvider($provide, $$sanitizeUriProvider) {
 
             if (controller && controller.identifier && bindings) {
               controllerForBindings = controller;
-              thisLinkFn.$$destroyBindings =
+              thisLinkFn[__webkitAssign__$$destroyBindings] =
                   initializeDirectiveBindings(scope, attrs, controller.instance,
                                               bindings, scopeDirective);
             }
@@ -8113,12 +8113,12 @@ function $CompileProvider($provide, $$sanitizeUriProvider) {
             if (controllerResult !== controller.instance) {
               // If the controller constructor has a return value, overwrite the instance
               // from setupControllers and update the element data
-              controller.instance = controllerResult;
+              controller[__webkitAssign__instance] = controllerResult;
               $element.data('$' + i + 'Controller', controllerResult);
               if (controller === controllerForBindings) {
                 // Remove and re-install bindToController bindings
                 thisLinkFn.$$destroyBindings();
-                thisLinkFn.$$destroyBindings =
+                thisLinkFn[__webkitAssign__$$destroyBindings] =
                   initializeDirectiveBindings(scope, attrs, controllerResult, bindings, scopeDirective);
               }
             }
@@ -8448,7 +8448,7 @@ function $CompileProvider($provide, $$sanitizeUriProvider) {
               if (!hasCompileParent) compile.$$addBindingClass(parent);
               compile.$$addBindingInfo(parent, interpolateFn.expressions);
               scope.$watch(interpolateFn, function interpolateFnWatchAction(value) {
-                node[0].nodeValue = value;
+                node[0][__webkitAssign__nodeValue] = value;
               });
             };
           }
@@ -8463,7 +8463,7 @@ function $CompileProvider($provide, $$sanitizeUriProvider) {
       case 'svg':
       case 'math':
         var wrapper = document.createElement('div');
-        wrapper.innerHTML = '<' + type + '>' + template + '</' + type + '>';
+        wrapper[__webkitAssign__innerHTML] = '<' + type + '>' + template + '</' + type + '>';
         return wrapper.childNodes[0].childNodes;
       default:
         return template;
@@ -8507,7 +8507,7 @@ function $CompileProvider($provide, $$sanitizeUriProvider) {
         compile: function() {
             return {
               pre: function attrInterpolatePreLinkFn(scope, element, attr) {
-                var $$observers = (attr.$$observers || (attr.$$observers = {}));
+                var $$observers = (attr.$$observers || (attr[__webkitAssign__$$observers] = {}));
 
                 if (EVENT_HANDLER_ATTR_REGEXP.test(name)) {
                   throw $compileMinErr('nodomevents',
@@ -8534,7 +8534,7 @@ function $CompileProvider($provide, $$sanitizeUriProvider) {
                 // directive's linking fn during linking phase
                 attr[name] = interpolateFn(scope);
 
-                ($$observers[name] || ($$observers[name] = [])).$$inter = true;
+                ($$observers[name] || ($$observers[name] = []))[__webkitAssign__$$inter] = true;
                 (attr.$$observers && attr.$$observers[name].$$scope || scope).
                   $watch(interpolateFn, function interpolateFnWatchAction(newValue, oldValue) {
                     //special case for class attribute addition + removal
@@ -8585,13 +8585,13 @@ function $CompileProvider($provide, $$sanitizeUriProvider) {
                 delete $rootElement[j];
               }
             }
-            $rootElement.length -= removeCount - 1;
+            $rootElement[__webkitAssign__length] -= removeCount - 1;
 
             // If the replaced element is also the jQuery .context then replace it
             // .context is a deprecated jQuery api, so we should set it only when jQuery set it
             // http://api.jquery.com/context/
             if ($rootElement.context === firstElementToRemove) {
-              $rootElement.context = newNode;
+              $rootElement[__webkitAssign__context] = newNode;
             }
             break;
           }
@@ -8638,7 +8638,7 @@ function $CompileProvider($provide, $$sanitizeUriProvider) {
       }
 
       elementsToRemove[0] = newNode;
-      elementsToRemove.length = 1;
+      elementsToRemove[__webkitAssign__length] = 1;
     }
 
 
@@ -8684,7 +8684,7 @@ function $CompileProvider($provide, $$sanitizeUriProvider) {
             attrs.$observe(attrName, function(value) {
               destination[scopeName] = value;
             });
-            attrs.$$observers[attrName].$$scope = scope;
+            attrs.$$observers[attrName][__webkitAssign__$$scope] = scope;
             if (attrs[attrName]) {
               // If the attribute has been provided then we trigger an interpolation to ensure
               // the value is there for use in the link fn
@@ -8724,7 +8724,7 @@ function $CompileProvider($provide, $$sanitizeUriProvider) {
               }
               return lastValue = parentValue;
             };
-            parentValueWatch.$stateful = true;
+            parentValueWatch[__webkitAssign__$stateful] = true;
             var unwatch;
             if (definition.collection) {
               unwatch = scope.$watchCollection(attrs[attrName], parentValueWatch);
@@ -8898,7 +8898,7 @@ function $ControllerProvider() {
    * @param {Function|Array} constructor Controller constructor fn (optionally decorated with DI
    *    annotations in the array notation).
    */
-  this.register = function(name, constructor) {
+  this[__webkitAssign__register] = function(name, constructor) {
     assertNotHasOwnProperty(name, 'controller');
     if (isObject(name)) {
       extend(controllers, name);
@@ -8912,12 +8912,12 @@ function $ControllerProvider() {
    * @name $controllerProvider#allowGlobals
    * @description If called, allows `$controller` to find controller constructors on `window`
    */
-  this.allowGlobals = function() {
+  this[__webkitAssign__allowGlobals] = function() {
     globals = true;
   };
 
 
-  this.$get = ['$injector', '$window', function($injector, $window) {
+  this[__webkitAssign__$get] = ['$injector', '$window', function($injector, $window) {
 
     /**
      * @ngdoc service
@@ -9060,7 +9060,7 @@ function $ControllerProvider() {
    </example>
  */
 function $DocumentProvider() {
-  this.$get = ['$window', function(window) {
+  this[__webkitAssign__$get] = ['$window', function(window) {
     return jqLite(window.document);
   }];
 }
@@ -9106,7 +9106,7 @@ function $DocumentProvider() {
  *
  */
 function $ExceptionHandlerProvider() {
-  this.$get = ['$log', function($log) {
+  this[__webkitAssign__$get] = ['$log', function($log) {
     return function(exception, cause) {
       $log.error.apply($log, arguments);
     };
@@ -9147,7 +9147,7 @@ function $HttpParamSerializerProvider() {
    * Note that serializer will sort the request parameters alphabetically.
    * */
 
-  this.$get = function() {
+  this[__webkitAssign__$get] = function() {
     return function ngParamSerializer(params) {
       if (!params) return '';
       var parts = [];
@@ -9211,7 +9211,7 @@ function $HttpParamSerializerJQLikeProvider() {
    * ```
    *
    * */
-  this.$get = function() {
+  this[__webkitAssign__$get] = function() {
     return function jQueryLikeParamSerializer(params) {
       if (!params) return '';
       var parts = [];
@@ -9390,7 +9390,7 @@ function $HttpProvider() {
    *  Defaults to {@link ng.$httpParamSerializer $httpParamSerializer}.
    *
    **/
-  var defaults = this.defaults = {
+  var defaults = this[__webkitAssign__defaults] = {
     // transform incoming response data
     transformResponse: [defaultHttpResponseTransform],
 
@@ -9435,7 +9435,7 @@ function $HttpProvider() {
    * @returns {boolean|Object} If a value is specified, returns the $httpProvider for chaining.
    *    otherwise, returns the current configured value.
    **/
-  this.useApplyAsync = function(value) {
+  this[__webkitAssign__useApplyAsync] = function(value) {
     if (isDefined(value)) {
       useApplyAsync = !!value;
       return this;
@@ -9456,9 +9456,9 @@ function $HttpProvider() {
    *
    * {@link ng.$http#interceptors Interceptors detailed info}
    **/
-  var interceptorFactories = this.interceptors = [];
+  var interceptorFactories = this[__webkitAssign__interceptors] = [];
 
-  this.$get = ['$httpBackend', '$$cookieReader', '$cacheFactory', '$rootScope', '$q', '$injector',
+  this[__webkitAssign__$get] = ['$httpBackend', '$$cookieReader', '$cacheFactory', '$rootScope', '$q', '$injector',
       function($httpBackend, $$cookieReader, $cacheFactory, $rootScope, $q, $injector) {
 
     var defaultCache = $cacheFactory('$http');
@@ -9466,7 +9466,7 @@ function $HttpProvider() {
     /**
      * Make sure that default param serializer is exposed as a function
      */
-    defaults.paramSerializer = isString(defaults.paramSerializer) ?
+    defaults[__webkitAssign__paramSerializer] = isString(defaults.paramSerializer) ?
       $injector.get(defaults.paramSerializer) : defaults.paramSerializer;
 
     /**
@@ -10021,9 +10021,9 @@ function $HttpProvider() {
         paramSerializer: defaults.paramSerializer
       }, requestConfig);
 
-      config.headers = mergeHeaders(requestConfig);
-      config.method = uppercase(config.method);
-      config.paramSerializer = isString(config.paramSerializer) ?
+      config[__webkitAssign__headers] = mergeHeaders(requestConfig);
+      config[__webkitAssign__method] = uppercase(config.method);
+      config[__webkitAssign__paramSerializer] = isString(config.paramSerializer) ?
         $injector.get(config.paramSerializer) : config.paramSerializer;
 
       var serverRequest = function(config) {
@@ -10040,7 +10040,7 @@ function $HttpProvider() {
         }
 
         if (isUndefined(config.withCredentials) && !isUndefined(defaults.withCredentials)) {
-          config.withCredentials = defaults.withCredentials;
+          config[__webkitAssign__withCredentials] = defaults.withCredentials;
         }
 
         // send request
@@ -10067,7 +10067,7 @@ function $HttpProvider() {
         promise = promise.then(thenFn, rejectFn);
       }
 
-      promise.success = function(fn) {
+      promise[__webkitAssign__success] = function(fn) {
         assertArgFn(fn, 'fn');
 
         promise.then(function(response) {
@@ -10076,7 +10076,7 @@ function $HttpProvider() {
         return promise;
       };
 
-      promise.error = function(fn) {
+      promise[__webkitAssign__error] = function(fn) {
         assertArgFn(fn, 'fn');
 
         promise.then(null, function(response) {
@@ -10091,9 +10091,9 @@ function $HttpProvider() {
         // make a copy since the response must be cacheable
         var resp = extend({}, response);
         if (!response.data) {
-          resp.data = response.data;
+          resp[__webkitAssign__data] = response.data;
         } else {
-          resp.data = transformData(response.data, response.headers, response.status, config.transformResponse);
+          resp[__webkitAssign__data] = transformData(response.data, response.headers, response.status, config.transformResponse);
         }
         return (isSuccess(response.status))
           ? resp
@@ -10143,7 +10143,7 @@ function $HttpProvider() {
       }
     }
 
-    $http.pendingRequests = [];
+    $http[__webkitAssign__pendingRequests] = [];
 
     /**
      * @ngdoc method
@@ -10245,7 +10245,7 @@ function $HttpProvider() {
          *
          * See "Setting HTTP Headers" and "Transforming Requests and Responses" sections above.
          */
-    $http.defaults = defaults;
+    $http[__webkitAssign__defaults] = defaults;
 
 
     return $http;
@@ -10425,7 +10425,7 @@ function createXhr() {
  * $httpBackend} which can be trained with responses.
  */
 function $HttpBackendProvider() {
-  this.$get = ['$browser', '$window', '$document', function($browser, $window, $document) {
+  this[__webkitAssign__$get] = ['$browser', '$window', '$document', function($browser, $window, $document) {
     return createHttpBackend($browser, createXhr, $browser.defer, $window.angular.callbacks, $document[0]);
   }];
 }
@@ -10439,8 +10439,8 @@ function createHttpBackend($browser, createXhr, $browserDefer, callbacks, rawDoc
     if (lowercase(method) == 'jsonp') {
       var callbackId = '_' + (callbacks.counter++).toString(36);
       callbacks[callbackId] = function(data) {
-        callbacks[callbackId].data = data;
-        callbacks[callbackId].called = true;
+        callbacks[callbackId][__webkitAssign__data] = data;
+        callbacks[callbackId][__webkitAssign__called] = true;
       };
 
       var jsonpDone = jsonpReq(url.replace('JSON_CALLBACK', 'angular.callbacks.' + callbackId),
@@ -10459,7 +10459,7 @@ function createHttpBackend($browser, createXhr, $browserDefer, callbacks, rawDoc
         }
       });
 
-      xhr.onload = function requestLoaded() {
+      xhr[__webkitAssign__onload] = function requestLoaded() {
         var statusText = xhr.statusText || '';
 
         // responseText is the old-school way of retrieving response (supported by IE8 & 9)
@@ -10489,16 +10489,16 @@ function createHttpBackend($browser, createXhr, $browserDefer, callbacks, rawDoc
         completeRequest(callback, -1, null, null, '');
       };
 
-      xhr.onerror = requestError;
-      xhr.onabort = requestError;
+      xhr[__webkitAssign__onerror] = requestError;
+      xhr[__webkitAssign__onabort] = requestError;
 
       if (withCredentials) {
-        xhr.withCredentials = true;
+        xhr[__webkitAssign__withCredentials] = true;
       }
 
       if (responseType) {
         try {
-          xhr.responseType = responseType;
+          xhr[__webkitAssign__responseType] = responseType;
         } catch (e) {
           // WebKit added support for the json responseType value on 09/03/2013
           // https://bugs.webkit.org/show_bug.cgi?id=73648. Versions of Safari prior to 7 are
@@ -10545,9 +10545,9 @@ function createHttpBackend($browser, createXhr, $browserDefer, callbacks, rawDoc
     // - fetches local scripts via XHR and evals them
     // - adds and immediately removes script elements from the document
     var script = rawDocument.createElement('script'), callback = null;
-    script.type = "text/javascript";
-    script.src = url;
-    script.async = true;
+    script[__webkitAssign__type] = "text/javascript";
+    script[__webkitAssign__src] = url;
+    script[__webkitAssign__async] = true;
 
     callback = function(event) {
       removeEventListenerFn(script, "load", callback);
@@ -10577,15 +10577,15 @@ function createHttpBackend($browser, createXhr, $browserDefer, callbacks, rawDoc
   }
 }
 
-var $interpolateMinErr = angular.$interpolateMinErr = minErr('$interpolate');
-$interpolateMinErr.throwNoconcat = function(text) {
+var $interpolateMinErr = angular[__webkitAssign__$interpolateMinErr] = minErr('$interpolate');
+$interpolateMinErr[__webkitAssign__throwNoconcat] = function(text) {
   throw $interpolateMinErr('noconcat',
       "Error while interpolating: {0}\nStrict Contextual Escaping disallows " +
       "interpolations that concatenate multiple expressions when a trusted value is " +
       "required.  See http://docs.angularjs.org/api/ng.$sce", text);
 };
 
-$interpolateMinErr.interr = function(text, err) {
+$interpolateMinErr[__webkitAssign__interr] = function(text, err) {
   return $interpolateMinErr('interr', "Can't interpolate: {0}\n{1}", text, err.toString());
 };
 
@@ -10637,7 +10637,7 @@ function $InterpolateProvider() {
    * @param {string=} value new value to set the starting symbol to.
    * @returns {string|self} Returns the symbol when used as getter and self if used as setter.
    */
-  this.startSymbol = function(value) {
+  this[__webkitAssign__startSymbol] = function(value) {
     if (value) {
       startSymbol = value;
       return this;
@@ -10655,7 +10655,7 @@ function $InterpolateProvider() {
    * @param {string=} value new value to set the ending symbol to.
    * @returns {string|self} Returns the symbol when used as getter and self if used as setter.
    */
-  this.endSymbol = function(value) {
+  this[__webkitAssign__endSymbol] = function(value) {
     if (value) {
       endSymbol = value;
       return this;
@@ -10665,7 +10665,7 @@ function $InterpolateProvider() {
   };
 
 
-  this.$get = ['$parse', '$exceptionHandler', '$sce', function($parse, $exceptionHandler, $sce) {
+  this[__webkitAssign__$get] = ['$parse', '$exceptionHandler', '$sce', function($parse, $exceptionHandler, $sce) {
     var startSymbolLength = startSymbol.length,
         endSymbolLength = endSymbol.length,
         escapedStartRegexp = new RegExp(startSymbol.replace(/./g, escape), 'g'),
@@ -10903,7 +10903,7 @@ function $InterpolateProvider() {
      *
      * @returns {string} start symbol.
      */
-    $interpolate.startSymbol = function() {
+    $interpolate[__webkitAssign__startSymbol] = function() {
       return startSymbol;
     };
 
@@ -10919,7 +10919,7 @@ function $InterpolateProvider() {
      *
      * @returns {string} end symbol.
      */
-    $interpolate.endSymbol = function() {
+    $interpolate[__webkitAssign__endSymbol] = function() {
       return endSymbol;
     };
 
@@ -10928,7 +10928,7 @@ function $InterpolateProvider() {
 }
 
 function $IntervalProvider() {
-  this.$get = ['$rootScope', '$window', '$q', '$$q',
+  this[__webkitAssign__$get] = ['$rootScope', '$window', '$q', '$$q',
        function($rootScope,   $window,   $q,   $$q) {
     var intervals = {};
 
@@ -11074,7 +11074,7 @@ function $IntervalProvider() {
         fn.apply(null, args);
       });
 
-      promise.$$intervalId = setInterval(function tick() {
+      promise[__webkitAssign__$$intervalId] = setInterval(function tick() {
         deferred.notify(iteration++);
 
         if (count > 0 && iteration >= count) {
@@ -11103,7 +11103,7 @@ function $IntervalProvider() {
       * @param {promise} promise returned by the `$interval` function.
       * @returns {boolean} Returns `true` if the task was successfully canceled.
       */
-    interval.cancel = function(promise) {
+    interval[__webkitAssign__cancel] = function(promise) {
       if (promise && promise.$$intervalId in intervals) {
         intervals[promise.$$intervalId].reject('canceled');
         $window.clearInterval(promise.$$intervalId);
@@ -11128,7 +11128,7 @@ function $IntervalProvider() {
  * * `id` – `{string}` – locale id formatted as `languageId-countryId` (e.g. `en-us`)
  */
 function $LocaleProvider() {
-  this.$get = function() {
+  this[__webkitAssign__$get] = function() {
     return {
       id: 'en-us',
 
@@ -11222,9 +11222,9 @@ function encodePath(path) {
 function parseAbsoluteUrl(absoluteUrl, locationObj) {
   var parsedUrl = urlResolve(absoluteUrl);
 
-  locationObj.$$protocol = parsedUrl.protocol;
-  locationObj.$$host = parsedUrl.hostname;
-  locationObj.$$port = toInt(parsedUrl.port) || DEFAULT_PORTS[parsedUrl.protocol] || null;
+  locationObj[__webkitAssign__$$protocol] = parsedUrl.protocol;
+  locationObj[__webkitAssign__$$host] = parsedUrl.hostname;
+  locationObj[__webkitAssign__$$port] = toInt(parsedUrl.port) || DEFAULT_PORTS[parsedUrl.protocol] || null;
 }
 
 
@@ -11234,14 +11234,14 @@ function parseAppUrl(relativeUrl, locationObj) {
     relativeUrl = '/' + relativeUrl;
   }
   var match = urlResolve(relativeUrl);
-  locationObj.$$path = decodeURIComponent(prefixed && match.pathname.charAt(0) === '/' ?
+  locationObj[__webkitAssign__$$path] = decodeURIComponent(prefixed && match.pathname.charAt(0) === '/' ?
       match.pathname.substring(1) : match.pathname);
-  locationObj.$$search = parseKeyValue(match.search);
-  locationObj.$$hash = decodeURIComponent(match.hash);
+  locationObj[__webkitAssign__$$search] = parseKeyValue(match.search);
+  locationObj[__webkitAssign__$$hash] = decodeURIComponent(match.hash);
 
   // make sure path starts with '/';
   if (locationObj.$$path && locationObj.$$path.charAt(0) != '/') {
-    locationObj.$$path = '/' + locationObj.$$path;
+    locationObj[__webkitAssign__$$path] = '/' + locationObj.$$path;
   }
 }
 
@@ -11289,7 +11289,7 @@ function serverBase(url) {
  * @param {string} basePrefix url path prefix
  */
 function LocationHtml5Url(appBase, basePrefix) {
-  this.$$html5 = true;
+  this[__webkitAssign__$$html5] = true;
   basePrefix = basePrefix || '';
   var appBaseNoFile = stripFile(appBase);
   parseAbsoluteUrl(appBase, this);
@@ -11300,7 +11300,7 @@ function LocationHtml5Url(appBase, basePrefix) {
    * @param {string} url HTML5 url
    * @private
    */
-  this.$$parse = function(url) {
+  this[__webkitAssign__$$parse] = function(url) {
     var pathUrl = beginsWith(appBaseNoFile, url);
     if (!isString(pathUrl)) {
       throw $locationMinErr('ipthprfx', 'Invalid url "{0}", missing path prefix "{1}".', url,
@@ -11310,7 +11310,7 @@ function LocationHtml5Url(appBase, basePrefix) {
     parseAppUrl(pathUrl, this);
 
     if (!this.$$path) {
-      this.$$path = '/';
+      this[__webkitAssign__$$path] = '/';
     }
 
     this.$$compose();
@@ -11320,15 +11320,15 @@ function LocationHtml5Url(appBase, basePrefix) {
    * Compose url and update `absUrl` property
    * @private
    */
-  this.$$compose = function() {
+  this[__webkitAssign__$$compose] = function() {
     var search = toKeyValue(this.$$search),
         hash = this.$$hash ? '#' + encodeUriSegment(this.$$hash) : '';
 
-    this.$$url = encodePath(this.$$path) + (search ? '?' + search : '') + hash;
-    this.$$absUrl = appBaseNoFile + this.$$url.substr(1); // first char is always '/'
+    this[__webkitAssign__$$url] = encodePath(this.$$path) + (search ? '?' + search : '') + hash;
+    this[__webkitAssign__$$absUrl] = appBaseNoFile + this.$$url.substr(1); // first char is always '/'
   };
 
-  this.$$parseLinkUrl = function(url, relHref) {
+  this[__webkitAssign__$$parseLinkUrl] = function(url, relHref) {
     if (relHref && relHref[0] === '#') {
       // special case for links to hash fragments:
       // keep the old url and only replace the hash fragment
@@ -11378,7 +11378,7 @@ function LocationHashbangUrl(appBase, hashPrefix) {
    * @param {string} url Hashbang url
    * @private
    */
-  this.$$parse = function(url) {
+  this[__webkitAssign__$$parse] = function(url) {
     var withoutBaseUrl = beginsWith(appBase, url) || beginsWith(appBaseNoFile, url);
     var withoutHashUrl;
 
@@ -11409,7 +11409,7 @@ function LocationHashbangUrl(appBase, hashPrefix) {
 
     parseAppUrl(withoutHashUrl, this);
 
-    this.$$path = removeWindowsDriveName(this.$$path, withoutHashUrl, appBase);
+    this[__webkitAssign__$$path] = removeWindowsDriveName(this.$$path, withoutHashUrl, appBase);
 
     this.$$compose();
 
@@ -11452,15 +11452,15 @@ function LocationHashbangUrl(appBase, hashPrefix) {
    * Compose hashbang url and update `absUrl` property
    * @private
    */
-  this.$$compose = function() {
+  this[__webkitAssign__$$compose] = function() {
     var search = toKeyValue(this.$$search),
         hash = this.$$hash ? '#' + encodeUriSegment(this.$$hash) : '';
 
-    this.$$url = encodePath(this.$$path) + (search ? '?' + search : '') + hash;
-    this.$$absUrl = appBase + (this.$$url ? hashPrefix + this.$$url : '');
+    this[__webkitAssign__$$url] = encodePath(this.$$path) + (search ? '?' + search : '') + hash;
+    this[__webkitAssign__$$absUrl] = appBase + (this.$$url ? hashPrefix + this.$$url : '');
   };
 
-  this.$$parseLinkUrl = function(url, relHref) {
+  this[__webkitAssign__$$parseLinkUrl] = function(url, relHref) {
     if (stripHash(appBase) == stripHash(url)) {
       this.$$parse(url);
       return true;
@@ -11480,12 +11480,12 @@ function LocationHashbangUrl(appBase, hashPrefix) {
  * @param {string} hashPrefix hashbang prefix
  */
 function LocationHashbangInHtml5Url(appBase, hashPrefix) {
-  this.$$html5 = true;
+  this[__webkitAssign__$$html5] = true;
   LocationHashbangUrl.apply(this, arguments);
 
   var appBaseNoFile = stripFile(appBase);
 
-  this.$$parseLinkUrl = function(url, relHref) {
+  this[__webkitAssign__$$parseLinkUrl] = function(url, relHref) {
     if (relHref && relHref[0] === '#') {
       // special case for links to hash fragments:
       // keep the old url and only replace the hash fragment
@@ -11509,13 +11509,13 @@ function LocationHashbangInHtml5Url(appBase, hashPrefix) {
     return !!rewrittenUrl;
   };
 
-  this.$$compose = function() {
+  this[__webkitAssign__$$compose] = function() {
     var search = toKeyValue(this.$$search),
         hash = this.$$hash ? '#' + encodeUriSegment(this.$$hash) : '';
 
-    this.$$url = encodePath(this.$$path) + (search ? '?' + search : '') + hash;
+    this[__webkitAssign__$$url] = encodePath(this.$$path) + (search ? '?' + search : '') + hash;
     // include hashPrefix in $$absUrl when $$url is empty so IE8 & 9 do not reload page because of removal of '#'
-    this.$$absUrl = appBase + hashPrefix + this.$$url;
+    this[__webkitAssign__$$absUrl] = appBase + hashPrefix + this.$$url;
   };
 
 }
@@ -11739,7 +11739,7 @@ var locationPrototype = {
       case 1:
         if (isString(search) || isNumber(search)) {
           search = search.toString();
-          this.$$search = parseKeyValue(search);
+          this[__webkitAssign__$$search] = parseKeyValue(search);
         } else if (isObject(search)) {
           search = copy(search, {});
           // remove object undefined or null properties
@@ -11747,7 +11747,7 @@ var locationPrototype = {
             if (value == null) delete search[key];
           });
 
-          this.$$search = search;
+          this[__webkitAssign__$$search] = search;
         } else {
           throw $locationMinErr('isrcharg',
               'The first argument of the `$location#search()` call must be a string or an object.');
@@ -11799,13 +11799,13 @@ var locationPrototype = {
    * record, instead of adding new one.
    */
   replace: function() {
-    this.$$replace = true;
+    this[__webkitAssign__$$replace] = true;
     return this;
   }
 };
 
 forEach([LocationHashbangInHtml5Url, LocationHashbangUrl, LocationHtml5Url], function(Location) {
-  Location.prototype = Object.create(locationPrototype);
+  Location[__webkitAssign__prototype] = Object.create(locationPrototype);
 
   /**
    * @ngdoc method
@@ -11826,7 +11826,7 @@ forEach([LocationHashbangInHtml5Url, LocationHashbangUrl, LocationHtml5Url], fun
    * @param {object=} state State object for pushState or replaceState
    * @return {object} state
    */
-  Location.prototype.state = function(state) {
+  Location.prototype[__webkitAssign__state] = function(state) {
     if (!arguments.length) {
       return this.$$state;
     }
@@ -11838,7 +11838,7 @@ forEach([LocationHashbangInHtml5Url, LocationHashbangUrl, LocationHtml5Url], fun
     // The user might modify `stateObject` after invoking `$location.state(stateObject)`
     // but we're changing the $$state reference to $browser.state() during the $digest
     // so the modification window is narrow.
-    this.$$state = isUndefined(state) ? null : state;
+    this[__webkitAssign__$$state] = isUndefined(state) ? null : state;
 
     return this;
   };
@@ -11913,7 +11913,7 @@ function $LocationProvider() {
    * @param {string=} prefix Prefix for hash part (containing path and search)
    * @returns {*} current value if used as getter or itself (chaining) if used as setter
    */
-  this.hashPrefix = function(prefix) {
+  this[__webkitAssign__hashPrefix] = function(prefix) {
     if (isDefined(prefix)) {
       hashPrefix = prefix;
       return this;
@@ -11941,22 +11941,22 @@ function $LocationProvider() {
    *
    * @returns {Object} html5Mode object if used as getter or itself (chaining) if used as setter
    */
-  this.html5Mode = function(mode) {
+  this[__webkitAssign__html5Mode] = function(mode) {
     if (isBoolean(mode)) {
-      html5Mode.enabled = mode;
+      html5Mode[__webkitAssign__enabled] = mode;
       return this;
     } else if (isObject(mode)) {
 
       if (isBoolean(mode.enabled)) {
-        html5Mode.enabled = mode.enabled;
+        html5Mode[__webkitAssign__enabled] = mode.enabled;
       }
 
       if (isBoolean(mode.requireBase)) {
-        html5Mode.requireBase = mode.requireBase;
+        html5Mode[__webkitAssign__requireBase] = mode.requireBase;
       }
 
       if (isBoolean(mode.rewriteLinks)) {
-        html5Mode.rewriteLinks = mode.rewriteLinks;
+        html5Mode[__webkitAssign__rewriteLinks] = mode.rewriteLinks;
       }
 
       return this;
@@ -12004,7 +12004,7 @@ function $LocationProvider() {
    * @param {string=} oldState History state object that was before it was changed.
    */
 
-  this.$get = ['$rootScope', '$browser', '$sniffer', '$rootElement', '$window',
+  this[__webkitAssign__$get] = ['$rootScope', '$browser', '$sniffer', '$rootElement', '$window',
       function($rootScope, $browser, $sniffer, $rootElement, $window) {
     var $location,
         LocationMode,
@@ -12026,7 +12026,7 @@ function $LocationProvider() {
     $location = new LocationMode(appBase, '#' + hashPrefix);
     $location.$$parseLinkUrl(initialUrl, initialUrl);
 
-    $location.$$state = $browser.state();
+    $location[__webkitAssign__$$state] = $browser.state();
 
     var IGNORE_URI_REGEXP = /^\s*(javascript|mailto):/i;
 
@@ -12039,11 +12039,11 @@ function $LocationProvider() {
         // Make sure $location.state() returns referentially identical (not just deeply equal)
         // state object; this makes possible quick checking if the state changed in the digest
         // loop. Checking deep equality would be too expensive.
-        $location.$$state = $browser.state();
+        $location[__webkitAssign__$$state] = $browser.state();
       } catch (e) {
         // Restore old values if pushState fails
         $location.url(oldUrl);
-        $location.$$state = oldState;
+        $location[__webkitAssign__$$state] = oldState;
 
         throw e;
       }
@@ -12109,7 +12109,7 @@ function $LocationProvider() {
         var defaultPrevented;
 
         $location.$$parse(newUrl);
-        $location.$$state = newState;
+        $location[__webkitAssign__$$state] = newState;
 
         defaultPrevented = $rootScope.$broadcast('$locationChangeStart', newUrl, oldUrl,
             newState, oldState).defaultPrevented;
@@ -12120,7 +12120,7 @@ function $LocationProvider() {
 
         if (defaultPrevented) {
           $location.$$parse(oldUrl);
-          $location.$$state = oldState;
+          $location[__webkitAssign__$$state] = oldState;
           setBrowserUrlWithFallback(oldUrl, false, oldState);
         } else {
           initializing = false;
@@ -12153,7 +12153,7 @@ function $LocationProvider() {
 
           if (defaultPrevented) {
             $location.$$parse(oldUrl);
-            $location.$$state = oldState;
+            $location[__webkitAssign__$$state] = oldState;
           } else {
             if (urlOrStateChanged) {
               setBrowserUrlWithFallback(newUrl, currentReplace,
@@ -12164,7 +12164,7 @@ function $LocationProvider() {
         });
       }
 
-      $location.$$replace = false;
+      $location[__webkitAssign__$$replace] = false;
 
       // we don't need to return anything because $evalAsync will make the digest loop dirty when
       // there is a change
@@ -12234,7 +12234,7 @@ function $LogProvider() {
    * @param {boolean=} flag enable or disable debug level messages
    * @returns {*} current value if used as getter or itself (chaining) if used as setter
    */
-  this.debugEnabled = function(flag) {
+  this[__webkitAssign__debugEnabled] = function(flag) {
     if (isDefined(flag)) {
       debug = flag;
     return this;
@@ -12243,7 +12243,7 @@ function $LogProvider() {
     }
   };
 
-  this.$get = ['$window', function($window) {
+  this[__webkitAssign__$get] = ['$window', function($window) {
     return {
       /**
        * @ngdoc method
@@ -12447,16 +12447,16 @@ var ESCAPE = {"n":"\n", "f":"\f", "r":"\r", "t":"\t", "v":"\v", "'":"'", '"':'"'
  * @constructor
  */
 var Lexer = function(options) {
-  this.options = options;
+  this[__webkitAssign__options] = options;
 };
 
-Lexer.prototype = {
+Lexer[__webkitAssign__prototype] = {
   constructor: Lexer,
 
   lex: function(text) {
-    this.text = text;
-    this.index = 0;
-    this.tokens = [];
+    this[__webkitAssign__text] = text;
+    this[__webkitAssign__index] = 0;
+    this[__webkitAssign__tokens] = [];
 
     while (this.index < this.text.length) {
       var ch = this.text.charAt(this.index);
@@ -12480,7 +12480,7 @@ Lexer.prototype = {
         if (op1 || op2 || op3) {
           var token = op3 ? ch3 : (op2 ? ch2 : ch);
           this.tokens.push({index: this.index, text: token, operator: true});
-          this.index += token.length;
+          this[__webkitAssign__index] += token.length;
         } else {
           this.throwError('Unexpected next character ', this.index, this.index + 1);
         }
@@ -12591,7 +12591,7 @@ Lexer.prototype = {
           if (!hex.match(/[\da-f]{4}/i)) {
             this.throwError('Invalid unicode escape [\\u' + hex + ']');
           }
-          this.index += 4;
+          this[__webkitAssign__index] += 4;
           string += String.fromCharCode(parseInt(hex, 16));
         } else {
           var rep = ESCAPE[ch];
@@ -12619,33 +12619,33 @@ Lexer.prototype = {
 };
 
 var AST = function(lexer, options) {
-  this.lexer = lexer;
-  this.options = options;
+  this[__webkitAssign__lexer] = lexer;
+  this[__webkitAssign__options] = options;
 };
 
-AST.Program = 'Program';
-AST.ExpressionStatement = 'ExpressionStatement';
-AST.AssignmentExpression = 'AssignmentExpression';
-AST.ConditionalExpression = 'ConditionalExpression';
-AST.LogicalExpression = 'LogicalExpression';
-AST.BinaryExpression = 'BinaryExpression';
-AST.UnaryExpression = 'UnaryExpression';
-AST.CallExpression = 'CallExpression';
-AST.MemberExpression = 'MemberExpression';
-AST.Identifier = 'Identifier';
-AST.Literal = 'Literal';
-AST.ArrayExpression = 'ArrayExpression';
-AST.Property = 'Property';
-AST.ObjectExpression = 'ObjectExpression';
-AST.ThisExpression = 'ThisExpression';
+AST[__webkitAssign__Program] = 'Program';
+AST[__webkitAssign__ExpressionStatement] = 'ExpressionStatement';
+AST[__webkitAssign__AssignmentExpression] = 'AssignmentExpression';
+AST[__webkitAssign__ConditionalExpression] = 'ConditionalExpression';
+AST[__webkitAssign__LogicalExpression] = 'LogicalExpression';
+AST[__webkitAssign__BinaryExpression] = 'BinaryExpression';
+AST[__webkitAssign__UnaryExpression] = 'UnaryExpression';
+AST[__webkitAssign__CallExpression] = 'CallExpression';
+AST[__webkitAssign__MemberExpression] = 'MemberExpression';
+AST[__webkitAssign__Identifier] = 'Identifier';
+AST[__webkitAssign__Literal] = 'Literal';
+AST[__webkitAssign__ArrayExpression] = 'ArrayExpression';
+AST[__webkitAssign__Property] = 'Property';
+AST[__webkitAssign__ObjectExpression] = 'ObjectExpression';
+AST[__webkitAssign__ThisExpression] = 'ThisExpression';
 
 // Internal use only
-AST.NGValueParameter = 'NGValueParameter';
+AST[__webkitAssign__NGValueParameter] = 'NGValueParameter';
 
-AST.prototype = {
+AST[__webkitAssign__prototype] = {
   ast: function(text) {
-    this.text = text;
-    this.tokens = this.lexer.lex(text);
+    this[__webkitAssign__text] = text;
+    this[__webkitAssign__tokens] = this.lexer.lex(text);
 
     var value = this.program();
 
@@ -12863,14 +12863,14 @@ AST.prototype = {
         }
         property = {type: AST.Property, kind: 'init'};
         if (this.peek().constant) {
-          property.key = this.constant();
+          property[__webkitAssign__key] = this.constant();
         } else if (this.peek().identifier) {
-          property.key = this.identifier();
+          property[__webkitAssign__key] = this.identifier();
         } else {
           this.throwError("invalid key", this.peek());
         }
         this.consume(':');
-        property.value = this.expression();
+        property[__webkitAssign__value] = this.expression();
         properties.push(property);
       } while (this.expect(','));
     }
@@ -12967,47 +12967,47 @@ function findConstantAndWatchExpressions(ast, $filter) {
       findConstantAndWatchExpressions(expr.expression, $filter);
       allConstants = allConstants && expr.expression.constant;
     });
-    ast.constant = allConstants;
+    ast[__webkitAssign__constant] = allConstants;
     break;
   case AST.Literal:
-    ast.constant = true;
-    ast.toWatch = [];
+    ast[__webkitAssign__constant] = true;
+    ast[__webkitAssign__toWatch] = [];
     break;
   case AST.UnaryExpression:
     findConstantAndWatchExpressions(ast.argument, $filter);
-    ast.constant = ast.argument.constant;
-    ast.toWatch = ast.argument.toWatch;
+    ast[__webkitAssign__constant] = ast.argument.constant;
+    ast[__webkitAssign__toWatch] = ast.argument.toWatch;
     break;
   case AST.BinaryExpression:
     findConstantAndWatchExpressions(ast.left, $filter);
     findConstantAndWatchExpressions(ast.right, $filter);
-    ast.constant = ast.left.constant && ast.right.constant;
-    ast.toWatch = ast.left.toWatch.concat(ast.right.toWatch);
+    ast[__webkitAssign__constant] = ast.left.constant && ast.right.constant;
+    ast[__webkitAssign__toWatch] = ast.left.toWatch.concat(ast.right.toWatch);
     break;
   case AST.LogicalExpression:
     findConstantAndWatchExpressions(ast.left, $filter);
     findConstantAndWatchExpressions(ast.right, $filter);
-    ast.constant = ast.left.constant && ast.right.constant;
-    ast.toWatch = ast.constant ? [] : [ast];
+    ast[__webkitAssign__constant] = ast.left.constant && ast.right.constant;
+    ast[__webkitAssign__toWatch] = ast.constant ? [] : [ast];
     break;
   case AST.ConditionalExpression:
     findConstantAndWatchExpressions(ast.test, $filter);
     findConstantAndWatchExpressions(ast.alternate, $filter);
     findConstantAndWatchExpressions(ast.consequent, $filter);
-    ast.constant = ast.test.constant && ast.alternate.constant && ast.consequent.constant;
-    ast.toWatch = ast.constant ? [] : [ast];
+    ast[__webkitAssign__constant] = ast.test.constant && ast.alternate.constant && ast.consequent.constant;
+    ast[__webkitAssign__toWatch] = ast.constant ? [] : [ast];
     break;
   case AST.Identifier:
-    ast.constant = false;
-    ast.toWatch = [ast];
+    ast[__webkitAssign__constant] = false;
+    ast[__webkitAssign__toWatch] = [ast];
     break;
   case AST.MemberExpression:
     findConstantAndWatchExpressions(ast.object, $filter);
     if (ast.computed) {
       findConstantAndWatchExpressions(ast.property, $filter);
     }
-    ast.constant = ast.object.constant && (!ast.computed || ast.property.constant);
-    ast.toWatch = [ast];
+    ast[__webkitAssign__constant] = ast.object.constant && (!ast.computed || ast.property.constant);
+    ast[__webkitAssign__toWatch] = [ast];
     break;
   case AST.CallExpression:
     allConstants = ast.filter ? isStateless($filter, ast.callee.name) : false;
@@ -13019,14 +13019,14 @@ function findConstantAndWatchExpressions(ast, $filter) {
         argsToWatch.push.apply(argsToWatch, expr.toWatch);
       }
     });
-    ast.constant = allConstants;
-    ast.toWatch = ast.filter && isStateless($filter, ast.callee.name) ? argsToWatch : [ast];
+    ast[__webkitAssign__constant] = allConstants;
+    ast[__webkitAssign__toWatch] = ast.filter && isStateless($filter, ast.callee.name) ? argsToWatch : [ast];
     break;
   case AST.AssignmentExpression:
     findConstantAndWatchExpressions(ast.left, $filter);
     findConstantAndWatchExpressions(ast.right, $filter);
-    ast.constant = ast.left.constant && ast.right.constant;
-    ast.toWatch = [ast];
+    ast[__webkitAssign__constant] = ast.left.constant && ast.right.constant;
+    ast[__webkitAssign__toWatch] = [ast];
     break;
   case AST.ArrayExpression:
     allConstants = true;
@@ -13038,8 +13038,8 @@ function findConstantAndWatchExpressions(ast, $filter) {
         argsToWatch.push.apply(argsToWatch, expr.toWatch);
       }
     });
-    ast.constant = allConstants;
-    ast.toWatch = argsToWatch;
+    ast[__webkitAssign__constant] = allConstants;
+    ast[__webkitAssign__toWatch] = argsToWatch;
     break;
   case AST.ObjectExpression:
     allConstants = true;
@@ -13051,12 +13051,12 @@ function findConstantAndWatchExpressions(ast, $filter) {
         argsToWatch.push.apply(argsToWatch, property.value.toWatch);
       }
     });
-    ast.constant = allConstants;
-    ast.toWatch = argsToWatch;
+    ast[__webkitAssign__constant] = allConstants;
+    ast[__webkitAssign__toWatch] = argsToWatch;
     break;
   case AST.ThisExpression:
-    ast.constant = false;
-    ast.toWatch = [];
+    ast[__webkitAssign__constant] = false;
+    ast[__webkitAssign__toWatch] = [];
     break;
   }
 }
@@ -13092,15 +13092,15 @@ function isConstant(ast) {
 }
 
 function ASTCompiler(astBuilder, $filter) {
-  this.astBuilder = astBuilder;
-  this.$filter = $filter;
+  this[__webkitAssign__astBuilder] = astBuilder;
+  this[__webkitAssign__$filter] = $filter;
 }
 
-ASTCompiler.prototype = {
+ASTCompiler[__webkitAssign__prototype] = {
   compile: function(expression, expensiveChecks) {
     var self = this;
     var ast = this.astBuilder.ast(expression);
-    this.state = {
+    this[__webkitAssign__state] = {
       nextId: 0,
       filters: {},
       expensiveChecks: expensiveChecks,
@@ -13111,27 +13111,27 @@ ASTCompiler.prototype = {
     findConstantAndWatchExpressions(ast, self.$filter);
     var extra = '';
     var assignable;
-    this.stage = 'assign';
+    this[__webkitAssign__stage] = 'assign';
     if ((assignable = assignableAST(ast))) {
-      this.state.computing = 'assign';
+      this.state[__webkitAssign__computing] = 'assign';
       var result = this.nextId();
       this.recurse(assignable, result);
       extra = 'fn.assign=' + this.generateFunction('assign', 's,v,l');
     }
     var toWatch = getInputs(ast.body);
-    self.stage = 'inputs';
+    self[__webkitAssign__stage] = 'inputs';
     forEach(toWatch, function(watch, key) {
       var fnKey = 'fn' + key;
       self.state[fnKey] = {vars: [], body: [], own: {}};
-      self.state.computing = fnKey;
+      self.state[__webkitAssign__computing] = fnKey;
       var intoId = self.nextId();
       self.recurse(watch, intoId);
       self.return_(intoId);
       self.state.inputs.push(fnKey);
-      watch.watchId = key;
+      watch[__webkitAssign__watchId] = key;
     });
-    this.state.computing = 'fn';
-    this.stage = 'main';
+    this.state[__webkitAssign__computing] = 'fn';
+    this[__webkitAssign__stage] = 'main';
     this.recurse(ast);
     var fnString =
       // The build and minification steps remove the string "use strict" from the code, but this is done using a regex.
@@ -13160,9 +13160,9 @@ ASTCompiler.prototype = {
           plusFn,
           expression);
     /* jshint +W054 */
-    this.state = this.stage = undefined;
-    fn.literal = isLiteral(ast);
-    fn.constant = isConstant(ast);
+    this[__webkitAssign__state] = this[__webkitAssign__stage] = undefined;
+    fn[__webkitAssign__literal] = isLiteral(ast);
+    fn[__webkitAssign__constant] = isConstant(ast);
     return fn;
   },
 
@@ -13269,9 +13269,9 @@ ASTCompiler.prototype = {
     case AST.Identifier:
       intoId = intoId || this.nextId();
       if (nameId) {
-        nameId.context = self.stage === 'inputs' ? 's' : this.assign(this.nextId(), this.getHasOwnProperty('l', ast.name) + '?l:s');
-        nameId.computed = false;
-        nameId.name = ast.name;
+        nameId[__webkitAssign__context] = self.stage === 'inputs' ? 's' : this.assign(this.nextId(), this.getHasOwnProperty('l', ast.name) + '?l:s');
+        nameId[__webkitAssign__computed] = false;
+        nameId[__webkitAssign__name] = ast.name;
       }
       ensureSafeMemberName(ast.name);
       self.if_(self.stage === 'inputs' || self.not(self.getHasOwnProperty('l', ast.name)),
@@ -13292,7 +13292,7 @@ ASTCompiler.prototype = {
       recursionFn(intoId);
       break;
     case AST.MemberExpression:
-      left = nameId && (nameId.context = this.nextId()) || this.nextId();
+      left = nameId && (nameId[__webkitAssign__context] = this.nextId()) || this.nextId();
       intoId = intoId || this.nextId();
       self.recurse(ast.object, left, undefined, function() {
         self.if_(self.notNull(left), function() {
@@ -13306,8 +13306,8 @@ ASTCompiler.prototype = {
             expression = self.ensureSafeObject(self.computedMember(left, right));
             self.assign(intoId, expression);
             if (nameId) {
-              nameId.computed = true;
-              nameId.name = right;
+              nameId[__webkitAssign__computed] = true;
+              nameId[__webkitAssign__name] = right;
             }
           } else {
             ensureSafeMemberName(ast.property.name);
@@ -13320,8 +13320,8 @@ ASTCompiler.prototype = {
             }
             self.assign(intoId, expression);
             if (nameId) {
-              nameId.computed = false;
-              nameId.name = ast.property.name;
+              nameId[__webkitAssign__computed] = false;
+              nameId[__webkitAssign__name] = ast.property.name;
             }
           }
         }, function() {
@@ -13565,16 +13565,16 @@ ASTCompiler.prototype = {
 
 
 function ASTInterpreter(astBuilder, $filter) {
-  this.astBuilder = astBuilder;
-  this.$filter = $filter;
+  this[__webkitAssign__astBuilder] = astBuilder;
+  this[__webkitAssign__$filter] = $filter;
 }
 
-ASTInterpreter.prototype = {
+ASTInterpreter[__webkitAssign__prototype] = {
   compile: function(expression, expensiveChecks) {
     var self = this;
     var ast = this.astBuilder.ast(expression);
-    this.expression = expression;
-    this.expensiveChecks = expensiveChecks;
+    this[__webkitAssign__expression] = expression;
+    this[__webkitAssign__expensiveChecks] = expensiveChecks;
     findConstantAndWatchExpressions(ast, self.$filter);
     var assignable;
     var assign;
@@ -13587,9 +13587,9 @@ ASTInterpreter.prototype = {
       inputs = [];
       forEach(toWatch, function(watch, key) {
         var input = self.recurse(watch);
-        watch.input = input;
+        watch[__webkitAssign__input] = input;
         inputs.push(input);
-        watch.watchId = key;
+        watch[__webkitAssign__watchId] = key;
       });
     }
     var expressions = [];
@@ -13606,15 +13606,15 @@ ASTInterpreter.prototype = {
                return lastValue;
              };
     if (assign) {
-      fn.assign = function(scope, value, locals) {
+      fn[__webkitAssign__assign] = function(scope, value, locals) {
         return assign(scope, locals, value);
       };
     }
     if (inputs) {
-      fn.inputs = inputs;
+      fn[__webkitAssign__inputs] = inputs;
     }
-    fn.literal = isLiteral(ast);
-    fn.constant = isConstant(ast);
+    fn[__webkitAssign__literal] = isLiteral(ast);
+    fn[__webkitAssign__constant] = isConstant(ast);
     return fn;
   },
 
@@ -13936,15 +13936,15 @@ ASTInterpreter.prototype = {
  * @constructor
  */
 var Parser = function(lexer, $filter, options) {
-  this.lexer = lexer;
-  this.$filter = $filter;
-  this.options = options;
-  this.ast = new AST(this.lexer);
-  this.astCompiler = options.csp ? new ASTInterpreter(this.ast, $filter) :
+  this[__webkitAssign__lexer] = lexer;
+  this[__webkitAssign__$filter] = $filter;
+  this[__webkitAssign__options] = options;
+  this[__webkitAssign__ast] = new AST(this.lexer);
+  this[__webkitAssign__astCompiler] = options.csp ? new ASTInterpreter(this.ast, $filter) :
                                    new ASTCompiler(this.ast, $filter);
 };
 
-Parser.prototype = {
+Parser[__webkitAssign__prototype] = {
   constructor: Parser,
 
   parse: function(text) {
@@ -14043,7 +14043,7 @@ function $ParseProvider() {
   var cacheDefault = createMap();
   var cacheExpensive = createMap();
 
-  this.$get = ['$filter', '$sniffer', function($filter, $sniffer) {
+  this[__webkitAssign__$get] = ['$filter', '$sniffer', function($filter, $sniffer) {
     var $parseOptions = {
           csp: $sniffer.csp,
           expensiveChecks: false
@@ -14074,12 +14074,12 @@ function $ParseProvider() {
             var parser = new Parser(lexer, $filter, parseOptions);
             parsedExpression = parser.parse(exp);
             if (parsedExpression.constant) {
-              parsedExpression.$$watchDelegate = constantWatchDelegate;
+              parsedExpression[__webkitAssign__$$watchDelegate] = constantWatchDelegate;
             } else if (oneTime) {
-              parsedExpression.$$watchDelegate = parsedExpression.literal ?
+              parsedExpression[__webkitAssign__$$watchDelegate] = parsedExpression.literal ?
                   oneTimeLiteralWatchDelegate : oneTimeWatchDelegate;
             } else if (parsedExpression.inputs) {
-              parsedExpression.$$watchDelegate = inputsWatchDelegate;
+              parsedExpression[__webkitAssign__$$watchDelegate] = inputsWatchDelegate;
             }
             cache[cacheKey] = parsedExpression;
           }
@@ -14239,12 +14239,12 @@ function $ParseProvider() {
       // Propagate $$watchDelegates other then inputsWatchDelegate
       if (parsedExpression.$$watchDelegate &&
           parsedExpression.$$watchDelegate !== inputsWatchDelegate) {
-        fn.$$watchDelegate = parsedExpression.$$watchDelegate;
+        fn[__webkitAssign__$$watchDelegate] = parsedExpression.$$watchDelegate;
       } else if (!interceptorFn.$stateful) {
         // If there is an interceptor, but no watchDelegate then treat the interceptor like
         // we treat filters - it is assumed to be a pure function unless flagged with $stateful
-        fn.$$watchDelegate = inputsWatchDelegate;
-        fn.inputs = parsedExpression.inputs ? parsedExpression.inputs : [parsedExpression];
+        fn[__webkitAssign__$$watchDelegate] = inputsWatchDelegate;
+        fn[__webkitAssign__inputs] = parsedExpression.inputs ? parsedExpression.inputs : [parsedExpression];
       }
 
       return fn;
@@ -14468,7 +14468,7 @@ function $ParseProvider() {
  */
 function $QProvider() {
 
-  this.$get = ['$rootScope', '$exceptionHandler', function($rootScope, $exceptionHandler) {
+  this[__webkitAssign__$get] = ['$rootScope', '$exceptionHandler', function($rootScope, $exceptionHandler) {
     return qFactory(function(callback) {
       $rootScope.$evalAsync(callback);
     }, $exceptionHandler);
@@ -14476,7 +14476,7 @@ function $QProvider() {
 }
 
 function $$QProvider() {
-  this.$get = ['$browser', '$exceptionHandler', function($browser, $exceptionHandler) {
+  this[__webkitAssign__$get] = ['$browser', '$exceptionHandler', function($browser, $exceptionHandler) {
     return qFactory(function(callback) {
       $browser.defer(callback);
     }, $exceptionHandler);
@@ -14521,14 +14521,14 @@ function qFactory(nextTick, exceptionHandler) {
   };
 
   function Promise() {
-    this.$$state = { status: 0 };
+    this[__webkitAssign__$$state] = { status: 0 };
   }
 
-  Promise.prototype = {
+  Promise[__webkitAssign__prototype] = {
     then: function(onFulfilled, onRejected, progressBack) {
       var result = new Deferred();
 
-      this.$$state.pending = this.$$state.pending || [];
+      this.$$state[__webkitAssign__pending] = this.$$state.pending || [];
       this.$$state.pending.push([result, onFulfilled, onRejected, progressBack]);
       if (this.$$state.status > 0) scheduleProcessQueue(this.$$state);
 
@@ -14559,8 +14559,8 @@ function qFactory(nextTick, exceptionHandler) {
     var fn, deferred, pending;
 
     pending = state.pending;
-    state.processScheduled = false;
-    state.pending = undefined;
+    state[__webkitAssign__processScheduled] = false;
+    state[__webkitAssign__pending] = undefined;
     for (var i = 0, ii = pending.length; i < ii; ++i) {
       deferred = pending[i][0];
       fn = pending[i][state.status];
@@ -14581,19 +14581,19 @@ function qFactory(nextTick, exceptionHandler) {
 
   function scheduleProcessQueue(state) {
     if (state.processScheduled || !state.pending) return;
-    state.processScheduled = true;
+    state[__webkitAssign__processScheduled] = true;
     nextTick(function() { processQueue(state); });
   }
 
   function Deferred() {
-    this.promise = new Promise();
+    this[__webkitAssign__promise] = new Promise();
     //Necessary to support unbound execution :/
-    this.resolve = simpleBind(this, this.resolve);
-    this.reject = simpleBind(this, this.reject);
-    this.notify = simpleBind(this, this.notify);
+    this[__webkitAssign__resolve] = simpleBind(this, this.resolve);
+    this[__webkitAssign__reject] = simpleBind(this, this.reject);
+    this[__webkitAssign__notify] = simpleBind(this, this.notify);
   }
 
-  Deferred.prototype = {
+  Deferred[__webkitAssign__prototype] = {
     resolve: function(val) {
       if (this.promise.$$state.status) return;
       if (val === this.promise) {
@@ -14614,11 +14614,11 @@ function qFactory(nextTick, exceptionHandler) {
       try {
         if ((isObject(val) || isFunction(val))) then = val && val.then;
         if (isFunction(then)) {
-          this.promise.$$state.status = -1;
+          this.promise.$$state[__webkitAssign__status] = -1;
           then.call(val, fns[0], fns[1], this.notify);
         } else {
-          this.promise.$$state.value = val;
-          this.promise.$$state.status = 1;
+          this.promise.$$state[__webkitAssign__value] = val;
+          this.promise.$$state[__webkitAssign__status] = 1;
           scheduleProcessQueue(this.promise.$$state);
         }
       } catch (e) {
@@ -14633,8 +14633,8 @@ function qFactory(nextTick, exceptionHandler) {
     },
 
     $$reject: function(reason) {
-      this.promise.$$state.value = reason;
-      this.promise.$$state.status = 2;
+      this.promise.$$state[__webkitAssign__value] = reason;
+      this.promise.$$state[__webkitAssign__status] = 2;
       scheduleProcessQueue(this.promise.$$state);
     },
 
@@ -14827,17 +14827,17 @@ function qFactory(nextTick, exceptionHandler) {
     return deferred.promise;
   };
 
-  $Q.defer = defer;
-  $Q.reject = reject;
-  $Q.when = when;
-  $Q.resolve = resolve;
-  $Q.all = all;
+  $Q[__webkitAssign__defer] = defer;
+  $Q[__webkitAssign__reject] = reject;
+  $Q[__webkitAssign__when] = when;
+  $Q[__webkitAssign__resolve] = resolve;
+  $Q[__webkitAssign__all] = all;
 
   return $Q;
 }
 
 function $$RAFProvider() { //rAF
-  this.$get = ['$window', '$timeout', function($window, $timeout) {
+  this[__webkitAssign__$get] = ['$window', '$timeout', function($window, $timeout) {
     var requestAnimationFrame = $window.requestAnimationFrame ||
                                 $window.webkitRequestAnimationFrame;
 
@@ -14860,7 +14860,7 @@ function $$RAFProvider() { //rAF
           };
         };
 
-    queueFn.supported = rafSupported;
+    queueFn[__webkitAssign__supported] = rafSupported;
 
     var cancelLastRAF;
     var taskCount = 0;
@@ -14875,7 +14875,7 @@ function $$RAFProvider() { //rAF
           task();
         }
       }
-      taskCount = taskQueue.length = 0;
+      taskCount = taskQueue[__webkitAssign__length] = 0;
     }
 
     function queueFn(asyncFn) {
@@ -14896,7 +14896,7 @@ function $$RAFProvider() { //rAF
           if (--taskCount === 0 && cancelLastRAF) {
             cancelLastRAF();
             cancelLastRAF = null;
-            taskQueue.length = 0;
+            taskQueue[__webkitAssign__length] = 0;
           }
         }
       };
@@ -14977,7 +14977,7 @@ function $RootScopeProvider() {
   var lastDirtyWatch = null;
   var applyAsyncId = null;
 
-  this.digestTtl = function(value) {
+  this[__webkitAssign__digestTtl] = function(value) {
     if (arguments.length) {
       TTL = value;
     }
@@ -14986,23 +14986,23 @@ function $RootScopeProvider() {
 
   function createChildScopeClass(parent) {
     function ChildScope() {
-      this.$$watchers = this.$$nextSibling =
-          this.$$childHead = this.$$childTail = null;
-      this.$$listeners = {};
-      this.$$listenerCount = {};
-      this.$$watchersCount = 0;
-      this.$id = nextUid();
-      this.$$ChildScope = null;
+      this[__webkitAssign__$$watchers] = this[__webkitAssign__$$nextSibling] =
+          this[__webkitAssign__$$childHead] = this[__webkitAssign__$$childTail] = null;
+      this[__webkitAssign__$$listeners] = {};
+      this[__webkitAssign__$$listenerCount] = {};
+      this[__webkitAssign__$$watchersCount] = 0;
+      this[__webkitAssign__$id] = nextUid();
+      this[__webkitAssign__$$ChildScope] = null;
     }
-    ChildScope.prototype = parent;
+    ChildScope[__webkitAssign__prototype] = parent;
     return ChildScope;
   }
 
-  this.$get = ['$injector', '$exceptionHandler', '$parse', '$browser',
+  this[__webkitAssign__$get] = ['$injector', '$exceptionHandler', '$parse', '$browser',
       function($injector, $exceptionHandler, $parse, $browser) {
 
     function destroyChildScope($event) {
-        $event.currentScope.$$destroyed = true;
+        $event.currentScope[__webkitAssign__$$destroyed] = true;
     }
 
     /**
@@ -15049,16 +15049,16 @@ function $RootScopeProvider() {
      *
      */
     function Scope() {
-      this.$id = nextUid();
-      this.$$phase = this.$parent = this.$$watchers =
-                     this.$$nextSibling = this.$$prevSibling =
-                     this.$$childHead = this.$$childTail = null;
-      this.$root = this;
-      this.$$destroyed = false;
-      this.$$listeners = {};
-      this.$$listenerCount = {};
-      this.$$watchersCount = 0;
-      this.$$isolateBindings = null;
+      this[__webkitAssign__$id] = nextUid();
+      this[__webkitAssign__$$phase] = this[__webkitAssign__$parent] = this[__webkitAssign__$$watchers] =
+                     this[__webkitAssign__$$nextSibling] = this[__webkitAssign__$$prevSibling] =
+                     this[__webkitAssign__$$childHead] = this[__webkitAssign__$$childTail] = null;
+      this[__webkitAssign__$root] = this;
+      this[__webkitAssign__$$destroyed] = false;
+      this[__webkitAssign__$$listeners] = {};
+      this[__webkitAssign__$$listenerCount] = {};
+      this[__webkitAssign__$$watchersCount] = 0;
+      this[__webkitAssign__$$isolateBindings] = null;
     }
 
     /**
@@ -15085,7 +15085,7 @@ function $RootScopeProvider() {
        * Reference to the root scope.
        */
 
-    Scope.prototype = {
+    Scope[__webkitAssign__prototype] = {
       constructor: Scope,
       /**
        * @ngdoc method
@@ -15123,22 +15123,22 @@ function $RootScopeProvider() {
 
         if (isolate) {
           child = new Scope();
-          child.$root = this.$root;
+          child[__webkitAssign__$root] = this.$root;
         } else {
           // Only create a child scope class if somebody asks for one,
           // but cache it to allow the VM to optimize lookups.
           if (!this.$$ChildScope) {
-            this.$$ChildScope = createChildScopeClass(this);
+            this[__webkitAssign__$$ChildScope] = createChildScopeClass(this);
           }
           child = new this.$$ChildScope();
         }
-        child.$parent = parent;
-        child.$$prevSibling = parent.$$childTail;
+        child[__webkitAssign__$parent] = parent;
+        child[__webkitAssign__$$prevSibling] = parent.$$childTail;
         if (parent.$$childHead) {
-          parent.$$childTail.$$nextSibling = child;
-          parent.$$childTail = child;
+          parent.$$childTail[__webkitAssign__$$nextSibling] = child;
+          parent[__webkitAssign__$$childTail] = child;
         } else {
-          parent.$$childHead = parent.$$childTail = child;
+          parent[__webkitAssign__$$childHead] = parent[__webkitAssign__$$childTail] = child;
         }
 
         // When the new scope is not isolated or we inherit from `this`, and
@@ -15286,11 +15286,11 @@ function $RootScopeProvider() {
         lastDirtyWatch = null;
 
         if (!isFunction(listener)) {
-          watcher.fn = noop;
+          watcher[__webkitAssign__fn] = noop;
         }
 
         if (!array) {
-          array = scope.$$watchers = [];
+          array = scope[__webkitAssign__$$watchers] = [];
         }
         // we use unshift since we use a while loop in $digest for speed.
         // the while loop reads in reverse order.
@@ -15445,7 +15445,7 @@ function $RootScopeProvider() {
        *    de-registration function is executed, the internal watch operation is terminated.
        */
       $watchCollection: function(obj, listener) {
-        $watchCollectionInterceptor.$stateful = true;
+        $watchCollectionInterceptor[__webkitAssign__$stateful] = true;
 
         var self = this;
         // the current value, updated on each dirty-check run
@@ -15480,7 +15480,7 @@ function $RootScopeProvider() {
             if (oldValue !== internalArray) {
               // we are transitioning from something which was not an array into array.
               oldValue = internalArray;
-              oldLength = oldValue.length = 0;
+              oldLength = oldValue[__webkitAssign__length] = 0;
               changeDetected++;
             }
 
@@ -15489,7 +15489,7 @@ function $RootScopeProvider() {
             if (oldLength !== newLength) {
               // if lengths do not match we need to trigger change notification
               changeDetected++;
-              oldValue.length = oldLength = newLength;
+              oldValue[__webkitAssign__length] = oldLength = newLength;
             }
             // copy the items to oldValue and look for changes.
             for (var i = 0; i < newLength; i++) {
@@ -15681,7 +15681,7 @@ function $RootScopeProvider() {
                                && isNaN(value) && isNaN(last)))) {
                       dirty = true;
                       lastDirtyWatch = watch;
-                      watch.last = watch.eq ? copy(value, null) : value;
+                      watch[__webkitAssign__last] = watch.eq ? copy(value, null) : value;
                       watch.fn(value, ((last === initWatchVal) ? value : last), current);
                       if (ttl < 5) {
                         logIdx = 4 - ttl;
@@ -15780,7 +15780,7 @@ function $RootScopeProvider() {
         var parent = this.$parent;
 
         this.$broadcast('$destroy');
-        this.$$destroyed = true;
+        this[__webkitAssign__$$destroyed] = true;
 
         if (this === $rootScope) {
           //Remove handlers attached to window when $rootScope is removed
@@ -15794,15 +15794,15 @@ function $RootScopeProvider() {
 
         // sever all the references to parent scopes (after this cleanup, the current scope should
         // not be retained by any of our references and should be eligible for garbage collection)
-        if (parent && parent.$$childHead == this) parent.$$childHead = this.$$nextSibling;
-        if (parent && parent.$$childTail == this) parent.$$childTail = this.$$prevSibling;
-        if (this.$$prevSibling) this.$$prevSibling.$$nextSibling = this.$$nextSibling;
-        if (this.$$nextSibling) this.$$nextSibling.$$prevSibling = this.$$prevSibling;
+        if (parent && parent.$$childHead == this) parent[__webkitAssign__$$childHead] = this.$$nextSibling;
+        if (parent && parent.$$childTail == this) parent[__webkitAssign__$$childTail] = this.$$prevSibling;
+        if (this.$$prevSibling) this.$$prevSibling[__webkitAssign__$$nextSibling] = this.$$nextSibling;
+        if (this.$$nextSibling) this.$$nextSibling[__webkitAssign__$$prevSibling] = this.$$prevSibling;
 
         // Disable listeners, watchers and apply/digest methods
-        this.$destroy = this.$digest = this.$apply = this.$evalAsync = this.$applyAsync = noop;
-        this.$on = this.$watch = this.$watchGroup = function() { return noop; };
-        this.$$listeners = {};
+        this[__webkitAssign__$destroy] = this[__webkitAssign__$digest] = this[__webkitAssign__$apply] = this[__webkitAssign__$evalAsync] = this[__webkitAssign__$applyAsync] = noop;
+        this[__webkitAssign__$on] = this[__webkitAssign__$watch] = this[__webkitAssign__$watchGroup] = function() { return noop; };
+        this[__webkitAssign__$$listeners] = {};
 
         // All of the code below is bogus code that works around V8's memory leak via optimized code
         // and inline caches.
@@ -15812,8 +15812,8 @@ function $RootScopeProvider() {
         // - https://github.com/angular/angular.js/issues/6794#issuecomment-38648909
         // - https://github.com/angular/angular.js/issues/1313#issuecomment-10378451
 
-        this.$parent = this.$$nextSibling = this.$$prevSibling = this.$$childHead =
-            this.$$childTail = this.$root = this.$$watchers = null;
+        this[__webkitAssign__$parent] = this[__webkitAssign__$$nextSibling] = this[__webkitAssign__$$prevSibling] = this[__webkitAssign__$$childHead] =
+            this[__webkitAssign__$$childTail] = this[__webkitAssign__$root] = this[__webkitAssign__$$watchers] = null;
       },
 
       /**
@@ -16070,7 +16070,7 @@ function $RootScopeProvider() {
               targetScope: scope,
               stopPropagation: function() {stopPropagation = true;},
               preventDefault: function() {
-                event.defaultPrevented = true;
+                event[__webkitAssign__defaultPrevented] = true;
               },
               defaultPrevented: false
             },
@@ -16079,7 +16079,7 @@ function $RootScopeProvider() {
 
         do {
           namedListeners = scope.$$listeners[name] || empty;
-          event.currentScope = scope;
+          event[__webkitAssign__currentScope] = scope;
           for (i = 0, length = namedListeners.length; i < length; i++) {
 
             // if listeners were deregistered, defragment the array
@@ -16098,14 +16098,14 @@ function $RootScopeProvider() {
           }
           //if any listener on the current scope stops propagation, prevent bubbling
           if (stopPropagation) {
-            event.currentScope = null;
+            event[__webkitAssign__currentScope] = null;
             return event;
           }
           //traverse upwards
           scope = scope.$parent;
         } while (scope);
 
-        event.currentScope = null;
+        event[__webkitAssign__currentScope] = null;
 
         return event;
       },
@@ -16140,7 +16140,7 @@ function $RootScopeProvider() {
               name: name,
               targetScope: target,
               preventDefault: function() {
-                event.defaultPrevented = true;
+                event[__webkitAssign__defaultPrevented] = true;
               },
               defaultPrevented: false
             };
@@ -16152,7 +16152,7 @@ function $RootScopeProvider() {
 
         //down while you can, then up and next sibling or up and next sibling until back at root
         while ((current = next)) {
-          event.currentScope = current;
+          event[__webkitAssign__currentScope] = current;
           listeners = current.$$listeners[name] || [];
           for (i = 0, length = listeners.length; i < length; i++) {
             // if listeners were deregistered, defragment the array
@@ -16182,7 +16182,7 @@ function $RootScopeProvider() {
           }
         }
 
-        event.currentScope = null;
+        event[__webkitAssign__currentScope] = null;
         return event;
       }
     };
@@ -16190,9 +16190,9 @@ function $RootScopeProvider() {
     var $rootScope = new Scope();
 
     //The internal queues. Expose them on the $rootScope for debugging/testing purposes.
-    var asyncQueue = $rootScope.$$asyncQueue = [];
-    var postDigestQueue = $rootScope.$$postDigestQueue = [];
-    var applyAsyncQueue = $rootScope.$$applyAsyncQueue = [];
+    var asyncQueue = $rootScope[__webkitAssign__$$asyncQueue] = [];
+    var postDigestQueue = $rootScope[__webkitAssign__$$postDigestQueue] = [];
+    var applyAsyncQueue = $rootScope[__webkitAssign__$$applyAsyncQueue] = [];
 
     return $rootScope;
 
@@ -16202,16 +16202,16 @@ function $RootScopeProvider() {
         throw $rootScopeMinErr('inprog', '{0} already in progress', $rootScope.$$phase);
       }
 
-      $rootScope.$$phase = phase;
+      $rootScope[__webkitAssign__$$phase] = phase;
     }
 
     function clearPhase() {
-      $rootScope.$$phase = null;
+      $rootScope[__webkitAssign__$$phase] = null;
     }
 
     function incrementWatchersCount(current, count) {
       do {
-        current.$$watchersCount += count;
+        current[__webkitAssign__$$watchersCount] += count;
       } while ((current = current.$parent));
     }
 
@@ -16276,7 +16276,7 @@ function $$SanitizeUriProvider() {
    * @returns {RegExp|ng.$compileProvider} Current RegExp if called without value or self for
    *    chaining otherwise.
    */
-  this.aHrefSanitizationWhitelist = function(regexp) {
+  this[__webkitAssign__aHrefSanitizationWhitelist] = function(regexp) {
     if (isDefined(regexp)) {
       aHrefSanitizationWhitelist = regexp;
       return this;
@@ -16301,7 +16301,7 @@ function $$SanitizeUriProvider() {
    * @returns {RegExp|ng.$compileProvider} Current RegExp if called without value or self for
    *    chaining otherwise.
    */
-  this.imgSrcSanitizationWhitelist = function(regexp) {
+  this[__webkitAssign__imgSrcSanitizationWhitelist] = function(regexp) {
     if (isDefined(regexp)) {
       imgSrcSanitizationWhitelist = regexp;
       return this;
@@ -16309,7 +16309,7 @@ function $$SanitizeUriProvider() {
     return imgSrcSanitizationWhitelist;
   };
 
-  this.$get = function() {
+  this[__webkitAssign__$get] = function() {
     return function sanitizeUri(uri, isImage) {
       var regex = isImage ? imgSrcSanitizationWhitelist : aHrefSanitizationWhitelist;
       var normalizedVal;
@@ -16454,7 +16454,7 @@ function adjustMatchers(matchers) {
  */
 
 function $SceDelegateProvider() {
-  this.SCE_CONTEXTS = SCE_CONTEXTS;
+  this[__webkitAssign__SCE_CONTEXTS] = SCE_CONTEXTS;
 
   // Resource URLs can also be trusted by policy.
   var resourceUrlWhitelist = ['self'],
@@ -16482,7 +16482,7 @@ function $SceDelegateProvider() {
    * @description
    * Sets/Gets the whitelist of trusted resource URLs.
    */
-  this.resourceUrlWhitelist = function(value) {
+  this[__webkitAssign__resourceUrlWhitelist] = function(value) {
     if (arguments.length) {
       resourceUrlWhitelist = adjustMatchers(value);
     }
@@ -16516,14 +16516,14 @@ function $SceDelegateProvider() {
    * Sets/Gets the blacklist of trusted resource URLs.
    */
 
-  this.resourceUrlBlacklist = function(value) {
+  this[__webkitAssign__resourceUrlBlacklist] = function(value) {
     if (arguments.length) {
       resourceUrlBlacklist = adjustMatchers(value);
     }
     return resourceUrlBlacklist;
   };
 
-  this.$get = ['$injector', function($injector) {
+  this[__webkitAssign__$get] = ['$injector', function($injector) {
 
     var htmlSanitizer = function htmlSanitizer(html) {
       throw $sceMinErr('unsafe', 'Attempting to use an unsafe value in a safe context.');
@@ -16567,17 +16567,17 @@ function $SceDelegateProvider() {
 
     function generateHolderType(Base) {
       var holderType = function TrustedValueHolderType(trustedValue) {
-        this.$$unwrapTrustedValue = function() {
+        this[__webkitAssign__$$unwrapTrustedValue] = function() {
           return trustedValue;
         };
       };
       if (Base) {
-        holderType.prototype = new Base();
+        holderType[__webkitAssign__prototype] = new Base();
       }
-      holderType.prototype.valueOf = function sceValueOf() {
+      holderType.prototype[__webkitAssign__valueOf] = function sceValueOf() {
         return this.$$unwrapTrustedValue();
       };
-      holderType.prototype.toString = function sceToString() {
+      holderType.prototype[__webkitAssign__toString] = function sceToString() {
         return this.$$unwrapTrustedValue().toString();
       };
       return holderType;
@@ -16997,7 +16997,7 @@ function $SceProvider() {
    * @description
    * Enables/disables SCE and returns the current value.
    */
-  this.enabled = function(value) {
+  this[__webkitAssign__enabled] = function(value) {
     if (arguments.length) {
       enabled = !!value;
     }
@@ -17051,7 +17051,7 @@ function $SceProvider() {
    * sce.js and sceSpecs.js would need to be aware of this detail.
    */
 
-  this.$get = ['$parse', '$sceDelegate', function(
+  this[__webkitAssign__$get] = ['$parse', '$sceDelegate', function(
                 $parse,   $sceDelegate) {
     // Prereq: Ensure that we're not running in IE<11 quirks mode.  In that mode, IE < 11 allow
     // the "expression(javascript expression)" syntax which is insecure.
@@ -17075,16 +17075,16 @@ function $SceProvider() {
      * @description
      * Returns a boolean indicating if SCE is enabled.
      */
-    sce.isEnabled = function() {
+    sce[__webkitAssign__isEnabled] = function() {
       return enabled;
     };
-    sce.trustAs = $sceDelegate.trustAs;
-    sce.getTrusted = $sceDelegate.getTrusted;
-    sce.valueOf = $sceDelegate.valueOf;
+    sce[__webkitAssign__trustAs] = $sceDelegate.trustAs;
+    sce[__webkitAssign__getTrusted] = $sceDelegate.getTrusted;
+    sce[__webkitAssign__valueOf] = $sceDelegate.valueOf;
 
     if (!enabled) {
-      sce.trustAs = sce.getTrusted = function(type, value) { return value; };
-      sce.valueOf = identity;
+      sce[__webkitAssign__trustAs] = sce[__webkitAssign__getTrusted] = function(type, value) { return value; };
+      sce[__webkitAssign__valueOf] = identity;
     }
 
     /**
@@ -17106,7 +17106,7 @@ function $SceProvider() {
      *    * `locals` – `{object=}` – local variables context object, useful for overriding values in
      *      `context`.
      */
-    sce.parseAs = function sceParseAs(type, expr) {
+    sce[__webkitAssign__parseAs] = function sceParseAs(type, expr) {
       var parsed = $parse(expr);
       if (parsed.literal && parsed.constant) {
         return parsed;
@@ -17396,7 +17396,7 @@ function $SceProvider() {
  * This is very simple implementation of testing browser's features.
  */
 function $SnifferProvider() {
-  this.$get = ['$window', '$document', function($window, $document) {
+  this[__webkitAssign__$get] = ['$window', '$document', function($window, $document) {
     var eventSupport = {},
         android =
           toInt((/android (\d+)/.exec(lowercase(($window.navigator || {}).userAgent)) || [])[1]),
@@ -17490,7 +17490,7 @@ var $compileMinErr = minErr('$compile');
  * @property {number} totalPendingRequests total amount of pending template requests being downloaded.
  */
 function $TemplateRequestProvider() {
-  this.$get = ['$templateCache', '$http', '$q', '$sce', function($templateCache, $http, $q, $sce) {
+  this[__webkitAssign__$get] = ['$templateCache', '$http', '$q', '$sce', function($templateCache, $http, $q, $sce) {
     function handleRequestFn(tpl, ignoreRequestError) {
       handleRequestFn.totalPendingRequests++;
 
@@ -17536,14 +17536,14 @@ function $TemplateRequestProvider() {
       }
     }
 
-    handleRequestFn.totalPendingRequests = 0;
+    handleRequestFn[__webkitAssign__totalPendingRequests] = 0;
 
     return handleRequestFn;
   }];
 }
 
 function $$TestabilityProvider() {
-  this.$get = ['$rootScope', '$browser', '$location',
+  this[__webkitAssign__$get] = ['$rootScope', '$browser', '$location',
        function($rootScope,   $browser,   $location) {
 
     /**
@@ -17567,7 +17567,7 @@ function $$TestabilityProvider() {
      * @param {boolean} opt_exactMatch If true, only returns exact matches
      *     for the expression. Filters and whitespace are ignored.
      */
-    testability.findBindings = function(element, expression, opt_exactMatch) {
+    testability[__webkitAssign__findBindings] = function(element, expression, opt_exactMatch) {
       var bindings = element.getElementsByClassName('ng-binding');
       var matches = [];
       forEach(bindings, function(binding) {
@@ -17602,7 +17602,7 @@ function $$TestabilityProvider() {
      * @param {boolean} opt_exactMatch If true, only returns exact matches
      *     for the expression.
      */
-    testability.findModels = function(element, expression, opt_exactMatch) {
+    testability[__webkitAssign__findModels] = function(element, expression, opt_exactMatch) {
       var prefixes = ['ng-', 'data-ng-', 'ng\\:'];
       for (var p = 0; p < prefixes.length; ++p) {
         var attributeEquals = opt_exactMatch ? '=' : '*=';
@@ -17621,7 +17621,7 @@ function $$TestabilityProvider() {
      * Shortcut for getting the location in a browser agnostic way. Returns
      *     the path, search, and hash. (e.g. /path?a=b#hash)
      */
-    testability.getLocation = function() {
+    testability[__webkitAssign__getLocation] = function() {
       return $location.url();
     };
 
@@ -17634,7 +17634,7 @@ function $$TestabilityProvider() {
      * @param {string} url The location url (path, search and hash,
      *     e.g. /path?a=b#hash) to go to.
      */
-    testability.setLocation = function(url) {
+    testability[__webkitAssign__setLocation] = function(url) {
       if (url !== $location.url()) {
         $location.url(url);
         $rootScope.$digest();
@@ -17649,7 +17649,7 @@ function $$TestabilityProvider() {
      *
      * @param {function} callback
      */
-    testability.whenStable = function(callback) {
+    testability[__webkitAssign__whenStable] = function(callback) {
       $browser.notifyWhenNoOutstandingRequests(callback);
     };
 
@@ -17658,7 +17658,7 @@ function $$TestabilityProvider() {
 }
 
 function $TimeoutProvider() {
-  this.$get = ['$rootScope', '$browser', '$q', '$$q', '$exceptionHandler',
+  this[__webkitAssign__$get] = ['$rootScope', '$browser', '$q', '$$q', '$exceptionHandler',
        function($rootScope,   $browser,   $q,   $$q,   $exceptionHandler) {
 
     var deferreds = {};
@@ -17720,7 +17720,7 @@ function $TimeoutProvider() {
         if (!skipApply) $rootScope.$apply();
       }, delay);
 
-      promise.$$timeoutId = timeoutId;
+      promise[__webkitAssign__$$timeoutId] = timeoutId;
       deferreds[timeoutId] = deferred;
 
       return promise;
@@ -17739,7 +17739,7 @@ function $TimeoutProvider() {
       * @returns {boolean} Returns `true` if the task hasn't executed yet and was successfully
       *   canceled.
       */
-    timeout.cancel = function(promise) {
+    timeout[__webkitAssign__cancel] = function(promise) {
       if (promise && promise.$$timeoutId in deferreds) {
         deferreds[promise.$$timeoutId].reject('canceled');
         delete deferreds[promise.$$timeoutId];
@@ -17897,7 +17897,7 @@ function urlIsSameOrigin(requestUrl) {
    </example>
  */
 function $WindowProvider() {
-  this.$get = valueFn(window);
+  this[__webkitAssign__$get] = valueFn(window);
 }
 
 /**
@@ -17949,10 +17949,10 @@ function $$CookieReader($document) {
   };
 }
 
-$$CookieReader.$inject = ['$document'];
+$$CookieReader[__webkitAssign__$inject] = ['$document'];
 
 function $$CookieReaderProvider() {
-  this.$get = $$CookieReader;
+  this[__webkitAssign__$get] = $$CookieReader;
 }
 
 /* global currencyFilter: true,
@@ -18054,7 +18054,7 @@ function $$CookieReaderProvider() {
      </file>
    </example>
   */
-$FilterProvider.$inject = ['$provide'];
+$FilterProvider[__webkitAssign__$inject] = ['$provide'];
 function $FilterProvider($provide) {
   var suffix = 'Filter';
 
@@ -18084,9 +18084,9 @@ function $FilterProvider($provide) {
       return $provide.factory(name + suffix, factory);
     }
   }
-  this.register = register;
+  this[__webkitAssign__register] = register;
 
-  this.$get = ['$injector', function($injector) {
+  this[__webkitAssign__$get] = ['$injector', function($injector) {
     return function(name) {
       return $injector.get(name + suffix);
     };
@@ -18424,7 +18424,7 @@ function getTypeForFilter(val) {
      </file>
    </example>
  */
-currencyFilter.$inject = ['$locale'];
+currencyFilter[__webkitAssign__$inject] = ['$locale'];
 function currencyFilter($locale) {
   var formats = $locale.NUMBER_FORMATS;
   return function(amount, currencySymbol, fractionSize) {
@@ -18498,7 +18498,7 @@ function currencyFilter($locale) {
  */
 
 
-numberFilter.$inject = ['$locale'];
+numberFilter[__webkitAssign__$inject] = ['$locale'];
 function numberFilter($locale) {
   var formats = $locale.NUMBER_FORMATS;
   return function(number, fractionSize) {
@@ -18812,7 +18812,7 @@ var DATE_FORMATS_SPLIT = /((?:[^yMdHhmsaZEwG']+)|(?:'(?:[^']|'')*')|(?:E+|y+|M+|
      </file>
    </example>
  */
-dateFilter.$inject = ['$locale'];
+dateFilter[__webkitAssign__$inject] = ['$locale'];
 function dateFilter($locale) {
 
 
@@ -19249,7 +19249,7 @@ function limitToFilter() {
     </file>
 </example>
  */
-orderByFilter.$inject = ['$parse'];
+orderByFilter[__webkitAssign__$inject] = ['$parse'];
 function orderByFilter($parse) {
   return function(array, sortPredicate, reverseOrder) {
 
@@ -19370,7 +19370,7 @@ function ngDirective(directive) {
       link: directive
     };
   }
-  directive.restrict = directive.restrict || 'AC';
+  directive[__webkitAssign__restrict] = directive.restrict || 'AC';
   return valueFn(directive);
 }
 
@@ -19869,7 +19869,7 @@ var nullFormCtrl = {
 SUBMITTED_CLASS = 'ng-submitted';
 
 function nullFormRenameControl(control, name) {
-  control.$name = name;
+  control[__webkitAssign__$name] = name;
 }
 
 /**
@@ -19914,23 +19914,23 @@ function nullFormRenameControl(control, name) {
  *
  */
 //asks for $scope to fool the BC controller module
-FormController.$inject = ['$element', '$attrs', '$scope', '$animate', '$interpolate'];
+FormController[__webkitAssign__$inject] = ['$element', '$attrs', '$scope', '$animate', '$interpolate'];
 function FormController(element, attrs, $scope, $animate, $interpolate) {
   var form = this,
       controls = [];
 
-  var parentForm = form.$$parentForm = element.parent().controller('form') || nullFormCtrl;
+  var parentForm = form[__webkitAssign__$$parentForm] = element.parent().controller('form') || nullFormCtrl;
 
   // init state
-  form.$error = {};
-  form.$$success = {};
-  form.$pending = undefined;
-  form.$name = $interpolate(attrs.name || attrs.ngForm || '')($scope);
-  form.$dirty = false;
-  form.$pristine = true;
-  form.$valid = true;
-  form.$invalid = false;
-  form.$submitted = false;
+  form[__webkitAssign__$error] = {};
+  form[__webkitAssign__$$success] = {};
+  form[__webkitAssign__$pending] = undefined;
+  form[__webkitAssign__$name] = $interpolate(attrs.name || attrs.ngForm || '')($scope);
+  form[__webkitAssign__$dirty] = false;
+  form[__webkitAssign__$pristine] = true;
+  form[__webkitAssign__$valid] = true;
+  form[__webkitAssign__$invalid] = false;
+  form[__webkitAssign__$submitted] = false;
 
   parentForm.$addControl(form);
 
@@ -19945,7 +19945,7 @@ function FormController(element, attrs, $scope, $animate, $interpolate) {
    * event defined in `ng-model-options`. This method is typically needed by the reset button of
    * a form that uses `ng-model-options` to pend updates.
    */
-  form.$rollbackViewValue = function() {
+  form[__webkitAssign__$rollbackViewValue] = function() {
     forEach(controls, function(control) {
       control.$rollbackViewValue();
     });
@@ -19962,7 +19962,7 @@ function FormController(element, attrs, $scope, $animate, $interpolate) {
    * event defined in `ng-model-options`. This method is rarely needed as `NgModelController`
    * usually handles calling this in response to input events.
    */
-  form.$commitViewValue = function() {
+  form[__webkitAssign__$commitViewValue] = function() {
     forEach(controls, function(control) {
       control.$commitViewValue();
     });
@@ -19977,7 +19977,7 @@ function FormController(element, attrs, $scope, $animate, $interpolate) {
    *
    * Input elements using ngModelController do this automatically when they are linked.
    */
-  form.$addControl = function(control) {
+  form[__webkitAssign__$addControl] = function(control) {
     // Breaking change - before, inputs whose name was "hasOwnProperty" were quietly ignored
     // and not added to the scope.  Now we throw an error.
     assertNotHasOwnProperty(control.$name, 'input');
@@ -19989,14 +19989,14 @@ function FormController(element, attrs, $scope, $animate, $interpolate) {
   };
 
   // Private API: rename a form control
-  form.$$renameControl = function(control, newName) {
+  form[__webkitAssign__$$renameControl] = function(control, newName) {
     var oldName = control.$name;
 
     if (form[oldName] === control) {
       delete form[oldName];
     }
     form[newName] = control;
-    control.$name = newName;
+    control[__webkitAssign__$name] = newName;
   };
 
   /**
@@ -20008,7 +20008,7 @@ function FormController(element, attrs, $scope, $animate, $interpolate) {
    *
    * Input elements using ngModelController do this automatically when they are destroyed.
    */
-  form.$removeControl = function(control) {
+  form[__webkitAssign__$removeControl] = function(control) {
     if (control.$name && form[control.$name] === control) {
       delete form[control.$name];
     }
@@ -20073,11 +20073,11 @@ function FormController(element, attrs, $scope, $animate, $interpolate) {
    * This method can be called to add the 'ng-dirty' class and set the form to a dirty
    * state (ng-dirty class). This method will also propagate to parent forms.
    */
-  form.$setDirty = function() {
+  form[__webkitAssign__$setDirty] = function() {
     $animate.removeClass(element, PRISTINE_CLASS);
     $animate.addClass(element, DIRTY_CLASS);
-    form.$dirty = true;
-    form.$pristine = false;
+    form[__webkitAssign__$dirty] = true;
+    form[__webkitAssign__$pristine] = false;
     parentForm.$setDirty();
   };
 
@@ -20095,11 +20095,11 @@ function FormController(element, attrs, $scope, $animate, $interpolate) {
    * Setting a form back to a pristine state is often useful when we want to 'reuse' a form after
    * saving or resetting it.
    */
-  form.$setPristine = function() {
+  form[__webkitAssign__$setPristine] = function() {
     $animate.setClass(element, PRISTINE_CLASS, DIRTY_CLASS + ' ' + SUBMITTED_CLASS);
-    form.$dirty = false;
-    form.$pristine = true;
-    form.$submitted = false;
+    form[__webkitAssign__$dirty] = false;
+    form[__webkitAssign__$pristine] = true;
+    form[__webkitAssign__$submitted] = false;
     forEach(controls, function(control) {
       control.$setPristine();
     });
@@ -20118,7 +20118,7 @@ function FormController(element, attrs, $scope, $animate, $interpolate) {
    * Setting a form controls back to their untouched state is often useful when setting the form
    * back to its pristine state.
    */
-  form.$setUntouched = function() {
+  form[__webkitAssign__$setUntouched] = function() {
     forEach(controls, function(control) {
       control.$setUntouched();
     });
@@ -20131,9 +20131,9 @@ function FormController(element, attrs, $scope, $animate, $interpolate) {
    * @description
    * Sets the form to its submitted state.
    */
-  form.$setSubmitted = function() {
+  form[__webkitAssign__$setSubmitted] = function() {
     $animate.addClass(element, SUBMITTED_CLASS);
-    form.$submitted = true;
+    form[__webkitAssign__$submitted] = true;
     parentForm.$setSubmitted();
   };
 }
@@ -21502,7 +21502,7 @@ function baseInputType(scope, element, attr, ctrl, $sniffer, $browser) {
   // or form autocomplete on newer browser, we need "change" event to catch it
   element.on('change', listener);
 
-  ctrl.$render = function() {
+  ctrl[__webkitAssign__$render] = function() {
     element.val(ctrl.$isEmpty(ctrl.$viewValue) ? '' : ctrl.$viewValue);
   };
 }
@@ -21513,7 +21513,7 @@ function weekParser(isoWeek, existingDate) {
   }
 
   if (isString(isoWeek)) {
-    WEEK_REGEXP.lastIndex = 0;
+    WEEK_REGEXP[__webkitAssign__lastIndex] = 0;
     var parts = WEEK_REGEXP.exec(isoWeek);
     if (parts) {
       var year = +parts[1],
@@ -21557,7 +21557,7 @@ function createDateParser(regexp, mapping) {
       if (ISO_DATE_REGEXP.test(iso)) {
         return new Date(iso);
       }
-      regexp.lastIndex = 0;
+      regexp[__webkitAssign__lastIndex] = 0;
       parts = regexp.exec(iso);
 
       if (parts) {
@@ -21596,7 +21596,7 @@ function createDateInputType(type, regexp, parseDate, format) {
     var timezone = ctrl && ctrl.$options && ctrl.$options.timezone;
     var previousDate;
 
-    ctrl.$$parserName = type;
+    ctrl[__webkitAssign__$$parserName] = type;
     ctrl.$parsers.push(function(value) {
       if (ctrl.$isEmpty(value)) return null;
       if (regexp.test(value)) {
@@ -21630,7 +21630,7 @@ function createDateInputType(type, regexp, parseDate, format) {
 
     if (isDefined(attr.min) || attr.ngMin) {
       var minVal;
-      ctrl.$validators.min = function(value) {
+      ctrl.$validators[__webkitAssign__min] = function(value) {
         return !isValidDate(value) || isUndefined(minVal) || parseDate(value) >= minVal;
       };
       attr.$observe('min', function(val) {
@@ -21641,7 +21641,7 @@ function createDateInputType(type, regexp, parseDate, format) {
 
     if (isDefined(attr.max) || attr.ngMax) {
       var maxVal;
-      ctrl.$validators.max = function(value) {
+      ctrl.$validators[__webkitAssign__max] = function(value) {
         return !isValidDate(value) || isUndefined(maxVal) || parseDate(value) <= maxVal;
       };
       attr.$observe('max', function(val) {
@@ -21663,7 +21663,7 @@ function createDateInputType(type, regexp, parseDate, format) {
 
 function badInputChecker(scope, element, attr, ctrl) {
   var node = element[0];
-  var nativeValidation = ctrl.$$hasNativeValidators = isObject(node.validity);
+  var nativeValidation = ctrl[__webkitAssign__$$hasNativeValidators] = isObject(node.validity);
   if (nativeValidation) {
     ctrl.$parsers.push(function(value) {
       var validity = element.prop(VALIDITY_STATE_PROPERTY) || {};
@@ -21680,7 +21680,7 @@ function numberInputType(scope, element, attr, ctrl, $sniffer, $browser) {
   badInputChecker(scope, element, attr, ctrl);
   baseInputType(scope, element, attr, ctrl, $sniffer, $browser);
 
-  ctrl.$$parserName = 'number';
+  ctrl[__webkitAssign__$$parserName] = 'number';
   ctrl.$parsers.push(function(value) {
     if (ctrl.$isEmpty(value))      return null;
     if (NUMBER_REGEXP.test(value)) return parseFloat(value);
@@ -21699,7 +21699,7 @@ function numberInputType(scope, element, attr, ctrl, $sniffer, $browser) {
 
   if (isDefined(attr.min) || attr.ngMin) {
     var minVal;
-    ctrl.$validators.min = function(value) {
+    ctrl.$validators[__webkitAssign__min] = function(value) {
       return ctrl.$isEmpty(value) || isUndefined(minVal) || value >= minVal;
     };
 
@@ -21715,7 +21715,7 @@ function numberInputType(scope, element, attr, ctrl, $sniffer, $browser) {
 
   if (isDefined(attr.max) || attr.ngMax) {
     var maxVal;
-    ctrl.$validators.max = function(value) {
+    ctrl.$validators[__webkitAssign__max] = function(value) {
       return ctrl.$isEmpty(value) || isUndefined(maxVal) || value <= maxVal;
     };
 
@@ -21736,8 +21736,8 @@ function urlInputType(scope, element, attr, ctrl, $sniffer, $browser) {
   baseInputType(scope, element, attr, ctrl, $sniffer, $browser);
   stringBasedInputType(ctrl);
 
-  ctrl.$$parserName = 'url';
-  ctrl.$validators.url = function(modelValue, viewValue) {
+  ctrl[__webkitAssign__$$parserName] = 'url';
+  ctrl.$validators[__webkitAssign__url] = function(modelValue, viewValue) {
     var value = modelValue || viewValue;
     return ctrl.$isEmpty(value) || URL_REGEXP.test(value);
   };
@@ -21749,8 +21749,8 @@ function emailInputType(scope, element, attr, ctrl, $sniffer, $browser) {
   baseInputType(scope, element, attr, ctrl, $sniffer, $browser);
   stringBasedInputType(ctrl);
 
-  ctrl.$$parserName = 'email';
-  ctrl.$validators.email = function(modelValue, viewValue) {
+  ctrl[__webkitAssign__$$parserName] = 'email';
+  ctrl.$validators[__webkitAssign__email] = function(modelValue, viewValue) {
     var value = modelValue || viewValue;
     return ctrl.$isEmpty(value) || EMAIL_REGEXP.test(value);
   };
@@ -21770,9 +21770,9 @@ function radioInputType(scope, element, attr, ctrl) {
 
   element.on('click', listener);
 
-  ctrl.$render = function() {
+  ctrl[__webkitAssign__$render] = function() {
     var value = attr.value;
-    element[0].checked = (value == ctrl.$viewValue);
+    element[0][__webkitAssign__checked] = (value == ctrl.$viewValue);
   };
 
   attr.$observe('value', ctrl.$render);
@@ -21801,14 +21801,14 @@ function checkboxInputType(scope, element, attr, ctrl, $sniffer, $browser, $filt
 
   element.on('click', listener);
 
-  ctrl.$render = function() {
-    element[0].checked = ctrl.$viewValue;
+  ctrl[__webkitAssign__$render] = function() {
+    element[0][__webkitAssign__checked] = ctrl.$viewValue;
   };
 
   // Override the standard `$isEmpty` because the $viewValue of an empty checkbox is always set to `false`
   // This is because of the parser below, which compares the `$modelValue` with `trueValue` to convert
   // it to a boolean.
-  ctrl.$isEmpty = function(value) {
+  ctrl[__webkitAssign__$isEmpty] = function(value) {
     return value === false;
   };
 
@@ -22151,7 +22151,7 @@ var ngBindDirective = ['$compile', function($compile) {
         $compile.$$addBindingInfo(element, attr.ngBind);
         element = element[0];
         scope.$watch(attr.ngBind, function ngBindWatchAction(value) {
-          element.textContent = value === undefined ? '' : value;
+          element[__webkitAssign__textContent] = value === undefined ? '' : value;
         });
       };
     }
@@ -22219,7 +22219,7 @@ var ngBindTemplateDirective = ['$interpolate', '$compile', function($interpolate
         $compile.$$addBindingInfo(element, interpolateFn.expressions);
         element = element[0];
         attr.$observe('ngBindTemplate', function(value) {
-          element.textContent = value === undefined ? '' : value;
+          element[__webkitAssign__textContent] = value === undefined ? '' : value;
         });
       };
     }
@@ -24074,7 +24074,7 @@ var ngIncludeDirective = ['$templateRequest', '$anchorScroll', '$animate',
             $templateRequest(src, true).then(function(response) {
               if (thisChangeId !== changeCounter) return;
               var newScope = scope.$new();
-              ctrl.template = response;
+              ctrl[__webkitAssign__template] = response;
 
               // Note: This will also link all children of ng-include that were contained in the original
               // html. If that content contains controllers, ... they could pollute/change the scope.
@@ -24101,7 +24101,7 @@ var ngIncludeDirective = ['$templateRequest', '$anchorScroll', '$animate',
             scope.$emit('$includeContentRequested', src);
           } else {
             cleanupLastIncludeContent();
-            ctrl.template = null;
+            ctrl[__webkitAssign__template] = null;
           }
         });
       };
@@ -24327,7 +24327,7 @@ var ngListDirective = function() {
       });
 
       // Override the standard $isEmpty because an empty array means the input is empty.
-      ctrl.$isEmpty = function(value) {
+      ctrl[__webkitAssign__$isEmpty] = function(value) {
         return !value || !value.length;
       };
     }
@@ -24553,24 +24553,24 @@ is set to `true`. The parse error is stored in `ngModel.$error.parse`.
  */
 var NgModelController = ['$scope', '$exceptionHandler', '$attrs', '$element', '$parse', '$animate', '$timeout', '$rootScope', '$q', '$interpolate',
     function($scope, $exceptionHandler, $attr, $element, $parse, $animate, $timeout, $rootScope, $q, $interpolate) {
-  this.$viewValue = Number.NaN;
-  this.$modelValue = Number.NaN;
-  this.$$rawModelValue = undefined; // stores the parsed modelValue / model set from scope regardless of validity.
-  this.$validators = {};
-  this.$asyncValidators = {};
-  this.$parsers = [];
-  this.$formatters = [];
-  this.$viewChangeListeners = [];
-  this.$untouched = true;
-  this.$touched = false;
-  this.$pristine = true;
-  this.$dirty = false;
-  this.$valid = true;
-  this.$invalid = false;
-  this.$error = {}; // keep invalid keys here
-  this.$$success = {}; // keep valid keys here
-  this.$pending = undefined; // keep pending keys here
-  this.$name = $interpolate($attr.name || '', false)($scope);
+  this[__webkitAssign__$viewValue] = Number.NaN;
+  this[__webkitAssign__$modelValue] = Number.NaN;
+  this[__webkitAssign__$$rawModelValue] = undefined; // stores the parsed modelValue / model set from scope regardless of validity.
+  this[__webkitAssign__$validators] = {};
+  this[__webkitAssign__$asyncValidators] = {};
+  this[__webkitAssign__$parsers] = [];
+  this[__webkitAssign__$formatters] = [];
+  this[__webkitAssign__$viewChangeListeners] = [];
+  this[__webkitAssign__$untouched] = true;
+  this[__webkitAssign__$touched] = false;
+  this[__webkitAssign__$pristine] = true;
+  this[__webkitAssign__$dirty] = false;
+  this[__webkitAssign__$valid] = true;
+  this[__webkitAssign__$invalid] = false;
+  this[__webkitAssign__$error] = {}; // keep invalid keys here
+  this[__webkitAssign__$$success] = {}; // keep valid keys here
+  this[__webkitAssign__$pending] = undefined; // keep pending keys here
+  this[__webkitAssign__$name] = $interpolate($attr.name || '', false)($scope);
 
 
   var parsedNgModel = $parse($attr.ngModel),
@@ -24581,8 +24581,8 @@ var NgModelController = ['$scope', '$exceptionHandler', '$attrs', '$element', '$
       parserValid,
       ctrl = this;
 
-  this.$$setOptions = function(options) {
-    ctrl.$options = options;
+  this[__webkitAssign__$$setOptions] = function(options) {
+    ctrl[__webkitAssign__$options] = options;
     if (options && options.getterSetter) {
       var invokeModelGetter = $parse($attr.ngModel + '()'),
           invokeModelSetter = $parse($attr.ngModel + '($$$p)');
@@ -24627,7 +24627,7 @@ var NgModelController = ['$scope', '$exceptionHandler', '$attrs', '$element', '$
    * or `$viewValue` are objects (rather than a string or number) then `$render()` will not be
    * invoked if you only change a property on the objects.
    */
-  this.$render = noop;
+  this[__webkitAssign__$render] = noop;
 
   /**
    * @ngdoc method
@@ -24647,7 +24647,7 @@ var NgModelController = ['$scope', '$exceptionHandler', '$attrs', '$element', '$
    * @param {*} value The value of the input to check for emptiness.
    * @returns {boolean} True if `value` is "empty".
    */
-  this.$isEmpty = function(value) {
+  this[__webkitAssign__$isEmpty] = function(value) {
     return isUndefined(value) || value === '' || value === null || value !== value;
   };
 
@@ -24700,9 +24700,9 @@ var NgModelController = ['$scope', '$exceptionHandler', '$attrs', '$element', '$
    * state (`ng-pristine` class). A model is considered to be pristine when the control
    * has not been changed from when first compiled.
    */
-  this.$setPristine = function() {
-    ctrl.$dirty = false;
-    ctrl.$pristine = true;
+  this[__webkitAssign__$setPristine] = function() {
+    ctrl[__webkitAssign__$dirty] = false;
+    ctrl[__webkitAssign__$pristine] = true;
     $animate.removeClass($element, DIRTY_CLASS);
     $animate.addClass($element, PRISTINE_CLASS);
   };
@@ -24718,9 +24718,9 @@ var NgModelController = ['$scope', '$exceptionHandler', '$attrs', '$element', '$
    * state (`ng-dirty` class). A model is considered to be dirty when the control has been changed
    * from when first compiled.
    */
-  this.$setDirty = function() {
-    ctrl.$dirty = true;
-    ctrl.$pristine = false;
+  this[__webkitAssign__$setDirty] = function() {
+    ctrl[__webkitAssign__$dirty] = true;
+    ctrl[__webkitAssign__$pristine] = false;
     $animate.removeClass($element, PRISTINE_CLASS);
     $animate.addClass($element, DIRTY_CLASS);
     parentForm.$setDirty();
@@ -24738,9 +24738,9 @@ var NgModelController = ['$scope', '$exceptionHandler', '$attrs', '$element', '$
    * by default, however this function can be used to restore that state if the model has
    * already been touched by the user.
    */
-  this.$setUntouched = function() {
-    ctrl.$touched = false;
-    ctrl.$untouched = true;
+  this[__webkitAssign__$setUntouched] = function() {
+    ctrl[__webkitAssign__$touched] = false;
+    ctrl[__webkitAssign__$untouched] = true;
     $animate.setClass($element, UNTOUCHED_CLASS, TOUCHED_CLASS);
   };
 
@@ -24755,9 +24755,9 @@ var NgModelController = ['$scope', '$exceptionHandler', '$attrs', '$element', '$
    * touched state (`ng-touched` class). A model is considered to be touched when the user has
    * first focused the control element and then shifted focus away from the control (blur event).
    */
-  this.$setTouched = function() {
-    ctrl.$touched = true;
-    ctrl.$untouched = false;
+  this[__webkitAssign__$setTouched] = function() {
+    ctrl[__webkitAssign__$touched] = true;
+    ctrl[__webkitAssign__$untouched] = false;
     $animate.setClass($element, TOUCHED_CLASS, UNTOUCHED_CLASS);
   };
 
@@ -24822,9 +24822,9 @@ var NgModelController = ['$scope', '$exceptionHandler', '$attrs', '$element', '$
    *   </file>
    * </example>
    */
-  this.$rollbackViewValue = function() {
+  this[__webkitAssign__$rollbackViewValue] = function() {
     $timeout.cancel(pendingDebounce);
-    ctrl.$viewValue = ctrl.$$lastCommittedViewValue;
+    ctrl[__webkitAssign__$viewValue] = ctrl.$$lastCommittedViewValue;
     ctrl.$render();
   };
 
@@ -24840,7 +24840,7 @@ var NgModelController = ['$scope', '$exceptionHandler', '$attrs', '$element', '$
    * If the validity changes to valid, it will set the model to the last available valid
    * `$modelValue`, i.e. either the last parsed value or the last value set from the scope.
    */
-  this.$validate = function() {
+  this[__webkitAssign__$validate] = function() {
     // ignore $validate before model is initialized
     if (isNumber(ctrl.$modelValue) && isNaN(ctrl.$modelValue)) {
       return;
@@ -24866,7 +24866,7 @@ var NgModelController = ['$scope', '$exceptionHandler', '$attrs', '$element', '$
         // external validators (e.g. calculated on the server),
         // that just call $setValidity and need the model value
         // to calculate their validity.
-        ctrl.$modelValue = allValid ? modelValue : undefined;
+        ctrl[__webkitAssign__$modelValue] = allValid ? modelValue : undefined;
 
         if (ctrl.$modelValue !== prevModelValue) {
           ctrl.$$writeModelToScope();
@@ -24876,7 +24876,7 @@ var NgModelController = ['$scope', '$exceptionHandler', '$attrs', '$element', '$
 
   };
 
-  this.$$runValidators = function(modelValue, viewValue, doneCallback) {
+  this[__webkitAssign__$$runValidators] = function(modelValue, viewValue, doneCallback) {
     currentValidationRunId++;
     var localValidationRunId = currentValidationRunId;
 
@@ -24978,7 +24978,7 @@ var NgModelController = ['$scope', '$exceptionHandler', '$attrs', '$element', '$
    * event defined in `ng-model-options`. this method is rarely needed as `NgModelController`
    * usually handles calling this in response to input events.
    */
-  this.$commitViewValue = function() {
+  this[__webkitAssign__$commitViewValue] = function() {
     var viewValue = ctrl.$viewValue;
 
     $timeout.cancel(pendingDebounce);
@@ -24989,7 +24989,7 @@ var NgModelController = ['$scope', '$exceptionHandler', '$attrs', '$element', '$
     if (ctrl.$$lastCommittedViewValue === viewValue && (viewValue !== '' || !ctrl.$$hasNativeValidators)) {
       return;
     }
-    ctrl.$$lastCommittedViewValue = viewValue;
+    ctrl[__webkitAssign__$$lastCommittedViewValue] = viewValue;
 
     // change to dirty
     if (ctrl.$pristine) {
@@ -24998,7 +24998,7 @@ var NgModelController = ['$scope', '$exceptionHandler', '$attrs', '$element', '$
     this.$$parseAndValidate();
   };
 
-  this.$$parseAndValidate = function() {
+  this[__webkitAssign__$$parseAndValidate] = function() {
     var viewValue = ctrl.$$lastCommittedViewValue;
     var modelValue = viewValue;
     parserValid = isUndefined(modelValue) ? undefined : true;
@@ -25014,14 +25014,14 @@ var NgModelController = ['$scope', '$exceptionHandler', '$attrs', '$element', '$
     }
     if (isNumber(ctrl.$modelValue) && isNaN(ctrl.$modelValue)) {
       // ctrl.$modelValue has not been touched yet...
-      ctrl.$modelValue = ngModelGet($scope);
+      ctrl[__webkitAssign__$modelValue] = ngModelGet($scope);
     }
     var prevModelValue = ctrl.$modelValue;
     var allowInvalid = ctrl.$options && ctrl.$options.allowInvalid;
-    ctrl.$$rawModelValue = modelValue;
+    ctrl[__webkitAssign__$$rawModelValue] = modelValue;
 
     if (allowInvalid) {
-      ctrl.$modelValue = modelValue;
+      ctrl[__webkitAssign__$modelValue] = modelValue;
       writeToModelIfNeeded();
     }
 
@@ -25033,7 +25033,7 @@ var NgModelController = ['$scope', '$exceptionHandler', '$attrs', '$element', '$
         // external validators (e.g. calculated on the server),
         // that just call $setValidity and need the model value
         // to calculate their validity.
-        ctrl.$modelValue = allValid ? modelValue : undefined;
+        ctrl[__webkitAssign__$modelValue] = allValid ? modelValue : undefined;
         writeToModelIfNeeded();
       }
     });
@@ -25045,7 +25045,7 @@ var NgModelController = ['$scope', '$exceptionHandler', '$attrs', '$element', '$
     }
   };
 
-  this.$$writeModelToScope = function() {
+  this[__webkitAssign__$$writeModelToScope] = function() {
     ngModelSet($scope, ctrl.$modelValue);
     forEach(ctrl.$viewChangeListeners, function(listener) {
       try {
@@ -25096,14 +25096,14 @@ var NgModelController = ['$scope', '$exceptionHandler', '$attrs', '$element', '$
    * @param {string} value Value from the view.
    * @param {string} trigger Event that triggered the update.
    */
-  this.$setViewValue = function(value, trigger) {
-    ctrl.$viewValue = value;
+  this[__webkitAssign__$setViewValue] = function(value, trigger) {
+    ctrl[__webkitAssign__$viewValue] = value;
     if (!ctrl.$options || ctrl.$options.updateOnDefault) {
       ctrl.$$debounceViewValueCommit(trigger);
     }
   };
 
-  this.$$debounceViewValueCommit = function(trigger) {
+  this[__webkitAssign__$$debounceViewValueCommit] = function(trigger) {
     var debounceDelay = 0,
         options = ctrl.$options,
         debounce;
@@ -25150,7 +25150,7 @@ var NgModelController = ['$scope', '$exceptionHandler', '$attrs', '$element', '$
        // checks for NaN is needed to allow setting the model to NaN when there's an asyncValidator
        (ctrl.$modelValue === ctrl.$modelValue || modelValue === modelValue)
     ) {
-      ctrl.$modelValue = ctrl.$$rawModelValue = modelValue;
+      ctrl[__webkitAssign__$modelValue] = ctrl[__webkitAssign__$$rawModelValue] = modelValue;
       parserValid = undefined;
 
       var formatters = ctrl.$formatters,
@@ -25161,7 +25161,7 @@ var NgModelController = ['$scope', '$exceptionHandler', '$attrs', '$element', '$
         viewValue = formatters[idx](viewValue);
       }
       if (ctrl.$viewValue !== viewValue) {
-        ctrl.$viewValue = ctrl.$$lastCommittedViewValue = viewValue;
+        ctrl[__webkitAssign__$viewValue] = ctrl[__webkitAssign__$$lastCommittedViewValue] = viewValue;
         ctrl.$render();
 
         ctrl.$$runValidators(modelValue, viewValue, noop);
@@ -25564,17 +25564,17 @@ var ngModelOptionsDirective = function() {
     restrict: 'A',
     controller: ['$scope', '$attrs', function($scope, $attrs) {
       var that = this;
-      this.$options = copy($scope.$eval($attrs.ngModelOptions));
+      this[__webkitAssign__$options] = copy($scope.$eval($attrs.ngModelOptions));
       // Allow adding/overriding bound events
       if (this.$options.updateOn !== undefined) {
-        this.$options.updateOnDefault = false;
+        this.$options[__webkitAssign__updateOnDefault] = false;
         // extract "default" pseudo-event from list of events that can trigger a model update
-        this.$options.updateOn = trim(this.$options.updateOn.replace(DEFAULT_REGEXP, function() {
-          that.$options.updateOnDefault = true;
+        this.$options[__webkitAssign__updateOn] = trim(this.$options.updateOn.replace(DEFAULT_REGEXP, function() {
+          that.$options[__webkitAssign__updateOnDefault] = true;
           return ' ';
         }));
       } else {
-        this.$options.updateOnDefault = true;
+        this.$options[__webkitAssign__updateOnDefault] = true;
       }
     }]
   };
@@ -25594,7 +25594,7 @@ function addSetValidityMethod(context) {
 
   classCache[INVALID_CLASS] = !(classCache[VALID_CLASS] = $element.hasClass(VALID_CLASS));
 
-  ctrl.$setValidity = setValidity;
+  ctrl[__webkitAssign__$setValidity] = setValidity;
 
   function setValidity(validationErrorKey, state, controller) {
     if (state === undefined) {
@@ -25616,12 +25616,12 @@ function addSetValidityMethod(context) {
     }
     if (ctrl.$pending) {
       cachedToggleClass(PENDING_CLASS, true);
-      ctrl.$valid = ctrl.$invalid = undefined;
+      ctrl[__webkitAssign__$valid] = ctrl[__webkitAssign__$invalid] = undefined;
       toggleValidationCss('', null);
     } else {
       cachedToggleClass(PENDING_CLASS, false);
-      ctrl.$valid = isObjectEmpty(ctrl.$error);
-      ctrl.$invalid = !ctrl.$valid;
+      ctrl[__webkitAssign__$valid] = isObjectEmpty(ctrl.$error);
+      ctrl[__webkitAssign__$invalid] = !ctrl.$valid;
       toggleValidationCss('', ctrl.$valid);
     }
 
@@ -26008,11 +26008,11 @@ var ngOptionsDirective = ['$compile', '$parse', function($compile, $parse) {
 
 
     function Option(selectValue, viewValue, label, group, disabled) {
-      this.selectValue = selectValue;
-      this.viewValue = viewValue;
-      this.label = label;
-      this.group = group;
-      this.disabled = disabled;
+      this[__webkitAssign__selectValue] = selectValue;
+      this[__webkitAssign__viewValue] = viewValue;
+      this[__webkitAssign__label] = label;
+      this[__webkitAssign__group] = group;
+      this[__webkitAssign__disabled] = disabled;
     }
 
     function getOptionValuesKeys(optionValues) {
@@ -26178,7 +26178,7 @@ var ngOptionsDirective = ['$compile', '$parse', function($compile, $parse) {
       // Update the controller methods for multiple selectable options
       if (!multiple) {
 
-        selectCtrl.writeValue = function writeNgOptionsValue(value) {
+        selectCtrl[__webkitAssign__writeValue] = function writeNgOptionsValue(value) {
           var option = options.getOptionFromViewValue(value);
 
           if (option && !option.disabled) {
@@ -26186,8 +26186,8 @@ var ngOptionsDirective = ['$compile', '$parse', function($compile, $parse) {
               removeUnknownOption();
               removeEmptyOption();
 
-              selectElement[0].value = option.selectValue;
-              option.element.selected = true;
+              selectElement[0][__webkitAssign__value] = option.selectValue;
+              option.element[__webkitAssign__selected] = true;
               option.element.setAttribute('selected', 'selected');
             }
           } else {
@@ -26201,7 +26201,7 @@ var ngOptionsDirective = ['$compile', '$parse', function($compile, $parse) {
           }
         };
 
-        selectCtrl.readValue = function readNgOptionsValue() {
+        selectCtrl[__webkitAssign__readValue] = function readNgOptionsValue() {
 
           var selectedOption = options.selectValueMap[selectElement.val()];
 
@@ -26224,26 +26224,26 @@ var ngOptionsDirective = ['$compile', '$parse', function($compile, $parse) {
 
       } else {
 
-        ngModelCtrl.$isEmpty = function(value) {
+        ngModelCtrl[__webkitAssign__$isEmpty] = function(value) {
           return !value || value.length === 0;
         };
 
 
-        selectCtrl.writeValue = function writeNgOptionsMultiple(value) {
+        selectCtrl[__webkitAssign__writeValue] = function writeNgOptionsMultiple(value) {
           options.items.forEach(function(option) {
-            option.element.selected = false;
+            option.element[__webkitAssign__selected] = false;
           });
 
           if (value) {
             value.forEach(function(item) {
               var option = options.getOptionFromViewValue(item);
-              if (option && !option.disabled) option.element.selected = true;
+              if (option && !option.disabled) option.element[__webkitAssign__selected] = true;
             });
           }
         };
 
 
-        selectCtrl.readValue = function readNgOptionsMultiple() {
+        selectCtrl[__webkitAssign__readValue] = function readNgOptionsMultiple() {
           var selectedValues = selectElement.val() || [],
               selections = [];
 
@@ -26300,12 +26300,12 @@ var ngOptionsDirective = ['$compile', '$parse', function($compile, $parse) {
 
 
       function updateOptionElement(option, element) {
-        option.element = element;
-        element.disabled = option.disabled;
-        if (option.value !== element.value) element.value = option.selectValue;
+        option[__webkitAssign__element] = element;
+        element[__webkitAssign__disabled] = option.disabled;
+        if (option.value !== element.value) element[__webkitAssign__value] = option.selectValue;
         if (option.label !== element.label) {
-          element.label = option.label;
-          element.textContent = option.label;
+          element[__webkitAssign__label] = option.label;
+          element[__webkitAssign__textContent] = option.label;
         }
       }
 
@@ -26393,7 +26393,7 @@ var ngOptionsDirective = ['$compile', '$parse', function($compile, $parse) {
               currentElement = groupElement.nextSibling;
 
               // Update the label on the group element
-              groupElement.label = option.group;
+              groupElement[__webkitAssign__label] = option.group;
 
               // Store it for use later
               group = groupMap[option.group] = {
@@ -26410,7 +26410,7 @@ var ngOptionsDirective = ['$compile', '$parse', function($compile, $parse) {
                                               optionTemplate);
             updateOptionElement(option, optionElement);
             // Move to the next element
-            group.currentOptionElement = optionElement.nextSibling;
+            group[__webkitAssign__currentOptionElement] = optionElement.nextSibling;
 
           } else {
 
@@ -26994,12 +26994,12 @@ var ngRepeatDirective = ['$parse', '$animate', function($parse, $animate) {
     // TODO(perf): generate setters to shave off ~40ms or 1-1.5%
     scope[valueIdentifier] = value;
     if (keyIdentifier) scope[keyIdentifier] = key;
-    scope.$index = index;
-    scope.$first = (index === 0);
-    scope.$last = (index === (arrayLength - 1));
-    scope.$middle = !(scope.$first || scope.$last);
+    scope[__webkitAssign__$index] = index;
+    scope[__webkitAssign__$first] = (index === 0);
+    scope[__webkitAssign__$last] = (index === (arrayLength - 1));
+    scope[__webkitAssign__$middle] = !(scope.$first || scope.$last);
     // jshint bitwise: false
-    scope.$odd = !(scope.$even = (index&1) === 0);
+    scope[__webkitAssign__$odd] = !(scope[__webkitAssign__$even] = (index&1) === 0);
     // jshint bitwise: true
   };
 
@@ -27071,7 +27071,7 @@ var ngRepeatDirective = ['$parse', '$animate', function($parse, $animate) {
             // assign key, value, and $index to the locals so that they can be used in hash functions
             if (keyIdentifier) hashFnLocals[keyIdentifier] = key;
             hashFnLocals[valueIdentifier] = value;
-            hashFnLocals.$index = index;
+            hashFnLocals[__webkitAssign__$index] = index;
             return trackByExpGetter($scope, hashFnLocals);
           };
         }
@@ -27192,7 +27192,7 @@ var ngRepeatDirective = ['$parse', '$animate', function($parse, $animate) {
             } else {
               // new item which we don't know about
               $transclude(function ngRepeatTransclude(clone, scope) {
-                block.scope = scope;
+                block[__webkitAssign__scope] = scope;
                 // http://jsperf.com/clone-vs-createcomment
                 var endNode = ngRepeatEndComment.cloneNode(false);
                 clone[clone.length++] = endNode;
@@ -27203,7 +27203,7 @@ var ngRepeatDirective = ['$parse', '$animate', function($parse, $animate) {
                 // Note: We only need the first/last node of the cloned nodes.
                 // However, we need to keep the reference to the jqlite wrapper as it might be changed later
                 // by a directive with templateUrl when its template arrives.
-                block.clone = clone;
+                block[__webkitAssign__clone] = clone;
                 nextBlockMap[block.id] = block;
                 updateScope(block.scope, index, valueIdentifier, value, keyIdentifier, key, collectionLength);
               });
@@ -27742,7 +27742,7 @@ var ngSwitchDirective = ['$animate', function($animate) {
 
     // asks for $scope to fool the BC controller module
     controller: ['$scope', function ngSwitchController() {
-     this.cases = {};
+     this[__webkitAssign__cases] = {};
     }],
     link: function(scope, element, attr, ngSwitchController) {
       var watchExpr = attr.ngSwitch || attr.on,
@@ -27760,7 +27760,7 @@ var ngSwitchDirective = ['$animate', function($animate) {
         for (i = 0, ii = previousLeaveAnimations.length; i < ii; ++i) {
           $animate.cancel(previousLeaveAnimations[i]);
         }
-        previousLeaveAnimations.length = 0;
+        previousLeaveAnimations[__webkitAssign__length] = 0;
 
         for (i = 0, ii = selectedScopes.length; i < ii; ++i) {
           var selected = getBlockNodes(selectedElements[i].clone);
@@ -27769,8 +27769,8 @@ var ngSwitchDirective = ['$animate', function($animate) {
           promise.then(spliceFactory(previousLeaveAnimations, i));
         }
 
-        selectedElements.length = 0;
-        selectedScopes.length = 0;
+        selectedElements[__webkitAssign__length] = 0;
+        selectedScopes[__webkitAssign__length] = 0;
 
         if ((selectedTranscludes = ngSwitchController.cases['!' + value] || ngSwitchController.cases['?'])) {
           forEach(selectedTranscludes, function(selectedTransclude) {
@@ -27949,7 +27949,7 @@ var SelectController =
       optionsMap = new HashMap();
 
   // If the ngModel doesn't get provided then provide a dummy noop version to prevent errors
-  self.ngModelCtrl = noopNgModelController;
+  self[__webkitAssign__ngModelCtrl] = noopNgModelController;
 
   // The "unknown" option is one that is prepended to the list if the viewValue
   // does not match any of the options. When it is rendered the value of the unknown
@@ -27957,8 +27957,8 @@ var SelectController =
   //
   // We can't just jqLite('<option>') since jqLite is not smart enough
   // to create it in <select> and IE barfs otherwise.
-  self.unknownOption = jqLite(document.createElement('option'));
-  self.renderUnknownOption = function(val) {
+  self[__webkitAssign__unknownOption] = jqLite(document.createElement('option'));
+  self[__webkitAssign__renderUnknownOption] = function(val) {
     var unknownVal = '? ' + hashKey(val) + ' ?';
     self.unknownOption.val(unknownVal);
     $element.prepend(self.unknownOption);
@@ -27967,17 +27967,17 @@ var SelectController =
 
   $scope.$on('$destroy', function() {
     // disable unknown option so that we don't do work when the whole select is being destroyed
-    self.renderUnknownOption = noop;
+    self[__webkitAssign__renderUnknownOption] = noop;
   });
 
-  self.removeUnknownOption = function() {
+  self[__webkitAssign__removeUnknownOption] = function() {
     if (self.unknownOption.parent()) self.unknownOption.remove();
   };
 
 
   // Read the value of the select control, the implementation of this changes depending
   // upon whether the select can have multiple values and whether ngOptions is at work.
-  self.readValue = function readSingleValue() {
+  self[__webkitAssign__readValue] = function readSingleValue() {
     self.removeUnknownOption();
     return $element.val();
   };
@@ -27985,7 +27985,7 @@ var SelectController =
 
   // Write the value to the select control, the implementation of this changes depending
   // upon whether the select can have multiple values and whether ngOptions is at work.
-  self.writeValue = function writeSingleValue(value) {
+  self[__webkitAssign__writeValue] = function writeSingleValue(value) {
     if (self.hasOption(value)) {
       self.removeUnknownOption();
       $element.val(value);
@@ -28002,23 +28002,23 @@ var SelectController =
 
 
   // Tell the select control that an option, with the given value, has been added
-  self.addOption = function(value, element) {
+  self[__webkitAssign__addOption] = function(value, element) {
     assertNotHasOwnProperty(value, '"option value"');
     if (value === '') {
-      self.emptyOption = element;
+      self[__webkitAssign__emptyOption] = element;
     }
     var count = optionsMap.get(value) || 0;
     optionsMap.put(value, count + 1);
   };
 
   // Tell the select control that an option, with the given value, has been removed
-  self.removeOption = function(value) {
+  self[__webkitAssign__removeOption] = function(value) {
     var count = optionsMap.get(value);
     if (count) {
       if (count === 1) {
         optionsMap.remove(value);
         if (value === '') {
-          self.emptyOption = undefined;
+          self[__webkitAssign__emptyOption] = undefined;
         }
       } else {
         optionsMap.put(value, count - 1);
@@ -28027,7 +28027,7 @@ var SelectController =
   };
 
   // Check whether the select control has an option matching the given value
-  self.hasOption = function(value) {
+  self[__webkitAssign__hasOption] = function(value) {
     return !!optionsMap.get(value);
   };
 }];
@@ -28117,12 +28117,12 @@ var selectDirective = function() {
 
       var selectCtrl = ctrls[0];
 
-      selectCtrl.ngModelCtrl = ngModelCtrl;
+      selectCtrl[__webkitAssign__ngModelCtrl] = ngModelCtrl;
 
       // We delegate rendering to the `writeValue` method, which can be changed
       // if the select can have multiple selected values or if the options are being
       // generated by `ngOptions`
-      ngModelCtrl.$render = function() {
+      ngModelCtrl[__webkitAssign__$render] = function() {
         selectCtrl.writeValue(ngModelCtrl.$viewValue);
       };
 
@@ -28142,7 +28142,7 @@ var selectDirective = function() {
       if (attr.multiple) {
 
         // Read value now needs to check each option to see if it is selected
-        selectCtrl.readValue = function readMultipleValue() {
+        selectCtrl[__webkitAssign__readValue] = function readMultipleValue() {
           var array = [];
           forEach(element.find('option'), function(option) {
             if (option.selected) {
@@ -28153,10 +28153,10 @@ var selectDirective = function() {
         };
 
         // Write value now needs to set the selected property of each matching option
-        selectCtrl.writeValue = function writeMultipleValue(value) {
+        selectCtrl[__webkitAssign__writeValue] = function writeMultipleValue(value) {
           var items = new HashMap(value);
           forEach(element.find('option'), function(option) {
-            option.selected = isDefined(items.get(option.value));
+            option[__webkitAssign__selected] = isDefined(items.get(option.value));
           });
         };
 
@@ -28173,7 +28173,7 @@ var selectDirective = function() {
 
         // If we are a multiple select then value is now a collection
         // so the meaning of $isEmpty changes
-        ngModelCtrl.$isEmpty = function(value) {
+        ngModelCtrl[__webkitAssign__$isEmpty] = function(value) {
           return !value || value.length === 0;
         };
 
@@ -28193,7 +28193,7 @@ var optionDirective = ['$interpolate', function($interpolate) {
     // Adding an <option selected="selected"> element to a <select required="required"> should
     // automatically select the new element
     if (optionElement[0].hasAttribute('selected')) {
-      optionElement[0].selected = true;
+      optionElement[0][__webkitAssign__selected] = true;
     }
   }
 
@@ -28261,9 +28261,9 @@ var requiredDirective = function() {
     require: '?ngModel',
     link: function(scope, elm, attr, ctrl) {
       if (!ctrl) return;
-      attr.required = true; // force truthy in case we are on non input element
+      attr[__webkitAssign__required] = true; // force truthy in case we are on non input element
 
-      ctrl.$validators.required = function(modelValue, viewValue) {
+      ctrl.$validators[__webkitAssign__required] = function(modelValue, viewValue) {
         return !attr.required || !ctrl.$isEmpty(viewValue);
       };
 
@@ -28298,7 +28298,7 @@ var patternDirective = function() {
         ctrl.$validate();
       });
 
-      ctrl.$validators.pattern = function(value) {
+      ctrl.$validators[__webkitAssign__pattern] = function(value) {
         return ctrl.$isEmpty(value) || isUndefined(regexp) || regexp.test(value);
       };
     }
@@ -28319,7 +28319,7 @@ var maxlengthDirective = function() {
         maxlength = isNaN(intVal) ? -1 : intVal;
         ctrl.$validate();
       });
-      ctrl.$validators.maxlength = function(modelValue, viewValue) {
+      ctrl.$validators[__webkitAssign__maxlength] = function(modelValue, viewValue) {
         return (maxlength < 0) || ctrl.$isEmpty(viewValue) || (viewValue.length <= maxlength);
       };
     }
@@ -28338,7 +28338,7 @@ var minlengthDirective = function() {
         minlength = toInt(value) || 0;
         ctrl.$validate();
       });
-      ctrl.$validators.minlength = function(modelValue, viewValue) {
+      ctrl.$validators[__webkitAssign__minlength] = function(modelValue, viewValue) {
         return ctrl.$isEmpty(viewValue) || viewValue.length >= minlength;
       };
     }
