@@ -11454,7 +11454,15 @@ function LocationHashbangUrl(appBase, hashPrefix) {
    */
   this[__webkitAssign__$$compose] = function() {
     var search = toKeyValue(this.$$search),
-        hash = this.$$hash ? '#' + encodeUriSegment(this.$$hash) : '';
+        // In our epub file viewer, we sometimes append a #epubcfi() hash to the
+        // existing hash. Angular encodes the hash asynchronously, which is ugly
+        // and distracting. So patch it to not do that.
+        //
+        // We have to do this as a source-level patch (as opposed to only in the
+        // epub viewer, or by using $provide.decorator) so we can catch *all*
+        // incoming urls, including the one you use to navigate to our
+        // application initially, which we otherwise miss.
+        hash = this.$$hash ? '#' + (/^epubcfi\(.*?\)$/.test(this.$$hash) ? this.$$hash : encodeUriSegment(this.$$hash)) : '';
 
     this[__webkitAssign__$$url] = encodePath(this.$$path) + (search ? '?' + search : '') + hash;
     this[__webkitAssign__$$absUrl] = appBase + (this.$$url ? hashPrefix + this.$$url : '');
